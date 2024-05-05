@@ -1,0 +1,1501 @@
+Order ID,Unit Price,Production Charges,Amount,Profit,Profit Percentage,Profit and Loss,Quantity,Product Standard,Category,Sub-Category,PaymentMode
+B-25681,156.57,438,1096,658,60.04%,Profit,7,Low Cost Product,Electronics,Electronic Games,COD
+B-26055,409.21,5665,5729,64,1.12%,Profit,14,Mid Cost Product,Furniture,Chairs,EMI
+B-25955,365.88,2781,2927,146,4.99%,Profit,8,Mid Cost Product,Furniture,Bookcases,EMI
+B-26093,355.88,2135,2847,712,25.01%,Profit,8,Mid Cost Product,Electronics,Printers,Credit Card
+B-25602,654.25,1466,2617,1151,43.98%,Profit,4,Mid Cost Product,Electronics,Phones,Credit Card
+B-25881,561,1997,2244,247,11.01%,Profit,4,Mid Cost Product,Clothing,Trousers,Credit Card
+B-25696,68.75,550,275,-275,-100.00%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25687,77.4,600,387,-213,-55.04%,Loss,5,Low Cost Product,Clothing,Saree,UPI
+B-25643,25,94,50,-44,-88.00%,Loss,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25851,27,189,135,-54,-40.00%,Loss,5,Low Cost Product,Clothing,Kurti,COD
+B-25703,25.67,421,231,-190,-82.25%,Loss,9,Low Cost Product,Clothing,Hankerchief,COD
+B-25887,354.17,2359,2125,-234,-11.01%,Loss,6,Mid Cost Product,Electronics,Printers,EMI
+B-25923,645.5,4764,3873,-891,-23.01%,Loss,6,Mid Cost Product,Electronics,Phones,Credit Card
+B-25756,145.8,1221,729,-492,-67.49%,Loss,5,Low Cost Product,Furniture,Bookcases,UPI
+B-25761,437.6,1138,2188,1050,47.99%,Profit,5,Mid Cost Product,Furniture,Bookcases,Credit Card
+B-25655,6,9,6,-3,-50.00%,Loss,1,Low Cost Product,Clothing,Hankerchief,UPI
+B-25786,370.8,1421,1854,433,23.35%,Profit,5,Mid Cost Product,Furniture,Bookcases,Credit Card
+B-26095,6,5,6,1,16.67%,Profit,1,Low Cost Product,Clothing,Kurti,UPI
+B-25853,418.6,1372,2093,721,34.45%,Profit,5,Mid Cost Product,Furniture,Chairs,Credit Card
+B-25735,3.5,8,7,-1,-14.29%,Loss,2,Low Cost Product,Clothing,Skirt,UPI
+B-25910,324.4,2246,1622,-624,-38.47%,Loss,5,Low Cost Product,Furniture,Tables,Credit Card
+B-25950,324.4,1527,1622,95,5.86%,Profit,5,Low Cost Product,Electronics,Printers,Credit Card
+B-25744,62.17,119,373,254,68.10%,Profit,6,Low Cost Product,Electronics,Printers,UPI
+B-25845,20.5,115,82,-33,-40.24%,Loss,4,Low Cost Product,Clothing,Kurti,COD
+B-26001,4,6,8,2,25.00%,Profit,2,Low Cost Product,Clothing,Skirt,UPI
+B-25830,651.33,1172,1954,782,40.02%,Profit,3,Mid Cost Product,Electronics,Phones,Credit Card
+B-25842,192.88,1173,1543,370,23.98%,Profit,8,Low Cost Product,Electronics,Printers,Credit Card
+B-25778,251,1772,1506,-266,-17.66%,Loss,6,Low Cost Product,Electronics,Printers,Credit Card
+B-25686,304.83,1885,1829,-56,-3.06%,Loss,6,Low Cost Product,Furniture,Tables,Credit Card
+B-25754,3,10,9,-1,-11.11%,Loss,3,Low Cost Product,Clothing,Skirt,UPI
+B-26048,292.2,1259,1461,202,13.83%,Profit,5,Low Cost Product,Furniture,Tables,EMI
+B-25816,48.88,278,391,113,28.90%,Profit,8,Low Cost Product,Clothing,Stole,COD
+B-26022,228,521,1824,1303,71.44%,Profit,8,Low Cost Product,Electronics,Phones,Credit Card
+B-25883,4,31,16,-15,-93.75%,Loss,4,Low Cost Product,Clothing,Hankerchief,UPI
+B-26003,872.5,1623,1745,122,6.99%,Profit,2,High Cost Product,Furniture,Tables,Credit Card
+B-26097,132.6,875,663,-212,-31.98%,Loss,5,Low Cost Product,Electronics,Printers,UPI
+B-25710,10,11,10,-1,-10.00%,Loss,1,Low Cost Product,Clothing,Leggings,UPI
+B-25797,326,828,1630,802,49.20%,Profit,5,Low Cost Product,Furniture,Tables,EMI
+B-25618,6,12,12,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25723,6,19,12,-7,-58.33%,Loss,2,Low Cost Product,Clothing,Leggings,UPI
+B-25755,569.67,1145,1709,564,33.00%,Profit,3,Mid Cost Product,Clothing,Trousers,Credit Card
+B-25788,12,9,12,3,25.00%,Profit,1,Low Cost Product,Clothing,Stole,UPI
+B-25681,541.67,1702,1625,-77,-4.74%,Loss,3,Mid Cost Product,Electronics,Phones,EMI
+B-25991,6.5,8,13,5,38.46%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25779,453.67,381,1361,980,72.01%,Profit,3,Mid Cost Product,Furniture,Tables,COD
+B-25909,540.67,2070,1622,-448,-27.62%,Loss,3,Mid Cost Product,Electronics,Phones,EMI
+B-25943,257.83,1207,1547,340,21.98%,Profit,6,Low Cost Product,Electronics,Accessories,EMI
+B-25935,414.25,1197,1657,460,27.76%,Profit,4,Mid Cost Product,Furniture,Chairs,Credit Card
+B-25613,178.11,1603,1603,0,0.00%,Breakeven Point,9,Low Cost Product,Clothing,Saree,Credit Card
+B-25729,387.25,1988,1549,-439,-28.34%,Loss,4,Mid Cost Product,Electronics,Phones,Credit Card
+B-25772,295.75,1077,1183,106,8.96%,Profit,4,Low Cost Product,Electronics,Printers,EMI
+B-25655,9.25,197,74,-123,-166.22%,Loss,8,Low Cost Product,Clothing,Skirt,UPI
+B-25640,115.31,1260,1499,239,15.94%,Profit,13,Low Cost Product,Clothing,Saree,Credit Card
+B-25810,186.67,921,1120,199,17.77%,Profit,6,Low Cost Product,Clothing,Saree,EMI
+B-25801,15,17,15,-2,-13.33%,Loss,1,Low Cost Product,Clothing,T-shirt,Debit Card
+B-26085,495.67,863,1487,624,41.96%,Profit,3,Mid Cost Product,Clothing,Trousers,Credit Card
+B-25868,559,912,1118,206,18.43%,Profit,2,Mid Cost Product,Furniture,Tables,Credit Card
+B-25714,5.5,16,11,-5,-45.45%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25784,15,11,15,4,26.67%,Profit,1,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25608,272.8,-500,1364,1864,136.66%,Profit,5,Low Cost Product,Furniture,Tables,Credit Card
+B-26051,191,1190,1337,147,10.99%,Profit,7,Low Cost Product,Electronics,Printers,Credit Card
+B-25900,15,13,15,2,13.33%,Profit,1,Low Cost Product,Clothing,Leggings,Debit Card
+B-25760,64.4,515,322,-193,-59.94%,Loss,5,Low Cost Product,Electronics,Printers,UPI
+B-25762,188,789,1316,527,40.05%,Profit,7,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25995,438,972,1314,342,26.03%,Profit,3,Mid Cost Product,Furniture,Bookcases,Credit Card
+B-25965,5.67,10,17,7,41.18%,Profit,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25967,8.5,15,17,2,11.76%,Profit,2,Low Cost Product,Clothing,Skirt,Debit Card
+B-25674,3.4,29,17,-12,-70.59%,Loss,5,Low Cost Product,Clothing,Skirt,Debit Card
+B-25929,436,772,1308,536,40.98%,Profit,3,Mid Cost Product,Furniture,Bookcases,Credit Card
+B-25777,269,1114,1076,-38,-3.53%,Loss,4,Low Cost Product,Electronics,Printers,Credit Card
+B-26006,260.2,728,1301,573,44.04%,Profit,5,Low Cost Product,Electronics,Accessories,Credit Card
+B-25697,162.5,1316,1300,-16,-1.23%,Loss,8,Low Cost Product,Electronics,Printers,Credit Card
+B-25667,2.75,13,11,-2,-18.18%,Loss,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25836,144.22,1233,1298,65,5.01%,Profit,9,Low Cost Product,Electronics,Printers,EMI
+B-25984,50.67,207,304,97,31.91%,Profit,6,Low Cost Product,Clothing,Stole,UPI
+B-25728,263.75,791,1055,264,25.02%,Profit,4,Low Cost Product,Electronics,Printers,EMI
+B-25757,4.25,30,17,-13,-76.47%,Loss,4,Low Cost Product,Clothing,Skirt,Debit Card
+B-25957,49,74,147,73,49.66%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-26061,321.67,1033,965,-68,-7.05%,Loss,3,Low Cost Product,Electronics,Printers,COD
+B-25735,4,14,12,-2,-16.67%,Loss,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25616,4.67,16,14,-2,-14.29%,Loss,3,Low Cost Product,Clothing,Hankerchief,UPI
+B-25666,133.43,1850,934,-916,-98.07%,Loss,7,Low Cost Product,Electronics,Electronic Games,COD
+B-25675,103.22,1022,929,-93,-10.01%,Loss,9,Low Cost Product,Clothing,Saree,COD
+B-26079,9,15,18,3,16.67%,Profit,2,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25850,83.27,724,916,192,20.96%,Profit,11,Low Cost Product,Electronics,Phones,COD
+B-25693,8.44,148,76,-72,-94.74%,Loss,9,Low Cost Product,Clothing,Hankerchief,COD
+B-25852,217.25,802,869,67,7.71%,Profit,4,Low Cost Product,Furniture,Tables,COD
+B-25860,37.33,88,112,24,21.43%,Profit,3,Low Cost Product,Clothing,Kurti,COD
+B-25853,6.5,23,39,16,41.03%,Profit,6,Low Cost Product,Clothing,Skirt,UPI
+B-25898,428.5,1131,857,-274,-31.97%,Loss,2,Mid Cost Product,Furniture,Tables,COD
+B-26100,414,598,828,230,27.78%,Profit,2,Mid Cost Product,Furniture,Chairs,COD
+B-25653,159.88,1919,1279,-640,-50.04%,Loss,8,Low Cost Product,Electronics,Printers,EMI
+B-25839,178.57,764,1250,486,38.88%,Profit,7,Low Cost Product,Clothing,Saree,EMI
+B-25651,117.57,841,823,-18,-2.19%,Loss,7,Low Cost Product,Furniture,Chairs,COD
+B-25957,128.56,1170,1157,-13,-1.12%,Loss,9,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25704,42,189,126,-63,-50.00%,Loss,3,Low Cost Product,Electronics,Accessories,UPI
+B-25730,381.67,1851,1145,-706,-61.66%,Loss,3,Mid Cost Product,Electronics,Phones,Credit Card
+B-26052,258,604,774,170,21.96%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25656,12,25,24,-1,-4.17%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-26033,258,604,774,170,21.96%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25850,46.5,94,93,-1,-1.08%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25945,255,801,765,-36,-4.71%,Loss,3,Low Cost Product,Electronics,Electronic Games,COD
+B-26086,127,661,762,101,13.25%,Profit,6,Low Cost Product,Electronics,Printers,COD
+B-25752,84.56,495,761,266,34.95%,Profit,9,Low Cost Product,Electronics,Electronic Games,COD
+B-26098,19.2,144,96,-48,-50.00%,Loss,5,Low Cost Product,Clothing,Leggings,UPI
+B-26067,162.43,1151,1137,-14,-1.23%,Loss,7,Low Cost Product,Electronics,Printers,EMI
+B-25730,9,10,18,8,44.44%,Profit,2,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25986,107,1056,749,-307,-40.99%,Loss,7,Low Cost Product,Furniture,Furnishings,COD
+B-26067,186.67,921,1120,199,17.77%,Profit,6,Low Cost Product,Clothing,Saree,EMI
+B-25953,124,625,744,119,15.99%,Profit,6,Low Cost Product,Electronics,Printers,COD
+B-25952,3.5,14,14,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Hankerchief,UPI
+B-25903,9.5,11,19,8,42.11%,Profit,2,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25650,102.4,737,512,-225,-43.95%,Loss,5,Low Cost Product,Clothing,Saree,COD
+B-25970,371,544,742,198,26.68%,Profit,2,Mid Cost Product,Furniture,Bookcases,COD
+B-26062,14.67,84,44,-40,-90.91%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25643,132.63,1097,1061,-36,-3.39%,Loss,8,Low Cost Product,Furniture,Bookcases,EMI
+B-25632,9.5,21,19,-2,-10.53%,Loss,2,Low Cost Product,Clothing,Leggings,Debit Card
+B-25821,17,17,17,0,0.00%,Breakeven Point,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25878,148.2,474,741,267,36.03%,Profit,5,Low Cost Product,Furniture,Bookcases,COD
+B-25752,122.5,970,735,-235,-31.97%,Loss,6,Low Cost Product,Electronics,Printers,COD
+B-25750,19,20,19,-1,-5.26%,Loss,1,Low Cost Product,Clothing,Shirt,Debit Card
+B-25657,255.25,1069,1021,-48,-4.70%,Loss,4,Low Cost Product,Electronics,Electronic Games,EMI
+B-25787,79.43,765,556,-209,-37.59%,Loss,7,Low Cost Product,Clothing,Saree,COD
+B-25808,10.5,80,63,-17,-26.98%,Loss,6,Low Cost Product,Clothing,Leggings,COD
+B-25885,367,486,734,248,33.79%,Profit,2,Mid Cost Product,Furniture,Chairs,COD
+B-25778,186.6,767,933,166,17.79%,Profit,5,Low Cost Product,Clothing,Saree,Credit Card
+B-25759,3.33,29,20,-9,-45.00%,Loss,6,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25747,438.5,482,877,395,45.04%,Profit,2,Mid Cost Product,Furniture,Bookcases,Credit Card
+B-25878,119.83,416,719,303,42.14%,Profit,6,Low Cost Product,Furniture,Chairs,COD
+B-25603,6,11,12,1,8.33%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25691,178.5,658,714,56,7.84%,Profit,4,Low Cost Product,Clothing,Saree,COD
+B-25607,12.5,65,50,-15,-30.00%,Loss,4,Low Cost Product,Clothing,Leggings,COD
+B-25708,141.8,809,709,-100,-14.10%,Loss,5,Low Cost Product,Electronics,Phones,COD
+B-26021,7,33,21,-12,-57.14%,Loss,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25831,115.5,439,693,254,36.65%,Profit,6,Low Cost Product,Clothing,Saree,COD
+B-25850,6,23,24,1,4.17%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25670,12,23,24,1,4.17%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25852,12,23,24,1,4.17%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-26029,21,11,21,10,47.62%,Profit,1,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25959,170.25,422,681,259,38.03%,Profit,4,Low Cost Product,Furniture,Chairs,COD
+B-25676,337,861,674,-187,-27.74%,Loss,2,Mid Cost Product,Furniture,Tables,COD
+B-26097,134.2,980,671,-309,-46.05%,Loss,5,Low Cost Product,Electronics,Electronic Games,COD
+B-25888,215.33,859,646,-213,-32.97%,Loss,3,Low Cost Product,Electronics,Electronic Games,COD
+B-25911,40,25,40,15,37.50%,Profit,1,Low Cost Product,Clothing,Kurti,COD
+B-25662,12,26,24,-2,-8.33%,Loss,2,Low Cost Product,Clothing,T-shirt,COD
+B-25950,322,477,644,167,25.93%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-25847,321.5,418,643,225,34.99%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-25796,105.33,948,632,-316,-50.00%,Loss,6,Low Cost Product,Clothing,Saree,COD
+B-25693,105.33,316,632,316,50.00%,Profit,6,Low Cost Product,Clothing,Saree,COD
+B-25993,203.33,402,610,208,34.10%,Profit,3,Low Cost Product,Electronics,Printers,COD
+B-26052,13,106,78,-28,-35.90%,Loss,6,Low Cost Product,Clothing,Kurti,UPI
+B-25930,148.75,476,595,119,20.00%,Profit,4,Low Cost Product,Furniture,Bookcases,COD
+B-25785,198.33,303,595,292,49.08%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-26093,170.4,801,852,51,5.99%,Profit,5,Low Cost Product,Furniture,Bookcases,Credit Card
+B-26053,198,505,594,89,14.98%,Profit,3,Low Cost Product,Furniture,Bookcases,COD
+B-26019,45,410,585,175,29.91%,Profit,13,Low Cost Product,Clothing,T-shirt,COD
+B-26070,116.4,320,582,262,45.02%,Profit,5,Low Cost Product,Furniture,Furnishings,COD
+B-25870,120.71,761,845,84,9.94%,Profit,7,Low Cost Product,Clothing,Saree,Credit Card
+B-25855,207.25,810,829,19,2.29%,Profit,4,Low Cost Product,Electronics,Printers,Credit Card
+B-25602,187,349,561,212,37.79%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25728,385.5,1195,771,-424,-54.99%,Loss,2,Mid Cost Product,Electronics,Phones,Credit Card
+B-25803,127.5,757,765,8,1.05%,Profit,6,Low Cost Product,Clothing,Saree,EMI
+B-25996,15.5,29,31,2,6.45%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-26078,278.5,668,557,-111,-19.93%,Loss,2,Low Cost Product,Electronics,Electronic Games,COD
+B-25803,378.5,386,757,371,49.01%,Profit,2,Mid Cost Product,Electronics,Printers,Credit Card
+B-25682,49.55,618,545,-73,-13.39%,Loss,11,Low Cost Product,Electronics,Phones,COD
+B-25749,350.67,1134,1052,-82,-7.79%,Loss,3,Mid Cost Product,Furniture,Bookcases,UPI
+B-25962,181.33,696,544,-152,-27.94%,Loss,3,Low Cost Product,Furniture,Bookcases,COD
+B-25899,11,13,22,9,40.91%,Profit,2,Low Cost Product,Clothing,Leggings,Debit Card
+B-25845,378.5,386,757,371,49.01%,Profit,2,Mid Cost Product,Electronics,Printers,Credit Card
+B-25951,371,544,742,198,26.68%,Profit,2,Mid Cost Product,Furniture,Bookcases,Credit Card
+B-25828,179,430,537,107,19.93%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25803,536,445,536,91,16.98%,Profit,1,Mid Cost Product,Clothing,Trousers,COD
+B-25656,6,3,6,3,50.00%,Profit,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25681,74.71,319,523,204,39.01%,Profit,7,Low Cost Product,Clothing,Trousers,COD
+B-25658,13.5,18,27,9,33.33%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25698,64.5,124,516,392,75.97%,Profit,8,Low Cost Product,Furniture,Chairs,COD
+B-25832,168,388,504,116,23.02%,Profit,3,Low Cost Product,Furniture,Bookcases,COD
+B-25886,125.5,418,502,84,16.73%,Profit,4,Low Cost Product,Electronics,Phones,COD
+B-25897,122.33,521,734,213,29.02%,Profit,6,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25873,21,30,42,12,28.57%,Profit,2,Low Cost Product,Clothing,Kurti,COD
+B-25858,7.25,18,29,11,37.93%,Profit,4,Low Cost Product,Clothing,Skirt,COD
+B-25867,40,228,240,12,5.00%,Profit,6,Low Cost Product,Clothing,Kurti,UPI
+B-25633,248,575,496,-79,-15.93%,Loss,2,Low Cost Product,Clothing,Trousers,COD
+B-25609,121.25,456,485,29,5.98%,Profit,4,Low Cost Product,Electronics,Electronic Games,COD
+B-25896,10.33,42,31,-11,-35.48%,Loss,3,Low Cost Product,Clothing,Skirt,UPI
+B-26000,225.33,525,676,151,22.34%,Profit,3,Low Cost Product,Electronics,Printers,Credit Card
+B-25959,11.5,15,23,8,34.78%,Profit,2,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25940,6.5,10,13,3,23.08%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-26087,22.5,180,180,0,0.00%,Breakeven Point,8,Low Cost Product,Clothing,Stole,COD
+B-26055,74.56,557,671,114,16.99%,Profit,9,Low Cost Product,Electronics,Phones,Credit Card
+B-25980,7.33,11,22,11,50.00%,Profit,3,Low Cost Product,Clothing,Kurti,COD
+B-25653,222.67,699,668,-31,-4.64%,Loss,3,Low Cost Product,Electronics,Printers,Credit Card
+B-26052,48.33,145,145,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Saree,UPI
+B-25877,12,16,24,8,33.33%,Profit,2,Low Cost Product,Clothing,Skirt,Debit Card
+B-25608,158.67,476,476,0,0.00%,Breakeven Point,3,Low Cost Product,Furniture,Chairs,COD
+B-25897,4.8,13,24,11,45.83%,Profit,5,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25881,12.33,34,37,3,8.11%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25905,25.33,102,152,50,32.89%,Profit,6,Low Cost Product,Clothing,Stole,UPI
+B-25818,16,21,32,11,34.38%,Profit,2,Low Cost Product,Clothing,Leggings,UPI
+B-25835,10.4,41,52,11,21.15%,Profit,5,Low Cost Product,Clothing,Leggings,COD
+B-26081,8,13,24,11,45.83%,Profit,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25730,118.25,431,473,42,8.88%,Profit,4,Low Cost Product,Furniture,Chairs,COD
+B-25837,52.6,213,263,50,19.01%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-25893,20.33,50,61,11,18.03%,Profit,3,Low Cost Product,Clothing,Kurti,COD
+B-25689,156.33,928,469,-459,-97.87%,Loss,3,Low Cost Product,Electronics,Electronic Games,COD
+B-26028,636,725,1272,547,43.00%,Profit,2,Mid Cost Product,Electronics,Phones,COD
+B-26081,56.33,169,169,0,0.00%,Breakeven Point,3,Low Cost Product,Electronics,Accessories,COD
+B-25903,8.33,14,25,11,44.00%,Profit,3,Low Cost Product,Clothing,Leggings,Debit Card
+B-25651,114.25,498,457,-41,-8.97%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25903,56.88,378,455,77,16.92%,Profit,8,Low Cost Product,Electronics,Accessories,COD
+B-26086,12.5,23,25,2,8.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25654,150,540,450,-90,-20.00%,Loss,3,Low Cost Product,Electronics,Printers,COD
+B-25720,30,65,30,-35,-116.67%,Loss,1,Low Cost Product,Furniture,Chairs,COD
+B-26057,329.5,696,659,-37,-5.61%,Loss,2,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25798,224,300,448,148,33.04%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-25961,148.67,393,446,53,11.88%,Profit,3,Low Cost Product,Electronics,Printers,COD
+B-25701,49,143,98,-45,-45.92%,Loss,2,Low Cost Product,Furniture,Chairs,UPI
+B-26055,443,432,443,11,2.48%,Profit,1,Mid Cost Product,Clothing,Saree,COD
+B-25653,61,477,427,-50,-11.71%,Loss,7,Low Cost Product,Electronics,Phones,COD
+B-25670,328,692,656,-36,-5.49%,Loss,2,Low Cost Product,Furniture,Bookcases,Credit Card
+B-26056,212,263,424,161,37.97%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-26061,13.5,19,27,8,29.63%,Profit,2,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25602,84.8,696,424,-272,-64.15%,Loss,5,Low Cost Product,Electronics,Phones,COD
+B-26016,50.5,198,202,4,1.98%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25873,637.5,918,1275,357,28.00%,Profit,2,Mid Cost Product,Electronics,Phones,UPI
+B-25761,59.71,348,418,70,16.75%,Profit,7,Low Cost Product,Electronics,Phones,COD
+B-25819,139,368,417,49,11.75%,Profit,3,Low Cost Product,Electronics,Electronic Games,COD
+B-25853,49.75,151,199,48,24.12%,Profit,4,Low Cost Product,Clothing,Stole,UPI
+B-25662,35,462,385,-77,-20.00%,Loss,11,Low Cost Product,Furniture,Furnishings,UPI
+B-25993,138,215,414,199,48.07%,Profit,3,Low Cost Product,Electronics,Phones,COD
+B-25703,24.25,142,97,-45,-46.39%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25848,108,598,648,50,7.72%,Profit,6,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25678,13.5,52,27,-25,-92.59%,Loss,2,Low Cost Product,Clothing,Shirt,Debit Card
+B-25925,27,15,27,12,44.44%,Profit,1,Low Cost Product,Clothing,Stole,Debit Card
+B-25977,27,26,27,1,3.70%,Profit,1,Low Cost Product,Clothing,Stole,UPI
+B-25797,45.89,727,413,-314,-76.03%,Loss,9,Low Cost Product,Furniture,Chairs,COD
+B-26067,13.25,51,53,2,3.77%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25810,5.8,21,29,8,27.59%,Profit,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25648,30,17,30,13,43.33%,Profit,1,Low Cost Product,Clothing,T-shirt,UPI
+B-25933,68.67,0,412,412,100.00%,Profit,6,Low Cost Product,Clothing,Saree,COD
+B-25942,323,669,646,-23,-3.56%,Loss,2,Low Cost Product,Electronics,Printers,Credit Card
+B-25656,6,35,30,-5,-16.67%,Loss,5,Low Cost Product,Clothing,Stole,UPI
+B-26067,154.5,591,618,27,4.37%,Profit,4,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25673,28.6,267,143,-124,-86.71%,Loss,5,Low Cost Product,Clothing,Saree,UPI
+B-25797,15.5,30,31,1,3.23%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-26098,136.33,323,409,86,21.03%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25656,203,280,406,126,31.03%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25791,80.71,499,565,66,11.68%,Profit,7,Low Cost Product,Clothing,Saree,Credit Card
+B-26053,14.17,83,85,2,2.35%,Profit,6,Low Cost Product,Clothing,Stole,COD
+B-25983,112.2,443,561,118,21.03%,Profit,5,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25743,251.5,559,503,-56,-11.13%,Loss,2,Low Cost Product,Clothing,Trousers,COD
+B-25867,10.33,17,31,14,45.16%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-25973,49.75,287,398,111,27.89%,Profit,8,Low Cost Product,Clothing,Hankerchief,COD
+B-25895,194,295,388,93,23.97%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-26003,124.5,614,498,-116,-23.29%,Loss,4,Low Cost Product,Clothing,Saree,UPI
+B-25717,187,349,561,212,37.79%,Profit,3,Low Cost Product,Clothing,Saree,Credit Card
+B-26064,15.25,58,61,3,4.92%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25630,8.5,56,34,-22,-64.71%,Loss,4,Low Cost Product,Clothing,T-shirt,COD
+B-26050,10.67,26,32,6,18.75%,Profit,3,Low Cost Product,Clothing,Shirt,UPI
+B-25786,207.67,815,623,-192,-30.82%,Loss,3,Low Cost Product,Furniture,Tables,UPI
+B-26035,173.33,369,520,151,29.04%,Profit,3,Low Cost Product,Electronics,Phones,Credit Card
+B-25693,5.33,48,32,-16,-50.00%,Loss,6,Low Cost Product,Clothing,Saree,UPI
+B-25703,6.4,37,32,-5,-15.63%,Loss,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25966,85,276,510,234,45.88%,Profit,6,Low Cost Product,Electronics,Electronic Games,EMI
+B-26060,127.33,314,382,68,17.80%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25898,11,20,33,13,39.39%,Profit,3,Low Cost Product,Clothing,Leggings,UPI
+B-25686,190.5,394,381,-13,-3.41%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-26051,245,402,490,88,17.96%,Profit,2,Low Cost Product,Electronics,Accessories,EMI
+B-25854,190.5,237,381,144,37.80%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-26050,121.75,344,487,143,29.36%,Profit,4,Low Cost Product,Electronics,Phones,EMI
+B-25961,122,282,366,84,22.95%,Profit,3,Low Cost Product,Furniture,Bookcases,COD
+B-25701,11,62,33,-29,-87.88%,Loss,3,Low Cost Product,Clothing,Shirt,UPI
+B-25970,121.67,258,365,107,29.32%,Profit,3,Low Cost Product,Electronics,Phones,COD
+B-25933,103.5,307,207,-100,-48.31%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-26081,71.8,697,359,-338,-94.15%,Loss,5,Low Cost Product,Furniture,Bookcases,COD
+B-25650,43.88,398,351,-47,-13.39%,Loss,8,Low Cost Product,Electronics,Phones,COD
+B-25850,121.25,286,485,199,41.03%,Profit,4,Low Cost Product,Clothing,Saree,EMI
+B-25643,9.25,60,37,-23,-62.16%,Loss,4,Low Cost Product,Clothing,Shirt,UPI
+B-26100,17,24,34,10,29.41%,Profit,2,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25964,115.33,238,346,108,31.21%,Profit,3,Low Cost Product,Furniture,Chairs,COD
+B-25676,85.5,445,342,-103,-30.12%,Loss,4,Low Cost Product,Electronics,Electronic Games,COD
+B-25628,17.5,43,35,-8,-22.86%,Loss,2,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25891,30.25,80,121,41,33.88%,Profit,4,Low Cost Product,Clothing,Stole,UPI
+B-25903,168,279,336,57,16.96%,Profit,2,Low Cost Product,Electronics,Phones,COD
+B-25851,112,265,336,71,21.13%,Profit,3,Low Cost Product,Furniture,Bookcases,COD
+B-26089,27,23,27,4,14.81%,Profit,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25996,166.5,283,333,50,15.02%,Profit,2,Low Cost Product,Electronics,Phones,COD
+B-25881,12,29,36,7,19.44%,Profit,3,Low Cost Product,Clothing,Leggings,Debit Card
+B-25621,111,348,333,-15,-4.50%,Loss,3,Low Cost Product,Electronics,Phones,COD
+B-25727,81.75,213,327,114,34.86%,Profit,4,Low Cost Product,Clothing,Trousers,COD
+B-25843,6,12,18,6,33.33%,Profit,3,Low Cost Product,Clothing,Hankerchief,UPI
+B-26050,46.43,293,325,32,9.85%,Profit,7,Low Cost Product,Clothing,T-shirt,COD
+B-25741,68.86,488,482,-6,-1.24%,Loss,7,Low Cost Product,Electronics,Electronic Games,EMI
+B-25756,116.25,498,465,-33,-7.10%,Loss,4,Low Cost Product,Electronics,Phones,EMI
+B-25787,13.33,52,40,-12,-30.00%,Loss,3,Low Cost Product,Clothing,Shirt,COD
+B-25603,17.83,71,107,36,33.64%,Profit,6,Low Cost Product,Clothing,Stole,COD
+B-25655,44.57,624,312,-312,-100.00%,Loss,7,Low Cost Product,Furniture,Chairs,COD
+B-26096,150.33,426,451,25,5.54%,Profit,3,Low Cost Product,Electronics,Phones,EMI
+B-25962,312,250,312,62,19.87%,Profit,1,Low Cost Product,Electronics,Electronic Games,COD
+B-26007,155.5,239,311,72,23.15%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-26088,5.5,6,11,5,45.45%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25673,12.33,42,37,-5,-13.51%,Loss,3,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25664,111,644,444,-200,-45.05%,Loss,4,Low Cost Product,Electronics,Phones,EMI
+B-25642,39.45,408,434,26,5.99%,Profit,11,Low Cost Product,Clothing,Shirt,Credit Card
+B-25987,49.83,299,299,0,0.00%,Breakeven Point,6,Low Cost Product,Clothing,Stole,COD
+B-25903,12.33,20,37,17,45.95%,Profit,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25770,149.5,186,299,113,37.79%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-25840,149,224,298,74,24.83%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-25846,13.43,87,94,7,7.45%,Profit,7,Low Cost Product,Clothing,Leggings,UPI
+B-25745,26.91,71,296,225,76.01%,Profit,11,Low Cost Product,Clothing,Saree,COD
+B-26073,12.33,20,37,17,45.95%,Profit,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-26030,145.5,198,291,93,31.96%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-25678,327,366,327,-39,-11.93%,Loss,1,Low Cost Product,Electronics,Phones,COD
+B-26035,26.45,172,291,119,40.89%,Profit,11,Low Cost Product,Clothing,Saree,COD
+B-25896,47.83,353,287,-66,-23.00%,Loss,6,Low Cost Product,Clothing,Kurti,COD
+B-25989,42,27,42,15,35.71%,Profit,1,Low Cost Product,Electronics,Accessories,UPI
+B-26016,143,368,429,61,14.22%,Profit,3,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-26009,142.5,157,285,128,44.91%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-25915,277,274,277,3,1.08%,Profit,1,Low Cost Product,Electronics,Electronic Games,COD
+B-25845,68.5,281,274,-7,-2.55%,Loss,4,Low Cost Product,Electronics,Phones,COD
+B-25645,68.25,360,273,-87,-31.87%,Loss,4,Low Cost Product,Electronics,Phones,COD
+B-25803,269,178,269,91,33.83%,Profit,1,Low Cost Product,Electronics,Electronic Games,COD
+B-26030,11,6,11,5,45.45%,Profit,1,Low Cost Product,Clothing,Skirt,COD
+B-25955,19.5,37,39,2,5.13%,Profit,2,Low Cost Product,Clothing,Saree,Debit Card
+B-26096,88,290,264,-26,-9.85%,Loss,3,Low Cost Product,Clothing,Trousers,COD
+B-25635,13.33,24,40,16,40.00%,Profit,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-26038,20.5,22,41,19,46.34%,Profit,2,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25791,126.5,316,253,-63,-24.90%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-26014,58,309,406,97,23.89%,Profit,7,Low Cost Product,Furniture,Chairs,Credit Card
+B-25751,10.67,25,32,7,21.88%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25962,130,192,260,68,26.15%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-26025,8.2,22,41,19,46.34%,Profit,5,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-26048,66.83,388,401,13,3.24%,Profit,6,Low Cost Product,Furniture,Chairs,Credit Card
+B-25635,127.33,352,382,30,7.85%,Profit,3,Low Cost Product,Clothing,Saree,Credit Card
+B-25981,173.4,616,867,251,28.95%,Profit,5,Low Cost Product,Electronics,Phones,COD
+B-25610,14.33,43,43,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25733,6.14,86,43,-43,-100.00%,Loss,7,Low Cost Product,Clothing,Stole,Debit Card
+B-25977,24.67,45,74,29,39.19%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25655,14.67,70,44,-26,-59.09%,Loss,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25612,129.5,314,259,-55,-21.24%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-25608,51.4,234,257,23,8.95%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25752,15.2,49,76,27,35.53%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-25700,14.67,76,44,-32,-72.73%,Loss,3,Low Cost Product,Clothing,Stole,Debit Card
+B-25856,128.5,254,257,3,1.17%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-26026,28.33,179,255,76,29.80%,Profit,9,Low Cost Product,Clothing,Hankerchief,COD
+B-25861,14.67,30,44,14,31.82%,Profit,3,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25673,11.25,47,45,-2,-4.44%,Loss,4,Low Cost Product,Clothing,Shirt,COD
+B-25681,44,47,44,-3,-6.82%,Loss,1,Low Cost Product,Clothing,Saree,Debit Card
+B-26051,191,263,382,119,31.15%,Profit,2,Low Cost Product,Clothing,Saree,Credit Card
+B-25951,83.33,150,250,100,40.00%,Profit,3,Low Cost Product,Clothing,Trousers,COD
+B-25799,22.5,60,45,-15,-33.33%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-26053,123,185,246,61,24.80%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-26030,10,25,50,25,50.00%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-26054,49.2,148,246,98,39.84%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25696,14.67,-55,44,99,225.00%,Profit,3,Low Cost Product,Clothing,Kurti,Debit Card
+B-25660,81.67,323,245,-78,-31.84%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25858,122.5,215,245,30,12.24%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-26045,53.71,376,376,0,0.00%,Breakeven Point,7,Low Cost Product,Clothing,Stole,Credit Card
+B-25850,15,44,45,1,2.22%,Profit,3,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25781,22.5,73,45,-28,-62.22%,Loss,2,Low Cost Product,Clothing,Stole,Debit Card
+B-25918,48.8,366,244,-122,-50.00%,Loss,5,Low Cost Product,Furniture,Furnishings,COD
+B-25971,122,161,244,83,34.02%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-25870,10,6,10,4,40.00%,Profit,1,Low Cost Product,Clothing,Kurti,UPI
+B-25770,125,195,375,180,48.00%,Profit,3,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25757,9.2,32,46,14,30.43%,Profit,5,Low Cost Product,Clothing,Skirt,Debit Card
+B-25699,24.5,80,49,-31,-63.27%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-25776,23.5,67,47,-20,-42.55%,Loss,2,Low Cost Product,Clothing,Kurti,Debit Card
+B-25893,50.71,469,355,-114,-32.11%,Loss,7,Low Cost Product,Clothing,Stole,Credit Card
+B-25985,6.4,24,32,8,25.00%,Profit,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25681,121.5,257,243,-14,-5.76%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-26063,60.25,318,241,-77,-31.95%,Loss,4,Low Cost Product,Electronics,Electronic Games,COD
+B-26032,9.4,32,47,15,31.91%,Profit,5,Low Cost Product,Clothing,Saree,Debit Card
+B-26001,8.33,60,50,-10,-20.00%,Loss,6,Low Cost Product,Clothing,Skirt,Debit Card
+B-26056,7.5,9,15,6,40.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25850,49.33,124,148,24,16.22%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25767,99.67,327,299,-28,-9.36%,Loss,3,Low Cost Product,Electronics,Electronic Games,UPI
+B-25693,68,98,68,-30,-44.12%,Loss,1,Low Cost Product,Electronics,Phones,UPI
+B-25850,10.4,34,52,18,34.62%,Profit,5,Low Cost Product,Clothing,Leggings,Debit Card
+B-25796,47.8,401,239,-162,-67.78%,Loss,5,Low Cost Product,Furniture,Chairs,COD
+B-26053,9,21,27,6,22.22%,Profit,3,Low Cost Product,Clothing,Skirt,COD
+B-25650,119,218,238,20,8.40%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25961,16,32,48,16,33.33%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-26023,22,44,66,22,33.33%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-25809,53,29,53,24,45.28%,Profit,1,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25621,46.6,243,233,-10,-4.29%,Loss,5,Low Cost Product,Electronics,Electronic Games,COD
+B-25854,17.67,55,53,-2,-3.77%,Loss,3,Low Cost Product,Clothing,Saree,Debit Card
+B-26057,13.5,46,54,8,14.81%,Profit,4,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25688,70.4,697,352,-345,-98.01%,Loss,5,Low Cost Product,Clothing,Saree,Credit Card
+B-25885,49.86,349,349,0,0.00%,Breakeven Point,7,Low Cost Product,Clothing,Stole,Credit Card
+B-25753,56.83,426,341,-85,-24.93%,Loss,6,Low Cost Product,Clothing,Trousers,Credit Card
+B-25981,18,42,54,12,22.22%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-26055,28.5,50,57,7,12.28%,Profit,2,Low Cost Product,Clothing,Shirt,UPI
+B-25714,48.57,320,340,20,5.88%,Profit,7,Low Cost Product,Clothing,Shirt,Credit Card
+B-26055,45.4,179,227,48,21.15%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-25989,330,249,330,81,24.55%,Profit,1,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25710,36,254,216,-38,-17.59%,Loss,6,Low Cost Product,Furniture,Furnishings,UPI
+B-25773,74.67,367,224,-143,-63.84%,Loss,3,Low Cost Product,Furniture,Chairs,COD
+B-25661,27.5,88,55,-33,-60.00%,Loss,2,Low Cost Product,Furniture,Chairs,Debit Card
+B-26021,49,28,49,21,42.86%,Profit,1,Low Cost Product,Clothing,Stole,UPI
+B-26057,74.67,137,224,87,38.84%,Profit,3,Low Cost Product,Clothing,Trousers,COD
+B-25858,111.5,196,223,27,12.11%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-25857,40.5,285,324,39,12.04%,Profit,8,Low Cost Product,Electronics,Accessories,Credit Card
+B-25656,28,38,56,18,32.14%,Profit,2,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25999,31.86,161,223,62,27.80%,Profit,7,Low Cost Product,Clothing,Shirt,COD
+B-25856,5,8,10,2,20.00%,Profit,2,Low Cost Product,Clothing,Skirt,COD
+B-25926,11.4,51,57,6,10.53%,Profit,5,Low Cost Product,Clothing,Leggings,Debit Card
+B-25728,80.5,435,322,-113,-35.09%,Loss,4,Low Cost Product,Clothing,Saree,Credit Card
+B-26076,109.5,215,219,4,1.83%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25913,14.71,82,103,21,20.39%,Profit,7,Low Cost Product,Clothing,Stole,UPI
+B-25703,11.75,74,47,-27,-57.45%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25858,219,219,219,0,0.00%,Breakeven Point,1,Low Cost Product,Clothing,Saree,COD
+B-25727,9.5,105,57,-48,-84.21%,Loss,6,Low Cost Product,Clothing,Leggings,Debit Card
+B-26020,53.17,217,319,102,31.97%,Profit,6,Low Cost Product,Electronics,Accessories,Credit Card
+B-26003,105,323,315,-8,-2.54%,Loss,3,Low Cost Product,Furniture,Chairs,Credit Card
+B-25925,104.67,355,314,-41,-13.06%,Loss,3,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-26087,311,271,311,40,12.86%,Profit,1,Low Cost Product,Electronics,Electronic Games,EMI
+B-25810,102.33,233,307,74,24.10%,Profit,3,Low Cost Product,Electronics,Accessories,EMI
+B-25858,42,185,294,109,37.07%,Profit,7,Low Cost Product,Electronics,Accessories,EMI
+B-25861,72,299,216,-83,-38.43%,Loss,3,Low Cost Product,Electronics,Electronic Games,COD
+B-25661,29,100,58,-42,-72.41%,Loss,2,Low Cost Product,Furniture,Chairs,Debit Card
+B-25943,12,28,48,20,41.67%,Profit,4,Low Cost Product,Clothing,Stole,UPI
+B-25955,18,40,54,14,25.93%,Profit,3,Low Cost Product,Clothing,T-shirt,UPI
+B-26051,54,166,216,50,23.15%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25999,107.5,245,215,-30,-13.95%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-26083,14.33,35,43,8,18.60%,Profit,3,Low Cost Product,Clothing,Leggings,COD
+B-25950,27.2,169,136,-33,-24.26%,Loss,5,Low Cost Product,Clothing,Saree,COD
+B-25625,19.67,89,59,-30,-50.85%,Loss,3,Low Cost Product,Clothing,Leggings,Debit Card
+B-26055,15.21,209,213,4,1.88%,Profit,14,Low Cost Product,Clothing,Shirt,COD
+B-26023,29.5,38,59,21,35.59%,Profit,2,Low Cost Product,Clothing,Stole,Debit Card
+B-26010,18.33,52,55,3,5.45%,Profit,3,Low Cost Product,Clothing,T-shirt,COD
+B-25955,32.67,232,294,62,21.09%,Profit,9,Low Cost Product,Clothing,T-shirt,EMI
+B-25900,105,148,210,62,29.52%,Profit,2,Low Cost Product,Electronics,Phones,COD
+B-26089,9.83,35,59,24,40.68%,Profit,6,Low Cost Product,Clothing,Kurti,Debit Card
+B-25655,44,427,396,-31,-7.83%,Loss,9,Low Cost Product,Clothing,Saree,COD
+B-25979,142,239,284,45,15.85%,Profit,2,Low Cost Product,Furniture,Bookcases,EMI
+B-26002,55.2,224,276,52,18.84%,Profit,5,Low Cost Product,Clothing,Saree,EMI
+B-25635,11.5,21,23,2,8.70%,Profit,2,Low Cost Product,Clothing,Skirt,UPI
+B-26084,52.25,272,209,-63,-30.14%,Loss,4,Low Cost Product,Electronics,Electronic Games,COD
+B-25998,10,78,50,-28,-56.00%,Loss,5,Low Cost Product,Furniture,Furnishings,COD
+B-25872,28.5,30,57,27,47.37%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-25795,138,297,276,-21,-7.61%,Loss,2,Low Cost Product,Electronics,Phones,EMI
+B-25902,134,262,268,6,2.24%,Profit,2,Low Cost Product,Furniture,Bookcases,UPI
+B-25650,89.67,158,269,111,41.26%,Profit,3,Low Cost Product,Clothing,Trousers,EMI
+B-25957,209,207,209,2,0.96%,Profit,1,Low Cost Product,Clothing,Saree,COD
+B-25793,15,72,60,-12,-20.00%,Loss,4,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25654,134.5,355,269,-86,-31.97%,Loss,2,Low Cost Product,Electronics,Electronic Games,EMI
+B-25750,104,233,208,-25,-12.02%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-25835,13.5,25,27,2,7.41%,Profit,2,Low Cost Product,Clothing,Leggings,UPI
+B-25652,68.67,412,206,-206,-100.00%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-26018,15.25,53,61,8,13.11%,Profit,4,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25750,106,236,212,-24,-11.32%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-25840,43.67,198,262,64,24.43%,Profit,6,Low Cost Product,Clothing,Saree,EMI
+B-25756,68,-72,204,276,135.29%,Profit,3,Low Cost Product,Furniture,Bookcases,COD
+B-25777,8.43,105,59,-46,-77.97%,Loss,7,Low Cost Product,Clothing,T-shirt,UPI
+B-25750,99.5,217,199,-18,-9.05%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-25823,59,53,59,6,10.17%,Profit,1,Low Cost Product,Electronics,Accessories,UPI
+B-26096,15,36,45,9,20.00%,Profit,3,Low Cost Product,Clothing,Leggings,UPI
+B-25757,26.38,192,211,19,9.00%,Profit,8,Low Cost Product,Clothing,Stole,COD
+B-25698,32.5,81,65,-16,-24.62%,Loss,2,Low Cost Product,Electronics,Phones,Debit Card
+B-25710,6.25,25,25,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Skirt,UPI
+B-25994,39.2,203,196,-7,-3.57%,Loss,5,Low Cost Product,Electronics,Phones,COD
+B-25950,43.5,248,261,13,4.98%,Profit,6,Low Cost Product,Clothing,Shirt,Credit Card
+B-25653,39,312,195,-117,-60.00%,Loss,5,Low Cost Product,Electronics,Phones,COD
+B-25785,64,338,192,-146,-76.04%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25863,27,102,189,87,46.03%,Profit,7,Low Cost Product,Clothing,Stole,COD
+B-25959,16,30,32,2,6.25%,Profit,2,Low Cost Product,Clothing,Kurti,UPI
+B-25991,26.86,175,188,13,6.91%,Profit,7,Low Cost Product,Clothing,Shirt,COD
+B-25680,24.33,98,73,-25,-34.25%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25910,51.8,212,259,47,18.15%,Profit,5,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25737,62.33,202,187,-15,-8.02%,Loss,3,Low Cost Product,Clothing,Trousers,COD
+B-25853,13,15,26,11,42.31%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-26097,30.83,211,185,-26,-14.05%,Loss,6,Low Cost Product,Furniture,Chairs,COD
+B-25875,124,240,248,8,3.23%,Profit,2,Low Cost Product,Clothing,Saree,Credit Card
+B-26031,16.75,58,67,9,13.43%,Profit,4,Low Cost Product,Clothing,Leggings,Debit Card
+B-25773,82.67,318,248,-70,-28.23%,Loss,3,Low Cost Product,Furniture,Chairs,Credit Card
+B-25840,123,185,246,61,24.80%,Profit,2,Low Cost Product,Furniture,Bookcases,Credit Card
+B-25908,35.8,204,179,-25,-13.97%,Loss,5,Low Cost Product,Clothing,Kurti,COD
+B-26041,35.2,204,176,-28,-15.91%,Loss,5,Low Cost Product,Furniture,Furnishings,COD
+B-26010,35.2,189,176,-13,-7.39%,Loss,5,Low Cost Product,Furniture,Furnishings,COD
+B-25640,34,130,68,-62,-91.18%,Loss,2,Low Cost Product,Clothing,Trousers,Debit Card
+B-25794,29.33,139,176,37,21.02%,Profit,6,Low Cost Product,Electronics,Accessories,COD
+B-25987,12.57,77,88,11,12.50%,Profit,7,Low Cost Product,Clothing,Hankerchief,UPI
+B-25615,13.6,48,68,20,29.41%,Profit,5,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25997,115.5,132,231,99,42.86%,Profit,2,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25981,31,54,62,8,12.90%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25791,58.33,98,175,77,44.00%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25986,14.2,67,71,4,5.63%,Profit,5,Low Cost Product,Clothing,Leggings,Debit Card
+B-25652,58,244,174,-70,-40.23%,Loss,3,Low Cost Product,Electronics,Accessories,COD
+B-25952,57.67,104,173,69,39.88%,Profit,3,Low Cost Product,Furniture,Chairs,COD
+B-25898,85.5,169,171,2,1.17%,Profit,2,Low Cost Product,Electronics,Electronic Games,COD
+B-25785,89.33,293,268,-25,-9.33%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25990,23.67,39,71,32,45.07%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-26091,7.25,19,29,10,34.48%,Profit,4,Low Cost Product,Clothing,Hankerchief,UPI
+B-25604,32.5,48,65,17,26.15%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25754,10.29,118,72,-46,-63.89%,Loss,7,Low Cost Product,Clothing,Kurti,Debit Card
+B-25724,84,219,168,-51,-30.36%,Loss,2,Low Cost Product,Furniture,Bookcases,COD
+B-25757,55,135,165,30,18.18%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25767,37,133,74,-59,-79.73%,Loss,2,Low Cost Product,Electronics,Accessories,Debit Card
+B-25886,44.5,72,89,17,19.10%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-25621,76,165,228,63,27.63%,Profit,3,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25967,29.75,143,119,-24,-20.17%,Loss,4,Low Cost Product,Furniture,Furnishings,COD
+B-25691,25,100,75,-25,-33.33%,Loss,3,Low Cost Product,Clothing,Stole,UPI
+B-25953,16.75,47,67,20,29.85%,Profit,4,Low Cost Product,Clothing,T-shirt,UPI
+B-25651,7,7,7,0,0.00%,Breakeven Point,1,Low Cost Product,Clothing,Leggings,COD
+B-25828,44.4,187,222,35,15.77%,Profit,5,Low Cost Product,Clothing,Saree,Credit Card
+B-25628,54.75,228,219,-9,-4.11%,Loss,4,Low Cost Product,Clothing,Saree,Credit Card
+B-25703,21,65,42,-23,-54.76%,Loss,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25929,72,351,216,-135,-62.50%,Loss,3,Low Cost Product,Furniture,Chairs,Credit Card
+B-25748,23.5,68,47,-21,-44.68%,Loss,2,Low Cost Product,Electronics,Electronic Games,COD
+B-25610,13.6,123,68,-55,-80.88%,Loss,5,Low Cost Product,Electronics,Accessories,UPI
+B-25903,37,41,74,33,44.59%,Profit,2,Low Cost Product,Clothing,Shirt,Debit Card
+B-25878,55,119,165,46,27.88%,Profit,3,Low Cost Product,Furniture,Furnishings,COD
+B-26056,50.5,90,101,11,10.89%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-26004,81,89,162,73,45.06%,Profit,2,Low Cost Product,Electronics,Electronic Games,COD
+B-25699,20,42,20,-22,-110.00%,Loss,1,Low Cost Product,Furniture,Furnishings,UPI
+B-26053,54,107,162,55,33.95%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25654,114.5,252,229,-23,-10.04%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-25954,13.5,27,27,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Leggings,COD
+B-25910,97.86,678,685,7,1.02%,Profit,7,Low Cost Product,Clothing,Trousers,UPI
+B-26064,15,73,75,2,2.67%,Profit,5,Low Cost Product,Clothing,Leggings,Debit Card
+B-25983,20.13,390,161,-229,-142.24%,Loss,8,Low Cost Product,Furniture,Furnishings,COD
+B-26002,23.67,52,71,19,26.76%,Profit,3,Low Cost Product,Clothing,T-shirt,COD
+B-25650,105.5,316,211,-105,-49.76%,Loss,2,Low Cost Product,Clothing,Saree,Credit Card
+B-26043,13.17,74,79,5,6.33%,Profit,6,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25657,6.4,54,32,-22,-68.75%,Loss,5,Low Cost Product,Clothing,Saree,UPI
+B-25838,53.67,121,161,40,24.84%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25651,159,155,159,4,2.52%,Profit,1,Low Cost Product,Clothing,Saree,COD
+B-25808,52.5,260,210,-50,-23.81%,Loss,4,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25973,39.5,40,79,39,49.37%,Profit,2,Low Cost Product,Clothing,Shirt,Debit Card
+B-25698,69,54,207,153,73.91%,Profit,3,Low Cost Product,Clothing,Saree,Credit Card
+B-25818,9,36,36,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Kurti,COD
+B-26061,206,194,206,12,5.83%,Profit,1,Low Cost Product,Electronics,Printers,Credit Card
+B-25878,11.5,46,46,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Leggings,COD
+B-26054,52,133,156,23,14.74%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25809,51.33,100,154,54,35.06%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-26042,12,21,36,15,41.67%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-26008,51.5,155,206,51,24.76%,Profit,4,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25927,50,193,200,7,3.50%,Profit,4,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-26008,199,200,199,-1,-0.50%,Loss,1,Low Cost Product,Clothing,Saree,Credit Card
+B-25753,22,132,154,22,14.29%,Profit,7,Low Cost Product,Clothing,T-shirt,COD
+B-25948,50.67,129,152,23,15.13%,Profit,3,Low Cost Product,Furniture,Furnishings,COD
+B-26094,25.33,102,152,50,32.89%,Profit,6,Low Cost Product,Clothing,Stole,COD
+B-25654,40.67,143,122,-21,-17.21%,Loss,3,Low Cost Product,Furniture,Furnishings,UPI
+B-25854,24.83,101,149,48,32.21%,Profit,6,Low Cost Product,Clothing,Stole,COD
+B-25623,37.25,236,149,-87,-58.39%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25985,49.25,177,197,20,10.15%,Profit,4,Low Cost Product,Clothing,Kurti,Credit Card
+B-25723,25.33,130,76,-54,-71.05%,Loss,3,Low Cost Product,Electronics,Electronic Games,COD
+B-25751,110.5,236,221,-15,-6.79%,Loss,2,Low Cost Product,Electronics,Electronic Games,COD
+B-26050,26.33,47,79,32,40.51%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25800,6.43,33,45,12,26.67%,Profit,7,Low Cost Product,Clothing,Hankerchief,UPI
+B-25673,149,150,149,-1,-0.67%,Loss,1,Low Cost Product,Clothing,Saree,COD
+B-26002,26.67,58,80,22,27.50%,Profit,3,Low Cost Product,Clothing,Stole,Debit Card
+B-26009,21.67,183,195,12,6.15%,Profit,9,Low Cost Product,Clothing,Shirt,Credit Card
+B-25754,6.33,19,19,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Skirt,UPI
+B-25953,27,40,81,41,50.62%,Profit,3,Low Cost Product,Clothing,Stole,Debit Card
+B-26039,16.6,49,83,34,40.96%,Profit,5,Low Cost Product,Clothing,Shirt,Debit Card
+B-26001,37.25,132,149,17,11.41%,Profit,4,Low Cost Product,Furniture,Furnishings,COD
+B-25620,193,147,193,46,23.83%,Profit,1,Low Cost Product,Electronics,Printers,Credit Card
+B-26051,8.5,61,85,24,28.24%,Profit,10,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25673,8.8,61,44,-17,-38.64%,Loss,5,Low Cost Product,Clothing,Saree,UPI
+B-25721,74.5,189,149,-40,-26.85%,Loss,2,Low Cost Product,Electronics,Phones,COD
+B-25764,13,26,26,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Kurti,COD
+B-25645,21.5,86,86,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,T-shirt,Debit Card
+B-26066,43,64,86,22,25.58%,Profit,2,Low Cost Product,Clothing,Saree,Debit Card
+B-26003,26.33,63,79,16,20.25%,Profit,3,Low Cost Product,Clothing,T-shirt,COD
+B-25712,64.33,468,193,-275,-142.49%,Loss,3,Low Cost Product,Electronics,Phones,Credit Card
+B-25796,49.33,148,148,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Saree,COD
+B-25738,35,84,70,-14,-20.00%,Loss,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25771,49.33,89,148,59,39.86%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25950,21.11,171,190,19,10.00%,Profit,9,Low Cost Product,Furniture,Furnishings,Credit Card
+B-26038,26,38,52,14,26.92%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-26004,49,103,147,44,29.93%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25896,23.75,122,190,68,35.79%,Profit,8,Low Cost Product,Clothing,T-shirt,Credit Card
+B-25601,20,136,80,-56,-70.00%,Loss,4,Low Cost Product,Electronics,Electronic Games,UPI
+B-25952,49,99,147,48,32.65%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25873,22,54,66,12,18.18%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25844,43,78,86,8,9.30%,Profit,2,Low Cost Product,Clothing,Saree,Debit Card
+B-26054,44,69,88,19,21.59%,Profit,2,Low Cost Product,Clothing,Shirt,Debit Card
+B-25953,94,381,188,-193,-102.66%,Loss,2,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25951,44.5,60,89,29,32.58%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-26065,29.2,127,146,19,13.01%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-26033,143,111,143,32,22.38%,Profit,1,Low Cost Product,Furniture,Bookcases,COD
+B-25781,6.25,26,25,-1,-4.00%,Loss,4,Low Cost Product,Clothing,Kurti,COD
+B-26043,10,18,30,12,40.00%,Profit,3,Low Cost Product,Clothing,Skirt,UPI
+B-25787,35,198,140,-58,-41.43%,Loss,4,Low Cost Product,Furniture,Furnishings,COD
+B-25664,83,131,83,-48,-57.83%,Loss,1,Low Cost Product,Furniture,Bookcases,UPI
+B-25825,28,134,140,6,4.29%,Profit,5,Low Cost Product,Clothing,Saree,COD
+B-25818,7,14,28,14,50.00%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25765,46.33,125,139,14,10.07%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25853,10,16,30,14,46.67%,Profit,3,Low Cost Product,Clothing,Hankerchief,UPI
+B-26030,29.67,53,89,36,40.45%,Profit,3,Low Cost Product,Clothing,Shirt,UPI
+B-25730,46.75,157,187,30,16.04%,Profit,4,Low Cost Product,Electronics,Accessories,Credit Card
+B-26054,46.33,118,139,21,15.11%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25773,218.5,451,437,-14,-3.20%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-25717,27.6,141,138,-3,-2.17%,Loss,5,Low Cost Product,Clothing,Saree,COD
+B-26010,42.5,72,85,13,15.29%,Profit,2,Low Cost Product,Clothing,Shirt,UPI
+B-25893,27.67,71,83,12,14.46%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-26076,45.5,69,91,22,24.18%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-25803,27.4,132,137,5,3.65%,Profit,5,Low Cost Product,Clothing,Shirt,COD
+B-25709,4.71,45,33,-12,-36.36%,Loss,7,Low Cost Product,Clothing,Saree,UPI
+B-25755,67,168,134,-34,-25.37%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-25684,67,92,134,42,31.34%,Profit,2,Low Cost Product,Furniture,Chairs,COD
+B-25739,66.5,189,133,-56,-42.11%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-26081,31,177,93,-84,-90.32%,Loss,3,Low Cost Product,Clothing,Saree,UPI
+B-25662,86,107,86,-21,-24.42%,Loss,1,Low Cost Product,Electronics,Electronic Games,UPI
+B-25845,26.4,78,132,54,40.91%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-26085,44,142,132,-10,-7.58%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25745,26.4,211,132,-79,-59.85%,Loss,5,Low Cost Product,Furniture,Furnishings,COD
+B-25999,23.25,158,93,-65,-69.89%,Loss,4,Low Cost Product,Clothing,Stole,UPI
+B-26082,47.5,90,95,5,5.26%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-26097,48.5,85,97,12,12.37%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25731,16.38,285,131,-154,-117.56%,Loss,8,Low Cost Product,Furniture,Furnishings,COD
+B-25625,48.5,68,97,29,29.90%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25853,42.67,124,128,4,3.13%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25703,20.67,-55,186,241,129.57%,Profit,9,Low Cost Product,Clothing,Shirt,Credit Card
+B-26003,32,81,128,47,36.72%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25803,46.25,137,185,48,25.95%,Profit,4,Low Cost Product,Clothing,Stole,Credit Card
+B-25719,14.5,19,29,10,34.48%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25883,42.33,98,127,29,22.83%,Profit,3,Low Cost Product,Furniture,Furnishings,COD
+B-25891,13.86,61,97,36,37.11%,Profit,7,Low Cost Product,Clothing,Hankerchief,UPI
+B-25821,41.67,125,125,0,0.00%,Breakeven Point,3,Low Cost Product,Electronics,Accessories,COD
+B-25646,149.5,307,299,-8,-2.68%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-25874,24.8,70,124,54,43.55%,Profit,5,Low Cost Product,Clothing,T-shirt,COD
+B-25717,30,73,90,17,18.89%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-26073,30.5,111,122,11,9.02%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25800,13.56,188,122,-66,-54.10%,Loss,9,Low Cost Product,Electronics,Accessories,COD
+B-25991,45,60,90,30,33.33%,Profit,2,Low Cost Product,Furniture,Chairs,UPI
+B-25638,60.67,193,182,-11,-6.04%,Loss,3,Low Cost Product,Furniture,Bookcases,Credit Card
+B-26021,17.43,63,122,59,48.36%,Profit,7,Low Cost Product,Furniture,Furnishings,COD
+B-25882,30.25,102,121,19,15.70%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-26053,120,119,120,1,0.83%,Profit,1,Low Cost Product,Furniture,Chairs,COD
+B-25951,24,97,120,23,19.17%,Profit,5,Low Cost Product,Clothing,Stole,COD
+B-25757,6.8,45,34,-11,-32.35%,Loss,5,Low Cost Product,Clothing,T-shirt,COD
+B-25777,19.5,100,117,17,14.53%,Profit,6,Low Cost Product,Clothing,Kurti,COD
+B-26040,19,29,38,9,23.68%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25696,39,123,117,-6,-5.13%,Loss,3,Low Cost Product,Electronics,Phones,COD
+B-25977,45,126,180,54,30.00%,Profit,4,Low Cost Product,Clothing,T-shirt,Credit Card
+B-25743,99,104,99,-5,-5.05%,Loss,1,Low Cost Product,Clothing,Saree,UPI
+B-25651,57.33,275,172,-103,-59.88%,Loss,3,Low Cost Product,Furniture,Chairs,EMI
+B-25603,29,100,116,16,13.79%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25696,116,120,116,-4,-3.45%,Loss,1,Low Cost Product,Clothing,Saree,COD
+B-26037,24.43,103,171,68,39.77%,Profit,7,Low Cost Product,Clothing,Stole,EMI
+B-26098,9.2,32,46,14,30.43%,Profit,5,Low Cost Product,Clothing,Skirt,COD
+B-25697,38.33,154,115,-39,-33.91%,Loss,3,Low Cost Product,Clothing,Trousers,COD
+B-25920,50,93,100,7,7.00%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25993,22,36,44,8,18.18%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-26089,46.33,125,139,14,10.07%,Profit,3,Low Cost Product,Clothing,Kurti,COD
+B-25960,85.5,311,171,-140,-81.87%,Loss,2,Low Cost Product,Furniture,Bookcases,EMI
+B-25917,50,88,100,12,12.00%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25825,19.17,90,115,25,21.74%,Profit,6,Low Cost Product,Clothing,Stole,COD
+B-25696,56,177,168,-9,-5.36%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25972,57.5,68,115,47,40.87%,Profit,2,Low Cost Product,Electronics,Accessories,COD
+B-25602,84,279,168,-111,-66.07%,Loss,2,Low Cost Product,Electronics,Phones,EMI
+B-25736,6.2,38,31,-7,-22.58%,Loss,5,Low Cost Product,Clothing,Skirt,UPI
+B-26003,19,73,114,41,35.96%,Profit,6,Low Cost Product,Furniture,Furnishings,COD
+B-25970,27.75,102,111,9,8.11%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25742,5.5,19,11,-8,-72.73%,Loss,2,Low Cost Product,Clothing,Skirt,UPI
+B-25770,110,75,110,35,31.82%,Profit,1,Low Cost Product,Furniture,Furnishings,COD
+B-26098,29.5,44,59,15,25.42%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-26050,83,139,166,27,16.27%,Profit,2,Low Cost Product,Electronics,Accessories,EMI
+B-25778,18.17,115,109,-6,-5.50%,Loss,6,Low Cost Product,Clothing,Saree,COD
+B-25652,8.5,40,34,-6,-17.65%,Loss,4,Low Cost Product,Clothing,Leggings,COD
+B-25999,109,69,109,40,36.70%,Profit,1,Low Cost Product,Furniture,Furnishings,COD
+B-25909,36,86,108,22,20.37%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25823,51.5,53,103,50,48.54%,Profit,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25701,5,18,10,-8,-80.00%,Loss,2,Low Cost Product,Clothing,Skirt,COD
+B-25855,30,73,90,17,18.89%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25654,52.5,59,105,46,43.81%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-25623,52.5,85,105,20,19.05%,Profit,2,Low Cost Product,Clothing,Stole,Debit Card
+B-25641,22,28,22,-6,-27.27%,Loss,1,Low Cost Product,Furniture,Furnishings,COD
+B-25852,21,138,105,-33,-31.43%,Loss,5,Low Cost Product,Clothing,Kurti,COD
+B-25958,52.5,80,105,25,23.81%,Profit,2,Low Cost Product,Clothing,Hankerchief,EMI
+B-25802,5,32,25,-7,-28.00%,Loss,5,Low Cost Product,Clothing,Saree,UPI
+B-25823,52,102,104,2,1.92%,Profit,2,Low Cost Product,Furniture,Furnishings,COD
+B-25834,16,11,16,5,31.25%,Profit,1,Low Cost Product,Clothing,Stole,UPI
+B-25678,21.33,71,64,-7,-10.94%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25774,19,44,38,-6,-15.79%,Loss,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25904,41.5,71,83,12,14.46%,Profit,2,Low Cost Product,Furniture,Chairs,COD
+B-25896,51.5,67,103,36,34.95%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25796,37,43,37,-6,-16.22%,Loss,1,Low Cost Product,Clothing,Saree,UPI
+B-25934,17.5,72,105,33,31.43%,Profit,6,Low Cost Product,Clothing,Saree,EMI
+B-25750,39,84,78,-6,-7.69%,Loss,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25761,102,192,102,-90,-88.24%,Loss,1,Low Cost Product,Clothing,Saree,COD
+B-25912,17,91,102,11,10.78%,Profit,6,Low Cost Product,Clothing,T-shirt,COD
+B-25751,10,18,10,-8,-80.00%,Loss,1,Low Cost Product,Clothing,Kurti,UPI
+B-25656,11.22,83,101,18,17.82%,Profit,9,Low Cost Product,Clothing,Skirt,COD
+B-25647,10.5,48,42,-6,-14.29%,Loss,4,Low Cost Product,Clothing,Saree,UPI
+B-25861,28,38,56,18,32.14%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25802,47.5,90,95,5,5.26%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25901,53,157,159,2,1.26%,Profit,3,Low Cost Product,Furniture,Furnishings,EMI
+B-25623,52.67,89,158,69,43.67%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25751,53,106,106,0,0.00%,Breakeven Point,2,Low Cost Product,Electronics,Phones,EMI
+B-26052,25.25,85,101,16,15.84%,Profit,4,Low Cost Product,Clothing,T-shirt,COD
+B-25886,35.67,70,107,37,34.58%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-25804,31.2,120,156,36,23.08%,Profit,5,Low Cost Product,Clothing,T-shirt,EMI
+B-25734,36,127,108,-19,-17.59%,Loss,3,Low Cost Product,Electronics,Electronic Games,UPI
+B-25610,26.75,161,107,-54,-50.47%,Loss,4,Low Cost Product,Clothing,Stole,EMI
+B-25711,25,158,100,-58,-58.00%,Loss,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25985,27,82,108,26,24.07%,Profit,4,Low Cost Product,Clothing,Shirt,UPI
+B-25864,25,94,100,6,6.00%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25648,100,123,100,-23,-23.00%,Loss,1,Low Cost Product,Electronics,Phones,COD
+B-26086,21.5,26,43,17,39.53%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25835,51.67,129,155,26,16.77%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25949,50.33,142,151,9,5.96%,Profit,3,Low Cost Product,Clothing,Hankerchief,EMI
+B-25930,30.2,122,151,29,19.21%,Profit,5,Low Cost Product,Clothing,Hankerchief,EMI
+B-25655,27.5,178,110,-68,-61.82%,Loss,4,Low Cost Product,Clothing,Saree,EMI
+B-25757,49,89,98,9,9.18%,Profit,2,Low Cost Product,Furniture,Furnishings,COD
+B-25655,48.5,159,97,-62,-63.92%,Loss,2,Low Cost Product,Clothing,Trousers,COD
+B-26033,22.2,76,111,35,31.53%,Profit,5,Low Cost Product,Clothing,Shirt,COD
+B-26083,45,28,45,17,37.78%,Profit,1,Low Cost Product,Electronics,Accessories,COD
+B-25805,56,97,112,15,13.39%,Profit,2,Low Cost Product,Furniture,Chairs,COD
+B-25955,22,90,110,20,18.18%,Profit,5,Low Cost Product,Clothing,Stole,Debit Card
+B-25762,49,103,98,-5,-5.10%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-25919,15.71,98,110,12,10.91%,Profit,7,Low Cost Product,Clothing,Stole,Debit Card
+B-25853,23.75,84,95,11,11.58%,Profit,4,Low Cost Product,Furniture,Furnishings,COD
+B-25925,409.33,1214,1228,14,1.14%,Profit,3,Mid Cost Product,Furniture,Chairs,UPI
+B-26023,9.67,29,29,0,0.00%,Breakeven Point,3,Low Cost Product,Furniture,Furnishings,COD
+B-26055,47,67,94,27,28.72%,Profit,2,Low Cost Product,Clothing,T-shirt,COD
+B-25653,115,90,115,25,21.74%,Profit,1,Low Cost Product,Electronics,Accessories,COD
+B-25893,49.67,134,149,15,10.07%,Profit,3,Low Cost Product,Clothing,Saree,EMI
+B-26052,37,125,148,23,15.54%,Profit,4,Low Cost Product,Clothing,Kurti,EMI
+B-25830,46.5,78,93,15,16.13%,Profit,2,Low Cost Product,Electronics,Accessories,COD
+B-26040,28.25,89,113,24,21.24%,Profit,4,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25981,16,46,48,2,4.17%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25954,148,139,148,9,6.08%,Profit,1,Low Cost Product,Electronics,Electronic Games,UPI
+B-25889,28.5,103,114,11,9.65%,Profit,4,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25810,46,50,92,42,45.65%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25637,39,103,117,14,11.97%,Profit,3,Low Cost Product,Clothing,Shirt,UPI
+B-25801,5.25,31,21,-10,-47.62%,Loss,4,Low Cost Product,Clothing,Leggings,COD
+B-25783,5.5,43,33,-10,-30.30%,Loss,6,Low Cost Product,Clothing,Leggings,UPI
+B-25697,38,106,114,8,7.02%,Profit,3,Low Cost Product,Electronics,Accessories,Debit Card
+B-26028,115,115,115,0,0.00%,Breakeven Point,1,Low Cost Product,Electronics,Accessories,Debit Card
+B-25851,18,61,90,29,32.22%,Profit,5,Low Cost Product,Clothing,T-shirt,COD
+B-25938,30.5,60,61,1,1.64%,Profit,2,Low Cost Product,Furniture,Furnishings,COD
+B-25820,119,118,119,1,0.84%,Profit,1,Low Cost Product,Furniture,Chairs,COD
+B-25850,58.5,81,117,36,30.77%,Profit,2,Low Cost Product,Clothing,Trousers,Debit Card
+B-25924,74,94,148,54,36.49%,Profit,2,Low Cost Product,Furniture,Chairs,UPI
+B-25609,62.25,254,249,-5,-2.01%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25898,49,74,147,73,49.66%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-25814,16.86,83,118,35,29.66%,Profit,7,Low Cost Product,Clothing,T-shirt,EMI
+B-26087,17,63,119,56,47.06%,Profit,7,Low Cost Product,Clothing,Saree,EMI
+B-25901,45,63,90,27,30.00%,Profit,2,Low Cost Product,Clothing,T-shirt,COD
+B-26025,16,31,32,1,3.13%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25631,44.5,178,89,-89,-100.00%,Loss,2,Low Cost Product,Furniture,Furnishings,COD
+B-25954,146,80,146,66,45.21%,Profit,1,Low Cost Product,Electronics,Phones,UPI
+B-25956,22.25,126,89,-37,-41.57%,Loss,4,Low Cost Product,Clothing,Shirt,COD
+B-26096,29.33,77,88,11,12.50%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25862,30.25,80,121,41,33.88%,Profit,4,Low Cost Product,Clothing,Stole,EMI
+B-26054,44,68,88,20,22.73%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25698,17.4,170,87,-83,-95.40%,Loss,5,Low Cost Product,Clothing,Kurti,COD
+B-25606,43.5,83,87,4,4.60%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-25928,40.67,107,122,15,12.30%,Profit,3,Low Cost Product,Electronics,Accessories,EMI
+B-26005,29,77,87,10,11.49%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25963,17.67,45,53,8,15.09%,Profit,3,Low Cost Product,Furniture,Furnishings,UPI
+B-25952,9.67,119,87,-32,-36.78%,Loss,9,Low Cost Product,Clothing,Skirt,COD
+B-25683,14.33,141,86,-55,-63.95%,Loss,6,Low Cost Product,Clothing,Saree,COD
+B-25914,41.67,103,125,22,17.60%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25828,42.67,131,128,-3,-2.34%,Loss,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25743,28.6,267,143,-124,-86.71%,Loss,5,Low Cost Product,Clothing,Saree,UPI
+B-26085,43,64,86,22,25.58%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25869,28.67,77,86,9,10.47%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25773,21.25,94,85,-9,-10.59%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25700,25.8,204,129,-75,-58.14%,Loss,5,Low Cost Product,Clothing,Shirt,Debit Card
+B-25921,42,126,84,-42,-50.00%,Loss,2,Low Cost Product,Electronics,Accessories,COD
+B-25730,27.67,164,83,-81,-97.59%,Loss,3,Low Cost Product,Furniture,Chairs,COD
+B-26083,71.5,137,143,6,4.20%,Profit,2,Low Cost Product,Electronics,Accessories,UPI
+B-25849,112,213,336,123,36.61%,Profit,3,Low Cost Product,Electronics,Phones,UPI
+B-25909,64.6,201,323,122,37.77%,Profit,5,Low Cost Product,Electronics,Phones,UPI
+B-26038,43.33,69,130,61,46.92%,Profit,3,Low Cost Product,Clothing,Shirt,Debit Card
+B-25999,30.4,155,152,-3,-1.97%,Loss,5,Low Cost Product,Clothing,Saree,COD
+B-25928,25,15,25,10,40.00%,Profit,1,Low Cost Product,Furniture,Furnishings,UPI
+B-25878,28,125,140,15,10.71%,Profit,5,Low Cost Product,Clothing,Stole,UPI
+B-25843,22.5,45,45,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Stole,UPI
+B-25959,44,83,132,49,37.12%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-25630,26.6,121,133,12,9.02%,Profit,5,Low Cost Product,Clothing,Stole,Debit Card
+B-25858,41,69,82,13,15.85%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-26096,35,84,140,56,40.00%,Profit,4,Low Cost Product,Clothing,Shirt,UPI
+B-25838,11.57,62,81,19,23.46%,Profit,7,Low Cost Product,Clothing,Hankerchief,COD
+B-25943,27.4,99,137,38,27.74%,Profit,5,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25780,45.67,178,137,-41,-29.93%,Loss,3,Low Cost Product,Electronics,Phones,Debit Card
+B-25949,70,83,140,57,40.71%,Profit,2,Low Cost Product,Clothing,Trousers,Debit Card
+B-25892,46.33,109,139,30,21.58%,Profit,3,Low Cost Product,Clothing,Shirt,UPI
+B-26054,27.6,127,138,11,7.97%,Profit,5,Low Cost Product,Clothing,Stole,UPI
+B-25988,8.78,203,79,-124,-156.96%,Loss,9,Low Cost Product,Clothing,Skirt,COD
+B-25939,45.33,95,136,41,30.15%,Profit,3,Low Cost Product,Electronics,Accessories,UPI
+B-26083,48.33,129,145,16,11.03%,Profit,3,Low Cost Product,Clothing,T-shirt,Debit Card
+B-26078,22,24,44,20,45.45%,Profit,2,Low Cost Product,Clothing,T-shirt,UPI
+B-25902,11.29,73,79,6,7.59%,Profit,7,Low Cost Product,Clothing,Saree,COD
+B-25676,19.75,43,79,36,45.57%,Profit,4,Low Cost Product,Clothing,Shirt,COD
+B-26016,44.67,147,134,-13,-9.70%,Loss,3,Low Cost Product,Electronics,Electronic Games,UPI
+B-25950,26.6,128,133,5,3.76%,Profit,5,Low Cost Product,Clothing,Stole,UPI
+B-26056,6.71,27,47,20,42.55%,Profit,7,Low Cost Product,Clothing,Hankerchief,UPI
+B-25645,133,175,133,-42,-31.58%,Loss,1,Low Cost Product,Electronics,Printers,UPI
+B-25906,26,51,78,27,34.62%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-26017,78,71,78,7,8.97%,Profit,1,Low Cost Product,Furniture,Chairs,COD
+B-25644,9.5,168,76,-92,-121.05%,Loss,8,Low Cost Product,Furniture,Furnishings,COD
+B-25679,76,126,76,-50,-65.79%,Loss,1,Low Cost Product,Clothing,Saree,COD
+B-25854,25.33,57,76,19,25.00%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25670,24.67,45,74,29,39.19%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25792,24.67,99,74,-25,-33.78%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25808,48.67,209,146,-63,-43.15%,Loss,3,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25750,73,104,73,-31,-42.47%,Loss,1,Low Cost Product,Furniture,Bookcases,COD
+B-26051,26.67,58,80,22,27.50%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-26076,26.6,87,133,46,34.59%,Profit,5,Low Cost Product,Clothing,Shirt,EMI
+B-25946,73,139,146,7,4.79%,Profit,2,Low Cost Product,Electronics,Phones,Debit Card
+B-25648,32.5,171,130,-41,-31.54%,Loss,4,Low Cost Product,Clothing,Saree,EMI
+B-25992,47,100,141,41,29.08%,Profit,3,Low Cost Product,Clothing,Shirt,UPI
+B-25848,49,126,147,21,14.29%,Profit,3,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25697,73,80,73,-7,-9.59%,Loss,1,Low Cost Product,Electronics,Phones,COD
+B-25659,21.14,76,148,72,48.65%,Profit,7,Low Cost Product,Clothing,T-shirt,Debit Card
+B-25716,14.5,58,58,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Saree,UPI
+B-25652,7,34,21,-13,-61.90%,Loss,3,Low Cost Product,Clothing,Leggings,UPI
+B-26093,49.33,123,148,25,16.89%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25725,36,151,144,-7,-4.86%,Loss,4,Low Cost Product,Electronics,Electronic Games,COD
+B-25661,29,249,145,-104,-71.72%,Loss,5,Low Cost Product,Furniture,Chairs,UPI
+B-25693,72,121,72,-49,-68.06%,Loss,1,Low Cost Product,Electronics,Phones,COD
+B-25910,25,110,125,15,12.00%,Profit,5,Low Cost Product,Clothing,Shirt,EMI
+B-25943,49.67,134,149,15,10.07%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-26100,36,56,72,16,22.22%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-25830,8.88,71,71,0,0.00%,Breakeven Point,8,Low Cost Product,Clothing,Skirt,COD
+B-25932,17.75,85,71,-14,-19.72%,Loss,4,Low Cost Product,Furniture,Furnishings,COD
+B-25929,51.33,239,154,-85,-55.19%,Loss,3,Low Cost Product,Furniture,Chairs,EMI
+B-25708,23.88,178,191,13,6.81%,Profit,8,Low Cost Product,Furniture,Furnishings,COD
+B-25921,34,151,170,19,11.18%,Profit,5,Low Cost Product,Clothing,T-shirt,UPI
+B-25755,23.5,50,47,-3,-6.38%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-25640,30.5,169,122,-47,-38.52%,Loss,4,Low Cost Product,Clothing,Saree,EMI
+B-25838,14,44,70,26,37.14%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-26025,51.67,150,155,5,3.23%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25789,7.44,153,67,-86,-128.36%,Loss,9,Low Cost Product,Furniture,Furnishings,COD
+B-25697,22.33,109,67,-42,-62.69%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25797,74,249,148,-101,-68.24%,Loss,2,Low Cost Product,Furniture,Bookcases,UPI
+B-26064,20.33,84,122,38,31.15%,Profit,6,Low Cost Product,Clothing,T-shirt,Credit Card
+B-25732,8,21,16,-5,-31.25%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-25654,40.33,138,121,-17,-14.05%,Loss,3,Low Cost Product,Furniture,Furnishings,Credit Card
+B-25750,3.5,57,42,-15,-35.71%,Loss,12,Low Cost Product,Clothing,Skirt,UPI
+B-25751,10.83,69,65,-4,-6.15%,Loss,6,Low Cost Product,Clothing,Hankerchief,COD
+B-25889,17,162,119,-43,-36.13%,Loss,7,Low Cost Product,Clothing,Kurti,Credit Card
+B-25683,51.67,99,155,56,36.13%,Profit,3,Low Cost Product,Furniture,Furnishings,EMI
+B-25602,14.88,124,119,-5,-4.20%,Loss,8,Low Cost Product,Clothing,Saree,Credit Card
+B-25871,29.5,93,118,25,21.19%,Profit,4,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25953,116,94,116,22,18.97%,Profit,1,Low Cost Product,Electronics,Accessories,Credit Card
+B-25950,15.8,187,158,-29,-18.35%,Loss,10,Low Cost Product,Clothing,Hankerchief,EMI
+B-26091,52.67,89,158,69,43.67%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25753,21.67,117,65,-52,-80.00%,Loss,3,Low Cost Product,Electronics,Accessories,COD
+B-25611,80,219,160,-59,-36.88%,Loss,2,Low Cost Product,Clothing,Saree,EMI
+B-25935,54,142,162,20,12.35%,Profit,3,Low Cost Product,Furniture,Chairs,EMI
+B-25886,15.75,62,63,1,1.59%,Profit,4,Low Cost Product,Clothing,T-shirt,COD
+B-25833,12.8,37,64,27,42.19%,Profit,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25665,41.5,279,166,-113,-68.07%,Loss,4,Low Cost Product,Electronics,Accessories,EMI
+B-25694,23.86,124,167,43,25.75%,Profit,7,Low Cost Product,Clothing,T-shirt,EMI
+B-25668,41,106,123,17,13.82%,Profit,3,Low Cost Product,Furniture,Furnishings,COD
+B-25945,31.5,49,63,14,22.22%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-25954,178.2,891,891,0,0.00%,Breakeven Point,5,Low Cost Product,Clothing,Saree,COD
+B-25818,8.33,47,75,28,37.33%,Profit,9,Low Cost Product,Clothing,Hankerchief,UPI
+B-25861,12.4,56,62,6,9.68%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25721,4.14,47,29,-18,-62.07%,Loss,7,Low Cost Product,Clothing,Skirt,UPI
+B-26024,28,150,168,18,10.71%,Profit,6,Low Cost Product,Clothing,Stole,Debit Card
+B-26056,23.33,46,70,24,34.29%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-26050,42.25,114,169,55,32.54%,Profit,4,Low Cost Product,Clothing,Saree,Debit Card
+B-25708,16,40,32,-8,-25.00%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-25651,14.67,52,44,-8,-18.18%,Loss,3,Low Cost Product,Clothing,Stole,UPI
+B-25616,23.2,172,116,-56,-48.28%,Loss,5,Low Cost Product,Clothing,Stole,Credit Card
+B-25827,52,135,156,21,13.46%,Profit,3,Low Cost Product,Furniture,Chairs,COD
+B-25996,10.33,56,62,6,9.68%,Profit,6,Low Cost Product,Clothing,Skirt,COD
+B-25830,27,53,54,1,1.85%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-25951,12.33,100,111,11,9.91%,Profit,9,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25713,39.5,221,158,-63,-39.87%,Loss,4,Low Cost Product,Furniture,Chairs,UPI
+B-25678,3.5,10,7,-3,-42.86%,Loss,2,Low Cost Product,Clothing,Skirt,UPI
+B-25901,30.5,33,61,28,45.90%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25798,15.25,111,61,-50,-81.97%,Loss,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25902,38.5,128,154,26,16.88%,Profit,4,Low Cost Product,Electronics,Accessories,COD
+B-25851,20.67,61,62,1,1.61%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25944,56.33,131,169,38,22.49%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25939,30.5,43,61,18,29.51%,Profit,2,Low Cost Product,Electronics,Accessories,COD
+B-25656,30.5,84,61,-23,-37.70%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-25695,19,157,171,14,8.19%,Profit,9,Low Cost Product,Clothing,Shirt,Debit Card
+B-25781,7.5,109,60,-49,-81.67%,Loss,8,Low Cost Product,Clothing,Hankerchief,COD
+B-25783,25,36,25,-11,-44.00%,Loss,1,Low Cost Product,Clothing,Stole,UPI
+B-25867,40.75,137,163,26,15.95%,Profit,4,Low Cost Product,Clothing,Shirt,COD
+B-25993,173,87,173,86,49.71%,Profit,1,Low Cost Product,Electronics,Printers,Debit Card
+B-25755,128.5,260,257,-3,-1.17%,Loss,2,Low Cost Product,Furniture,Bookcases,UPI
+B-25880,54,71,108,37,34.26%,Profit,2,Low Cost Product,Clothing,Stole,Credit Card
+B-25941,44.25,136,177,41,23.16%,Profit,4,Low Cost Product,Clothing,Shirt,Debit Card
+B-25757,15.14,91,106,15,14.15%,Profit,7,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25754,8.2,55,41,-14,-34.15%,Loss,5,Low Cost Product,Clothing,Leggings,UPI
+B-25653,56,178,168,-10,-5.95%,Loss,3,Low Cost Product,Electronics,Accessories,UPI
+B-25821,15,39,60,21,35.00%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25706,7.75,42,31,-11,-35.48%,Loss,4,Low Cost Product,Clothing,Stole,COD
+B-26064,89.5,179,179,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Saree,Debit Card
+B-25803,35.33,94,106,12,11.32%,Profit,3,Low Cost Product,Clothing,Trousers,Credit Card
+B-26076,30,47,60,13,21.67%,Profit,2,Low Cost Product,Clothing,T-shirt,COD
+B-25603,60,175,180,5,2.78%,Profit,3,Low Cost Product,Clothing,Trousers,Debit Card
+B-25903,30,70,60,-10,-16.67%,Loss,2,Low Cost Product,Furniture,Furnishings,COD
+B-25938,19.67,34,59,25,42.37%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25868,85,97,170,73,42.94%,Profit,2,Low Cost Product,Electronics,Accessories,UPI
+B-25956,29.5,49,59,10,16.95%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25652,3.43,45,24,-21,-87.50%,Loss,7,Low Cost Product,Clothing,Skirt,COD
+B-25883,13.13,131,105,-26,-24.76%,Loss,8,Low Cost Product,Clothing,Leggings,Credit Card
+B-26096,51.5,57,103,46,44.66%,Profit,2,Low Cost Product,Clothing,Saree,Credit Card
+B-25969,28.5,154,171,17,9.94%,Profit,6,Low Cost Product,Clothing,T-shirt,UPI
+B-25951,51,89,102,13,12.75%,Profit,2,Low Cost Product,Clothing,Stole,Credit Card
+B-25855,49,86,98,12,12.24%,Profit,2,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-26091,14.75,49,59,10,16.95%,Profit,4,Low Cost Product,Clothing,Leggings,COD
+B-25954,47.25,129,189,60,31.75%,Profit,4,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25763,19.33,110,58,-52,-89.66%,Loss,3,Low Cost Product,Furniture,Chairs,COD
+B-25945,20,57,60,3,5.00%,Profit,3,Low Cost Product,Clothing,Saree,UPI
+B-25740,29,66,58,-8,-13.79%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-25818,47,74,94,20,21.28%,Profit,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25603,64.33,359,193,-166,-86.01%,Loss,3,Low Cost Product,Clothing,Saree,EMI
+B-25964,49.75,199,199,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Stole,EMI
+B-25930,22.44,113,202,89,44.06%,Profit,9,Low Cost Product,Clothing,T-shirt,EMI
+B-25930,29,41,58,17,29.31%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25879,28.5,85,57,-28,-49.12%,Loss,2,Low Cost Product,Clothing,Kurti,COD
+B-25903,51,298,204,-94,-46.08%,Loss,4,Low Cost Product,Clothing,Hankerchief,EMI
+B-25614,49,110,98,-12,-12.24%,Loss,2,Low Cost Product,Electronics,Electronic Games,Credit Card
+B-25750,7.33,34,22,-12,-54.55%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25852,48.5,80,97,17,17.53%,Profit,2,Low Cost Product,Clothing,Stole,Credit Card
+B-26008,11.4,33,57,24,42.11%,Profit,5,Low Cost Product,Clothing,Leggings,COD
+B-26092,48.5,83,97,14,14.43%,Profit,2,Low Cost Product,Clothing,T-shirt,Credit Card
+B-25689,48.5,80,97,17,17.53%,Profit,2,Low Cost Product,Clothing,Stole,Credit Card
+B-25730,19.2,74,96,22,22.92%,Profit,5,Low Cost Product,Clothing,Stole,Credit Card
+B-25885,47,67,94,27,28.72%,Profit,2,Low Cost Product,Clothing,Shirt,Credit Card
+B-25999,26,43,26,-17,-65.38%,Loss,1,Low Cost Product,Clothing,Stole,COD
+B-26011,46.5,49,93,44,47.31%,Profit,2,Low Cost Product,Clothing,Stole,Credit Card
+B-25754,23.25,158,93,-65,-69.89%,Loss,4,Low Cost Product,Clothing,Stole,Credit Card
+B-26030,15.33,87,92,5,5.43%,Profit,6,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25851,28.5,30,57,27,47.37%,Profit,2,Low Cost Product,Clothing,T-shirt,COD
+B-25870,19,50,57,7,12.28%,Profit,3,Low Cost Product,Furniture,Furnishings,COD
+B-26074,14.25,36,57,21,36.84%,Profit,4,Low Cost Product,Clothing,Leggings,COD
+B-25861,42.67,124,128,4,3.13%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25797,17.8,93,89,-4,-4.49%,Loss,5,Low Cost Product,Clothing,Saree,Credit Card
+B-25993,31.57,195,221,26,11.76%,Profit,7,Low Cost Product,Furniture,Furnishings,COD
+B-25799,68.33,324,205,-119,-58.05%,Loss,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25721,38.2,140,191,51,26.70%,Profit,5,Low Cost Product,Clothing,Shirt,UPI
+B-26056,51.5,188,206,18,8.74%,Profit,4,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25743,14,56,56,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25854,22,72,88,16,18.18%,Profit,4,Low Cost Product,Clothing,Stole,Credit Card
+B-25748,74.67,166,224,58,25.89%,Profit,3,Low Cost Product,Electronics,Phones,UPI
+B-25976,48.25,185,193,8,4.15%,Profit,4,Low Cost Product,Clothing,T-shirt,UPI
+B-25953,17.4,51,87,36,41.38%,Profit,5,Low Cost Product,Clothing,Stole,Credit Card
+B-25996,189,185,189,4,2.12%,Profit,1,Low Cost Product,Clothing,Saree,UPI
+B-25717,27.5,88,55,-33,-60.00%,Loss,2,Low Cost Product,Furniture,Chairs,COD
+B-25865,28.33,86,85,-1,-1.18%,Loss,3,Low Cost Product,Clothing,Saree,Credit Card
+B-25959,126,196,252,56,22.22%,Profit,2,Low Cost Product,Electronics,Phones,UPI
+B-25855,197,124,197,73,37.06%,Profit,1,Low Cost Product,Furniture,Bookcases,COD
+B-25703,8.5,20,17,-3,-17.65%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-26049,50,72,100,28,28.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25755,16,99,80,-19,-23.75%,Loss,5,Low Cost Product,Clothing,Stole,UPI
+B-26070,75,46,75,29,38.67%,Profit,1,Low Cost Product,Clothing,Trousers,UPI
+B-25755,13,22,26,4,15.38%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-26047,11,43,55,12,21.82%,Profit,5,Low Cost Product,Clothing,Skirt,COD
+B-25604,17.44,152,157,5,3.18%,Profit,9,Low Cost Product,Clothing,Saree,UPI
+B-25651,50,260,200,-60,-30.00%,Loss,4,Low Cost Product,Furniture,Bookcases,UPI
+B-25983,115,225,230,5,2.17%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-26056,71,358,213,-145,-68.08%,Loss,3,Low Cost Product,Furniture,Bookcases,Debit Card
+B-25940,27.5,51,55,4,7.27%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25766,110,239,220,-19,-8.64%,Loss,2,Low Cost Product,Clothing,Saree,Debit Card
+B-25935,50,118,150,32,21.33%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25970,101.5,119,203,84,41.38%,Profit,2,Low Cost Product,Electronics,Printers,UPI
+B-26053,31,62,93,31,33.33%,Profit,3,Low Cost Product,Electronics,Accessories,UPI
+B-25947,48.33,255,290,35,12.07%,Profit,6,Low Cost Product,Clothing,Hankerchief,COD
+B-25856,48,42,48,6,12.50%,Profit,1,Low Cost Product,Clothing,Saree,COD
+B-26030,55.25,186,221,35,15.84%,Profit,4,Low Cost Product,Electronics,Accessories,Debit Card
+B-26069,27.5,37,55,18,32.73%,Profit,2,Low Cost Product,Clothing,Kurti,COD
+B-25653,28.38,125,227,102,44.93%,Profit,8,Low Cost Product,Electronics,Accessories,Debit Card
+B-25627,13.75,94,55,-39,-70.91%,Loss,4,Low Cost Product,Clothing,Stole,COD
+B-25947,103.5,174,207,33,15.94%,Profit,2,Low Cost Product,Electronics,Accessories,UPI
+B-25801,16,58,64,6,9.38%,Profit,4,Low Cost Product,Clothing,Saree,COD
+B-25964,17.8,83,89,6,6.74%,Profit,5,Low Cost Product,Clothing,Saree,COD
+B-25950,27,27,54,27,50.00%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25878,28,43,84,41,48.81%,Profit,3,Low Cost Product,Clothing,T-shirt,Credit Card
+B-25773,104.5,230,209,-21,-10.05%,Loss,2,Low Cost Product,Electronics,Electronic Games,UPI
+B-26081,19.75,46,79,33,41.77%,Profit,4,Low Cost Product,Clothing,Stole,UPI
+B-26027,13.5,46,54,8,14.81%,Profit,4,Low Cost Product,Clothing,T-shirt,COD
+B-25967,25.44,170,229,59,25.76%,Profit,9,Low Cost Product,Clothing,Saree,Debit Card
+B-25901,52.67,120,158,38,24.05%,Profit,3,Low Cost Product,Clothing,Hankerchief,UPI
+B-25951,124,143,248,105,42.34%,Profit,2,Low Cost Product,Electronics,Phones,Debit Card
+B-25853,99.5,193,199,6,3.02%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-25923,253,264,253,-11,-4.35%,Loss,1,Low Cost Product,Clothing,Trousers,Debit Card
+B-25793,64.25,509,257,-252,-98.05%,Loss,4,Low Cost Product,Clothing,Saree,Debit Card
+B-26068,38.6,160,193,33,17.10%,Profit,5,Low Cost Product,Electronics,Accessories,COD
+B-26080,18.17,74,109,35,32.11%,Profit,6,Low Cost Product,Clothing,T-shirt,COD
+B-25843,71.33,184,214,30,14.02%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-26002,20.14,134,141,7,4.96%,Profit,7,Low Cost Product,Clothing,Saree,COD
+B-25993,50.25,169,201,32,15.92%,Profit,4,Low Cost Product,Furniture,Furnishings,UPI
+B-26070,13.5,42,54,12,22.22%,Profit,4,Low Cost Product,Clothing,Shirt,COD
+B-25887,13.83,77,83,6,7.23%,Profit,6,Low Cost Product,Clothing,Shirt,EMI
+B-25654,18,57,54,-3,-5.56%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25898,17.67,48,53,5,9.43%,Profit,3,Low Cost Product,Clothing,T-shirt,COD
+B-25664,129,285,258,-27,-10.47%,Loss,2,Low Cost Product,Electronics,Phones,Debit Card
+B-26012,99.5,191,199,8,4.02%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25979,27.33,109,82,-27,-32.93%,Loss,3,Low Cost Product,Clothing,Kurti,EMI
+B-26054,46.33,103,139,36,25.90%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25757,26.5,38,53,15,28.30%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25623,13.25,52,53,1,1.89%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25824,50.5,63,101,38,37.62%,Profit,2,Low Cost Product,Furniture,Furnishings,COD
+B-25754,131,47,262,215,82.06%,Profit,2,Low Cost Product,Electronics,Printers,Debit Card
+B-25693,16.4,121,82,-39,-47.56%,Loss,5,Low Cost Product,Clothing,T-shirt,EMI
+B-25638,51.33,115,154,39,25.32%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25922,26,34,52,18,34.62%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25919,266.5,1562,1599,37,2.31%,Profit,6,Low Cost Product,Electronics,Electronic Games,UPI
+B-25989,48.29,297,338,41,12.13%,Profit,7,Low Cost Product,Clothing,Hankerchief,UPI
+B-25999,25.5,100,51,-49,-96.08%,Loss,2,Low Cost Product,Electronics,Electronic Games,COD
+B-25661,74.67,305,224,-81,-36.16%,Loss,3,Low Cost Product,Furniture,Chairs,COD
+B-26099,51.75,170,207,37,17.87%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25866,25.5,37,51,14,27.45%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-26098,27.33,74,82,8,9.76%,Profit,3,Low Cost Product,Electronics,Accessories,EMI
+B-26062,25,67,50,-17,-34.00%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-25761,29.22,294,263,-31,-11.79%,Loss,9,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25843,8.33,43,50,7,14.00%,Profit,6,Low Cost Product,Clothing,Skirt,COD
+B-25683,61.25,248,245,-3,-1.22%,Loss,4,Low Cost Product,Electronics,Phones,UPI
+B-25959,13.67,58,82,24,29.27%,Profit,6,Low Cost Product,Clothing,Hankerchief,EMI
+B-25787,28.63,270,229,-41,-17.90%,Loss,8,Low Cost Product,Electronics,Accessories,COD
+B-25951,50,36,50,14,28.00%,Profit,1,Low Cost Product,Electronics,Electronic Games,COD
+B-26056,110,180,220,40,18.18%,Profit,2,Low Cost Product,Electronics,Accessories,COD
+B-25643,131.5,326,263,-63,-23.95%,Loss,2,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-26093,16.2,122,81,-41,-50.62%,Loss,5,Low Cost Product,Clothing,Leggings,EMI
+B-25775,25,67,50,-17,-34.00%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-26093,12.25,44,49,5,10.20%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25851,26.33,190,237,47,19.83%,Profit,9,Low Cost Product,Clothing,T-shirt,UPI
+B-25685,88,294,264,-30,-11.36%,Loss,3,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25651,49,46,49,3,6.12%,Profit,1,Low Cost Product,Clothing,Shirt,COD
+B-25793,10.5,87,63,-24,-38.10%,Loss,6,Low Cost Product,Clothing,Kurti,COD
+B-25708,11.57,132,81,-51,-62.96%,Loss,7,Low Cost Product,Clothing,Stole,EMI
+B-25847,26.4,193,264,71,26.89%,Profit,10,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25954,24,37,48,11,22.92%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-25997,48,33,48,15,31.25%,Profit,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25650,122.5,323,245,-78,-31.84%,Loss,2,Low Cost Product,Electronics,Printers,UPI
+B-25883,29.2,104,146,42,28.77%,Profit,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25945,122.5,235,245,10,4.08%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-25981,122.5,154,245,91,37.14%,Profit,2,Low Cost Product,Furniture,Bookcases,UPI
+B-25862,26.67,77,80,3,3.75%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25877,53.8,236,269,33,12.27%,Profit,5,Low Cost Product,Furniture,Chairs,Debit Card
+B-26090,26.67,58,80,22,27.50%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-26050,47.33,240,284,44,15.49%,Profit,6,Low Cost Product,Clothing,Hankerchief,COD
+B-26072,104.33,269,313,44,14.06%,Profit,3,Low Cost Product,Electronics,Electronic Games,COD
+B-25916,8.89,106,80,-26,-32.50%,Loss,9,Low Cost Product,Clothing,Skirt,EMI
+B-25722,6,56,48,-8,-16.67%,Loss,8,Low Cost Product,Clothing,Stole,COD
+B-25746,43.5,71,87,16,18.39%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-25753,9.4,161,47,-114,-242.55%,Loss,5,Low Cost Product,Furniture,Furnishings,COD
+B-25956,70,112,140,28,20.00%,Profit,2,Low Cost Product,Electronics,Phones,COD
+B-25996,23.5,46,47,1,2.13%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25896,39.5,81,79,-2,-2.53%,Loss,2,Low Cost Product,Furniture,Furnishings,EMI
+B-25796,11.14,142,78,-64,-82.05%,Loss,7,Low Cost Product,Clothing,Stole,EMI
+B-25798,23.5,50,47,-3,-6.38%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-26043,46.25,137,185,48,25.95%,Profit,4,Low Cost Product,Clothing,Stole,UPI
+B-26028,38.5,41,77,36,46.75%,Profit,2,Low Cost Product,Clothing,Shirt,EMI
+B-25812,51.8,212,259,47,18.15%,Profit,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25605,10.71,75,75,0,0.00%,Breakeven Point,7,Low Cost Product,Clothing,Saree,EMI
+B-25702,25,75,75,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Shirt,EMI
+B-25940,11.5,46,46,0,0.00%,Breakeven Point,4,Low Cost Product,Clothing,Leggings,COD
+B-26087,15.33,33,46,13,28.26%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25955,40,187,200,13,6.50%,Profit,5,Low Cost Product,Electronics,Phones,COD
+B-25626,46,60,46,-14,-30.43%,Loss,1,Low Cost Product,Electronics,Phones,COD
+B-25811,31.5,74,126,52,41.27%,Profit,4,Low Cost Product,Clothing,Hankerchief,UPI
+B-25856,24.67,45,74,29,39.19%,Profit,3,Low Cost Product,Clothing,Stole,EMI
+B-25628,11.25,32,45,13,28.89%,Profit,4,Low Cost Product,Clothing,Skirt,COD
+B-26016,24.67,65,74,9,12.16%,Profit,3,Low Cost Product,Clothing,Shirt,UPI
+B-25999,64.5,118,129,11,8.53%,Profit,2,Low Cost Product,Electronics,Phones,UPI
+B-26043,17.43,72,122,50,40.98%,Profit,7,Low Cost Product,Clothing,Stole,UPI
+B-25743,24.67,125,74,-51,-68.92%,Loss,3,Low Cost Product,Clothing,Stole,UPI
+B-26014,55.6,239,278,39,14.03%,Profit,5,Low Cost Product,Furniture,Chairs,Debit Card
+B-25876,70.5,268,282,14,4.96%,Profit,4,Low Cost Product,Clothing,Trousers,Debit Card
+B-25785,22.5,45,45,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,T-shirt,COD
+B-25810,15,39,45,6,13.33%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-25833,15,29,45,16,35.56%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25931,24.33,109,73,-36,-49.32%,Loss,3,Low Cost Product,Furniture,Chairs,UPI
+B-25852,11.25,33,45,12,26.67%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25738,24,78,72,-6,-8.33%,Loss,3,Low Cost Product,Clothing,Saree,UPI
+B-25921,14.2,115,71,-44,-61.97%,Loss,5,Low Cost Product,Electronics,Accessories,UPI
+B-25685,11.25,47,45,-2,-4.44%,Loss,4,Low Cost Product,Clothing,Shirt,COD
+B-25996,47.67,146,286,140,48.95%,Profit,6,Low Cost Product,Clothing,Shirt,Debit Card
+B-25663,147,156,294,138,46.94%,Profit,2,Low Cost Product,Electronics,Printers,Debit Card
+B-25888,74.33,219,223,4,1.79%,Profit,3,Low Cost Product,Electronics,Phones,COD
+B-25677,20,22,20,-2,-10.00%,Loss,1,Low Cost Product,Electronics,Accessories,UPI
+B-26045,50.33,227,302,75,24.83%,Profit,6,Low Cost Product,Furniture,Furnishings,Debit Card
+B-26002,56.5,85,113,28,24.78%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-25953,14.67,42,44,2,4.55%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25617,61,575,305,-270,-88.52%,Loss,5,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25702,102,453,306,-147,-48.04%,Loss,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25799,14,134,70,-64,-91.43%,Loss,5,Low Cost Product,Clothing,Stole,UPI
+B-25985,11,33,44,11,25.00%,Profit,4,Low Cost Product,Clothing,Stole,COD
+B-25952,14.67,30,44,14,31.82%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25754,63.8,7,319,312,97.81%,Profit,5,Low Cost Product,Clothing,Saree,Debit Card
+B-25770,23.92,567,287,-280,-97.56%,Loss,12,Low Cost Product,Furniture,Chairs,UPI
+B-25954,14.67,34,44,10,22.73%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25657,72,468,288,-180,-62.50%,Loss,4,Low Cost Product,Furniture,Chairs,COD
+B-25801,24.5,80,49,-31,-63.27%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-26000,10.75,53,43,-10,-23.26%,Loss,4,Low Cost Product,Clothing,Skirt,COD
+B-25897,14.33,38,43,5,11.63%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-25681,22.67,95,68,-27,-39.71%,Loss,3,Low Cost Product,Electronics,Accessories,UPI
+B-25852,320,176,320,144,45.00%,Profit,1,Low Cost Product,Electronics,Printers,Debit Card
+B-26067,16.75,65,67,2,2.99%,Profit,4,Low Cost Product,Clothing,T-shirt,UPI
+B-25601,13.2,78,66,-12,-18.18%,Loss,5,Low Cost Product,Clothing,Stole,UPI
+B-25804,107,295,321,26,8.10%,Profit,3,Low Cost Product,Electronics,Printers,Debit Card
+B-25751,21.5,48,43,-5,-11.63%,Loss,2,Low Cost Product,Clothing,Saree,COD
+B-25630,22.8,153,114,-39,-34.21%,Loss,5,Low Cost Product,Clothing,Kurti,COD
+B-25899,43,26,43,17,39.53%,Profit,1,Low Cost Product,Clothing,Saree,COD
+B-25751,14.33,22,43,21,48.84%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-26081,127.4,587,637,50,7.85%,Profit,5,Low Cost Product,Clothing,Saree,COD
+B-25851,150,258,300,42,14.00%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-26036,48.71,297,341,44,12.90%,Profit,7,Low Cost Product,Furniture,Furnishings,UPI
+B-25704,34,102,102,0,0.00%,Breakeven Point,3,Low Cost Product,Electronics,Phones,COD
+B-25761,109.33,343,328,-15,-4.57%,Loss,3,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25978,48.71,181,341,160,46.92%,Profit,7,Low Cost Product,Clothing,Stole,Debit Card
+B-26077,8.86,51,62,11,17.74%,Profit,7,Low Cost Product,Clothing,Hankerchief,UPI
+B-25981,14,29,42,13,30.95%,Profit,3,Low Cost Product,Clothing,Leggings,COD
+B-26043,12.4,34,62,28,45.16%,Profit,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25896,21,35,42,7,16.67%,Profit,2,Low Cost Product,Clothing,Kurti,COD
+B-25790,42,45,42,-3,-7.14%,Loss,1,Low Cost Product,Electronics,Electronic Games,COD
+B-25789,62.6,326,313,-13,-4.15%,Loss,5,Low Cost Product,Furniture,Bookcases,UPI
+B-26061,54.5,57,109,52,47.71%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-25923,75.33,168,226,58,25.66%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25868,62,63,62,-1,-1.61%,Loss,1,Low Cost Product,Electronics,Phones,UPI
+B-25777,15.25,86,61,-25,-40.98%,Loss,4,Low Cost Product,Electronics,Accessories,UPI
+B-25999,44.4,148,222,74,33.33%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25854,48.86,496,342,-154,-45.03%,Loss,7,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25667,114.67,378,344,-34,-9.88%,Loss,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25829,49.29,307,345,38,11.01%,Profit,7,Low Cost Product,Clothing,Hankerchief,Debit Card
+B-25705,23,46,46,0,0.00%,Breakeven Point,2,Low Cost Product,Electronics,Electronic Games,COD
+B-25843,51,181,255,74,29.02%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25958,120,328,360,32,8.89%,Profit,3,Low Cost Product,Clothing,Saree,UPI
+B-25893,124,313,372,59,15.86%,Profit,3,Low Cost Product,Electronics,Printers,UPI
+B-25855,30.5,31,61,30,49.18%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25616,8.4,30,42,12,28.57%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25630,21,68,42,-26,-61.90%,Loss,2,Low Cost Product,Clothing,Kurti,COD
+B-25936,15.25,36,61,25,40.98%,Profit,4,Low Cost Product,Clothing,Saree,UPI
+B-25830,6.83,30,41,11,26.83%,Profit,6,Low Cost Product,Clothing,Hankerchief,COD
+B-25930,13.33,27,40,13,32.50%,Profit,3,Low Cost Product,Clothing,T-shirt,COD
+B-25808,29.5,38,59,21,35.59%,Profit,2,Low Cost Product,Clothing,Stole,UPI
+B-25979,28.5,30,57,27,47.37%,Profit,2,Low Cost Product,Clothing,Shirt,UPI
+B-25687,17,11,17,6,35.29%,Profit,1,Low Cost Product,Clothing,Stole,UPI
+B-26087,20,30,40,10,25.00%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25764,174.5,373,349,-24,-6.88%,Loss,2,Low Cost Product,Clothing,Saree,Debit Card
+B-25782,47.86,357,335,-22,-6.57%,Loss,7,Low Cost Product,Furniture,Chairs,UPI
+B-25854,13.33,24,40,16,40.00%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-26085,20,23,40,17,42.50%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25630,13.33,47,40,-7,-17.50%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25999,44,278,352,74,21.02%,Profit,8,Low Cost Product,Clothing,Stole,Debit Card
+B-25648,13.75,81,55,-26,-47.27%,Loss,4,Low Cost Product,Clothing,Saree,UPI
+B-25952,70.4,334,352,18,5.11%,Profit,5,Low Cost Product,Clothing,Trousers,Debit Card
+B-25710,13.25,71,53,-18,-33.96%,Loss,4,Low Cost Product,Clothing,T-shirt,UPI
+B-25685,25.5,44,51,7,13.73%,Profit,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25740,13.33,77,40,-37,-92.50%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25973,7.8,25,39,14,35.90%,Profit,5,Low Cost Product,Clothing,Leggings,COD
+B-25769,177.5,359,355,-4,-1.13%,Loss,2,Low Cost Product,Clothing,Saree,Debit Card
+B-25687,178.5,218,357,139,38.94%,Profit,2,Low Cost Product,Clothing,Saree,Debit Card
+B-25603,38,20,38,18,47.37%,Profit,1,Low Cost Product,Clothing,Kurti,COD
+B-26050,19,29,38,9,23.68%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25748,35.25,131,141,10,7.09%,Profit,4,Low Cost Product,Clothing,Shirt,UPI
+B-25833,4,32,36,4,11.11%,Profit,9,Low Cost Product,Clothing,Hankerchief,COD
+B-25930,70.2,445,351,-94,-26.78%,Loss,5,Low Cost Product,Electronics,Electronic Games,COD
+B-26035,123,354,369,15,4.07%,Profit,3,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25851,8.83,29,53,24,45.28%,Profit,6,Low Cost Product,Clothing,Hankerchief,EMI
+B-25718,371,256,371,115,31.00%,Profit,1,Mid Cost Product,Furniture,Bookcases,Debit Card
+B-25898,124.75,466,499,33,6.61%,Profit,4,Low Cost Product,Clothing,Saree,COD
+B-25893,31.86,161,223,62,27.80%,Profit,7,Low Cost Product,Clothing,Shirt,COD
+B-25983,8.33,54,50,-4,-8.00%,Loss,6,Low Cost Product,Clothing,T-shirt,EMI
+B-26056,65.17,301,391,90,23.02%,Profit,6,Low Cost Product,Electronics,Phones,Debit Card
+B-25715,138.67,279,416,137,32.93%,Profit,3,Low Cost Product,Electronics,Phones,Debit Card
+B-25702,47.11,441,424,-17,-4.01%,Loss,9,Low Cost Product,Furniture,Chairs,Debit Card
+B-25618,362,235,362,127,35.08%,Profit,1,Mid Cost Product,Furniture,Bookcases,COD
+B-25643,36,43,36,-7,-19.44%,Loss,1,Low Cost Product,Electronics,Electronic Games,COD
+B-25961,11.33,44,34,-10,-29.41%,Loss,3,Low Cost Product,Clothing,Skirt,COD
+B-25873,122.33,294,367,73,19.89%,Profit,3,Low Cost Product,Electronics,Electronic Games,UPI
+B-26053,60.71,217,425,208,48.94%,Profit,7,Low Cost Product,Clothing,Saree,Debit Card
+B-25683,144.33,407,433,26,6.00%,Profit,3,Low Cost Product,Electronics,Printers,Debit Card
+B-25718,153.33,429,460,31,6.74%,Profit,3,Low Cost Product,Furniture,Bookcases,Debit Card
+B-25753,12.4,118,62,-56,-90.32%,Loss,5,Low Cost Product,Clothing,Kurti,COD
+B-25852,50,34,50,16,32.00%,Profit,1,Low Cost Product,Clothing,Stole,EMI
+B-25914,153.33,603,460,-143,-31.09%,Loss,3,Low Cost Product,Furniture,Chairs,Debit Card
+B-26083,11.33,31,34,3,8.82%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25857,113.5,168,227,59,25.99%,Profit,2,Low Cost Product,Furniture,Furnishings,UPI
+B-25939,117.25,436,469,33,7.04%,Profit,4,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25851,51.5,57,103,46,44.66%,Profit,2,Low Cost Product,Clothing,Saree,UPI
+B-25699,6.8,47,34,-13,-38.24%,Loss,5,Low Cost Product,Clothing,Leggings,COD
+B-26078,45.67,74,137,63,45.99%,Profit,3,Low Cost Product,Clothing,Stole,COD
+B-26075,17,22,34,12,35.29%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25956,118.5,418,474,56,11.81%,Profit,4,Low Cost Product,Electronics,Phones,Debit Card
+B-25861,25,47,50,3,6.00%,Profit,2,Low Cost Product,Clothing,Stole,EMI
+B-25777,17.25,136,69,-67,-97.10%,Loss,4,Low Cost Product,Clothing,Kurti,UPI
+B-25634,129.67,472,389,-83,-21.34%,Loss,3,Low Cost Product,Furniture,Chairs,UPI
+B-25753,9.63,120,77,-43,-55.84%,Loss,8,Low Cost Product,Clothing,Stole,COD
+B-25687,17,30,51,21,41.18%,Profit,3,Low Cost Product,Clothing,T-shirt,COD
+B-25885,197,248,394,146,37.06%,Profit,2,Low Cost Product,Furniture,Bookcases,UPI
+B-25767,24,70,48,-22,-45.83%,Loss,2,Low Cost Product,Clothing,Saree,EMI
+B-25961,6.8,46,34,-12,-35.29%,Loss,5,Low Cost Product,Clothing,Leggings,COD
+B-25923,161.33,456,484,28,5.79%,Profit,3,Low Cost Product,Electronics,Printers,Debit Card
+B-25799,11.75,74,47,-27,-57.45%,Loss,4,Low Cost Product,Clothing,Saree,EMI
+B-25955,11.25,37,45,8,17.78%,Profit,4,Low Cost Product,Clothing,Skirt,EMI
+B-26015,128,73,128,55,42.97%,Profit,1,Low Cost Product,Clothing,Saree,COD
+B-26051,133.8,595,669,74,11.06%,Profit,5,Low Cost Product,Furniture,Bookcases,COD
+B-25822,17,21,34,13,38.24%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25989,14.67,30,44,14,31.82%,Profit,3,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25910,16.5,32,33,1,3.03%,Profit,2,Low Cost Product,Clothing,Shirt,COD
+B-25956,11,23,33,10,30.30%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25986,162.33,510,487,-23,-4.72%,Loss,3,Low Cost Product,Electronics,Printers,Debit Card
+B-26098,165.67,318,497,179,36.02%,Profit,3,Low Cost Product,Furniture,Chairs,Debit Card
+B-26061,254,305,508,203,39.96%,Profit,2,Low Cost Product,Electronics,Accessories,Debit Card
+B-25954,262,549,524,-25,-4.77%,Loss,2,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-26034,85,242,425,183,43.06%,Profit,5,Low Cost Product,Electronics,Accessories,UPI
+B-25909,56,112,168,56,33.33%,Profit,3,Low Cost Product,Clothing,Saree,COD
+B-25692,20.14,113,141,28,19.86%,Profit,7,Low Cost Product,Furniture,Furnishings,UPI
+B-25959,143,412,429,17,3.96%,Profit,3,Low Cost Product,Furniture,Chairs,UPI
+B-25745,14.67,52,44,-8,-18.18%,Loss,3,Low Cost Product,Clothing,Stole,Credit Card
+B-25689,49.67,13,149,136,91.28%,Profit,3,Low Cost Product,Clothing,Stole,UPI
+B-25786,14.67,78,44,-34,-77.27%,Loss,3,Low Cost Product,Clothing,Stole,Credit Card
+B-25897,11,23,33,10,30.30%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-26056,16.5,24,33,9,27.27%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25855,221,411,442,31,7.01%,Profit,2,Low Cost Product,Electronics,Electronic Games,UPI
+B-25667,8.2,35,41,6,14.63%,Profit,5,Low Cost Product,Clothing,Skirt,Credit Card
+B-25701,6.6,45,33,-12,-36.36%,Loss,5,Low Cost Product,Clothing,Hankerchief,COD
+B-26046,4,29,32,3,9.38%,Profit,8,Low Cost Product,Clothing,Hankerchief,COD
+B-25676,10.67,26,32,6,18.75%,Profit,3,Low Cost Product,Clothing,Shirt,COD
+B-26045,179,102,179,77,43.02%,Profit,1,Low Cost Product,Clothing,Saree,UPI
+B-25889,31,21,31,10,32.26%,Profit,1,Low Cost Product,Clothing,Kurti,COD
+B-25900,28,72,140,68,48.57%,Profit,5,Low Cost Product,Clothing,T-shirt,COD
+B-25685,176.33,392,529,137,25.90%,Profit,3,Low Cost Product,Electronics,Phones,Debit Card
+B-25622,178,534,534,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25709,41,47,41,-6,-14.63%,Loss,1,Low Cost Product,Furniture,Chairs,Credit Card
+B-25798,189.5,316,379,63,16.62%,Profit,2,Low Cost Product,Clothing,Saree,COD
+B-25933,27,125,81,-44,-54.32%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25793,8,73,40,-33,-82.50%,Loss,5,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25951,40,22,40,18,45.00%,Profit,1,Low Cost Product,Electronics,Accessories,Credit Card
+B-25656,178,534,534,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Saree,Debit Card
+B-26056,15.5,22,31,9,29.03%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25870,52.56,586,473,-113,-23.89%,Loss,9,Low Cost Product,Clothing,Hankerchief,UPI
+B-25690,10.33,41,31,-10,-32.26%,Loss,3,Low Cost Product,Clothing,Skirt,COD
+B-25702,7.75,34,31,-3,-9.68%,Loss,4,Low Cost Product,Clothing,Saree,COD
+B-25752,15.17,76,91,15,16.48%,Profit,6,Low Cost Product,Clothing,T-shirt,UPI
+B-25781,15,55,30,-25,-83.33%,Loss,2,Low Cost Product,Clothing,T-shirt,COD
+B-26038,30,24,30,6,20.00%,Profit,1,Low Cost Product,Clothing,T-shirt,COD
+B-25761,13.33,40,40,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Saree,Credit Card
+B-25751,267,529,534,5,0.94%,Profit,2,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25750,77,685,539,-146,-27.09%,Loss,7,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25726,61.25,618,490,-128,-26.12%,Loss,8,Low Cost Product,Furniture,Bookcases,UPI
+B-26048,81.5,82,163,81,49.69%,Profit,2,Low Cost Product,Electronics,Accessories,COD
+B-26051,30.67,99,184,85,46.20%,Profit,6,Low Cost Product,Clothing,T-shirt,UPI
+B-25614,123.5,440,494,54,10.93%,Profit,4,Low Cost Product,Furniture,Bookcases,COD
+B-25907,6,19,30,11,36.67%,Profit,5,Low Cost Product,Clothing,Hankerchief,COD
+B-25789,30,30,30,0,0.00%,Breakeven Point,1,Low Cost Product,Clothing,Kurti,COD
+B-26097,19.5,57,39,-18,-46.15%,Loss,2,Low Cost Product,Clothing,Leggings,Credit Card
+B-25902,566.67,1615,1700,85,5.00%,Profit,3,Mid Cost Product,Clothing,Trousers,COD
+B-25657,55.33,375,332,-43,-12.95%,Loss,6,Low Cost Product,Electronics,Phones,UPI
+B-25854,48.44,305,436,131,30.05%,Profit,9,Low Cost Product,Clothing,Hankerchief,UPI
+B-25610,15,35,30,-5,-16.67%,Loss,2,Low Cost Product,Furniture,Furnishings,COD
+B-25733,15,40,30,-10,-33.33%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-25798,12.67,51,38,-13,-34.21%,Loss,3,Low Cost Product,Clothing,Stole,Credit Card
+B-25803,170.33,317,511,194,37.96%,Profit,3,Low Cost Product,Furniture,Chairs,UPI
+B-25755,12.33,90,37,-53,-143.24%,Loss,3,Low Cost Product,Clothing,Saree,Credit Card
+B-25850,256.5,298,513,215,41.91%,Profit,2,Low Cost Product,Electronics,Accessories,COD
+B-25667,129,447,516,69,13.37%,Profit,4,Low Cost Product,Furniture,Bookcases,UPI
+B-25796,279.5,578,559,-19,-3.40%,Loss,2,Low Cost Product,Clothing,Trousers,Debit Card
+B-26013,9.67,39,29,-10,-34.48%,Loss,3,Low Cost Product,Clothing,Skirt,COD
+B-25683,29.6,96,148,52,35.14%,Profit,5,Low Cost Product,Clothing,Stole,UPI
+B-26054,279.5,733,559,-174,-31.13%,Loss,2,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-26010,175.67,501,527,26,4.93%,Profit,3,Low Cost Product,Electronics,Electronic Games,COD
+B-25979,186.67,516,560,44,7.86%,Profit,3,Low Cost Product,Clothing,Saree,Debit Card
+B-25973,47.58,463,571,108,18.91%,Profit,12,Low Cost Product,Clothing,Stole,Debit Card
+B-25975,9.67,27,29,2,6.90%,Profit,3,Low Cost Product,Clothing,Skirt,COD
+B-26010,14.5,26,29,3,10.34%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25767,9.67,32,29,-3,-10.34%,Loss,3,Low Cost Product,Clothing,Saree,COD
+B-25815,17.5,21,35,14,40.00%,Profit,2,Low Cost Product,Clothing,Stole,Credit Card
+B-25853,193,440,579,139,24.01%,Profit,3,Low Cost Product,Electronics,Printers,Debit Card
+B-25756,7.25,53,29,-24,-82.76%,Loss,4,Low Cost Product,Clothing,Leggings,COD
+B-25755,148.25,380,593,213,35.92%,Profit,4,Low Cost Product,Furniture,Bookcases,Debit Card
+B-25996,108.5,145,217,72,33.18%,Profit,2,Low Cost Product,Furniture,Furnishings,COD
+B-25619,44.13,263,353,90,25.50%,Profit,8,Low Cost Product,Clothing,Saree,COD
+B-26050,191,290,382,92,24.08%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-26000,149.25,504,597,93,15.58%,Profit,4,Low Cost Product,Furniture,Chairs,Debit Card
+B-26058,30.29,115,212,97,45.75%,Profit,7,Low Cost Product,Clothing,Hankerchief,COD
+B-25856,137.8,599,689,90,13.06%,Profit,5,Low Cost Product,Clothing,Saree,COD
+B-26044,9.33,38,28,-10,-35.71%,Loss,3,Low Cost Product,Clothing,Skirt,COD
+B-25654,11.33,22,34,12,35.29%,Profit,3,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-26051,120,702,600,-102,-17.00%,Loss,5,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25636,127.4,524,637,113,17.74%,Profit,5,Low Cost Product,Clothing,Saree,UPI
+B-25710,88,685,616,-69,-11.20%,Loss,7,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25656,312,587,624,37,5.93%,Profit,2,Low Cost Product,Electronics,Electronic Games,Debit Card
+B-25919,28,24,28,4,14.29%,Profit,1,Low Cost Product,Clothing,T-shirt,COD
+B-25781,83.43,1028,584,-444,-76.03%,Loss,7,Low Cost Product,Electronics,Printers,UPI
+B-25899,7,22,28,6,21.43%,Profit,4,Low Cost Product,Clothing,Skirt,COD
+B-26093,33,34,33,-1,-3.03%,Loss,1,Low Cost Product,Clothing,Saree,Credit Card
+B-25753,13.5,47,27,-20,-74.07%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25858,13.5,22,27,5,18.52%,Profit,2,Low Cost Product,Clothing,Skirt,COD
+B-25762,9,23,27,4,14.81%,Profit,3,Low Cost Product,Clothing,Skirt,COD
+B-25625,127,984,635,-349,-54.96%,Loss,5,Low Cost Product,Clothing,Saree,Debit Card
+B-25857,149.5,432,598,166,27.76%,Profit,4,Low Cost Product,Furniture,Bookcases,UPI
+B-25919,318,840,636,-204,-32.08%,Loss,2,Low Cost Product,Electronics,Printers,Debit Card
+B-25864,13.5,18,27,9,33.33%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25698,6.75,33,27,-6,-22.22%,Loss,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25959,79.63,425,637,212,33.28%,Profit,8,Low Cost Product,Electronics,Phones,Debit Card
+B-26073,32.22,180,290,110,37.93%,Profit,9,Low Cost Product,Clothing,Stole,UPI
+B-25649,13.5,52,27,-25,-92.59%,Loss,2,Low Cost Product,Clothing,Stole,COD
+B-25806,158,746,632,-114,-18.04%,Loss,4,Low Cost Product,Furniture,Tables,UPI
+B-25756,321.5,688,643,-45,-7.00%,Loss,2,Low Cost Product,Electronics,Printers,Debit Card
+B-26003,108.67,639,652,13,1.99%,Profit,6,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25752,33,60,33,-27,-81.82%,Loss,1,Low Cost Product,Furniture,Chairs,Credit Card
+B-25783,13,24,26,2,7.69%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25802,57.55,1266,633,-633,-100.00%,Loss,11,Low Cost Product,Electronics,Accessories,UPI
+B-25881,13,17,26,9,34.62%,Profit,2,Low Cost Product,Clothing,Leggings,COD
+B-25898,47.75,98,191,93,48.69%,Profit,4,Low Cost Product,Clothing,Shirt,UPI
+B-25696,295.67,807,887,80,9.02%,Profit,3,Low Cost Product,Electronics,Printers,UPI
+B-25826,318.5,376,637,261,40.97%,Profit,2,Low Cost Product,Electronics,Printers,COD
+B-25745,134,655,670,15,2.24%,Profit,5,Low Cost Product,Furniture,Bookcases,Debit Card
+B-25943,6.5,19,26,7,26.92%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-26051,135.2,481,676,195,28.85%,Profit,5,Low Cost Product,Furniture,Bookcases,Debit Card
+B-25624,8.67,14,26,12,46.15%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25723,26,50,26,-24,-92.31%,Loss,1,Low Cost Product,Clothing,Stole,COD
+B-26052,12.5,18,25,7,28.00%,Profit,2,Low Cost Product,Clothing,Stole,COD
+B-25603,24,54,24,-30,-125.00%,Loss,1,Low Cost Product,Furniture,Chairs,COD
+B-25983,32,44,32,-12,-37.50%,Loss,1,Low Cost Product,Furniture,Chairs,Credit Card
+B-25650,15.5,33,31,-2,-6.45%,Loss,2,Low Cost Product,Clothing,Saree,Credit Card
+B-25656,130.2,482,651,169,25.96%,Profit,5,Low Cost Product,Electronics,Printers,COD
+B-26018,108.67,219,326,107,32.82%,Profit,3,Low Cost Product,Furniture,Furnishings,UPI
+B-25783,15,36,30,-6,-20.00%,Loss,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25951,15,25,30,5,16.67%,Profit,2,Low Cost Product,Clothing,Kurti,UPI
+B-25974,331,422,662,240,36.25%,Profit,2,Low Cost Product,Furniture,Bookcases,COD
+B-25754,15,53,30,-23,-76.67%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-26073,9.67,20,29,9,31.03%,Profit,3,Low Cost Product,Clothing,Saree,UPI
+B-25796,28,27,28,1,3.57%,Profit,1,Low Cost Product,Electronics,Accessories,UPI
+B-25653,14,31,28,-3,-10.71%,Loss,2,Low Cost Product,Clothing,Saree,UPI
+B-25884,6,22,24,2,8.33%,Profit,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25650,14,54,28,-26,-92.86%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-26045,27,22,27,5,18.52%,Profit,1,Low Cost Product,Clothing,Stole,UPI
+B-25672,27,42,27,-15,-55.56%,Loss,1,Low Cost Product,Clothing,Stole,UPI
+B-25949,8,13,24,11,45.83%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25733,5.75,29,23,-6,-26.09%,Loss,4,Low Cost Product,Clothing,Hankerchief,COD
+B-25697,64.4,129,322,193,59.94%,Profit,5,Low Cost Product,Electronics,Printers,COD
+B-25893,114.67,791,688,-103,-14.97%,Loss,6,Low Cost Product,Electronics,Accessories,Debit Card
+B-25802,23,26,23,-3,-13.04%,Loss,1,Low Cost Product,Clothing,Shirt,COD
+B-25961,8.67,23,26,3,11.54%,Profit,3,Low Cost Product,Clothing,Skirt,UPI
+B-25751,34,124,68,-56,-82.35%,Loss,2,Low Cost Product,Electronics,Phones,COD
+B-25814,115.5,293,462,169,36.58%,Profit,4,Low Cost Product,Clothing,Saree,COD
+B-25702,313.67,738,941,203,21.57%,Profit,3,Low Cost Product,Furniture,Tables,UPI
+B-25896,11.5,19,23,4,17.39%,Profit,2,Low Cost Product,Clothing,Skirt,COD
+B-25969,360,677,720,43,5.97%,Profit,2,Mid Cost Product,Electronics,Printers,UPI
+B-25778,181,1171,724,-447,-61.74%,Loss,4,Low Cost Product,Electronics,Electronic Games,UPI
+B-25859,362,471,724,253,34.94%,Profit,2,Mid Cost Product,Furniture,Bookcases,UPI
+B-25810,6.5,16,26,10,38.46%,Profit,4,Low Cost Product,Clothing,Hankerchief,UPI
+B-25616,7.33,24,22,-2,-9.09%,Loss,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25633,177.75,719,711,-8,-1.13%,Loss,4,Low Cost Product,Clothing,Saree,Debit Card
+B-25753,21.4,76,107,31,28.97%,Profit,5,Low Cost Product,Clothing,T-shirt,COD
+B-25764,382.5,918,765,-153,-20.00%,Loss,2,Mid Cost Product,Electronics,Phones,Debit Card
+B-25864,11,14,22,8,36.36%,Profit,2,Low Cost Product,Clothing,Leggings,COD
+B-25725,13,31,26,-5,-19.23%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-25858,7.33,14,22,8,36.36%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25817,148.6,654,743,89,11.98%,Profit,5,Low Cost Product,Electronics,Printers,UPI
+B-25703,5.5,37,22,-15,-68.18%,Loss,4,Low Cost Product,Clothing,Kurti,COD
+B-25610,130.17,187,781,594,76.06%,Profit,6,Low Cost Product,Electronics,Printers,Debit Card
+B-25652,5,27,25,-2,-8.00%,Loss,5,Low Cost Product,Clothing,Hankerchief,UPI
+B-25891,12.5,23,25,2,8.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25764,23.8,76,119,43,36.13%,Profit,5,Low Cost Product,Clothing,T-shirt,COD
+B-25664,392.5,733,785,52,6.62%,Profit,2,Mid Cost Product,Electronics,Phones,Debit Card
+B-25645,36.6,249,183,-66,-36.07%,Loss,5,Low Cost Product,Electronics,Phones,UPI
+B-26008,22,18,22,4,18.18%,Profit,1,Low Cost Product,Clothing,Stole,COD
+B-26061,128.4,462,642,180,28.04%,Profit,5,Low Cost Product,Clothing,Saree,COD
+B-25781,153.4,1120,767,-353,-46.02%,Loss,5,Low Cost Product,Clothing,Trousers,COD
+B-25999,256.67,447,770,323,41.95%,Profit,3,Low Cost Product,Electronics,Accessories,COD
+B-25783,7,38,21,-17,-80.95%,Loss,3,Low Cost Product,Clothing,Shirt,COD
+B-25800,7,27,21,-6,-28.57%,Loss,3,Low Cost Product,Clothing,Leggings,COD
+B-26093,246,305,492,187,38.01%,Profit,2,Low Cost Product,Electronics,Accessories,UPI
+B-25638,272,912,816,-96,-11.76%,Loss,3,Low Cost Product,Electronics,Printers,Debit Card
+B-26026,8.33,23,25,2,8.00%,Profit,3,Low Cost Product,Clothing,Kurti,Credit Card
+B-25902,114.57,682,802,120,14.96%,Profit,7,Low Cost Product,Electronics,Accessories,COD
+B-25968,115.86,657,811,154,18.99%,Profit,7,Low Cost Product,Electronics,Accessories,UPI
+B-26099,167,568,835,267,31.98%,Profit,5,Low Cost Product,Electronics,Phones,Debit Card
+B-25699,21,26,21,-5,-23.81%,Loss,1,Low Cost Product,Electronics,Accessories,COD
+B-26076,112.5,640,450,-190,-42.22%,Loss,4,Low Cost Product,Furniture,Bookcases,COD
+B-25793,6,25,24,-1,-4.17%,Loss,4,Low Cost Product,Clothing,Skirt,Credit Card
+B-25671,277.33,832,832,0,0.00%,Breakeven Point,3,Low Cost Product,Clothing,Trousers,UPI
+B-26040,277.67,740,833,93,11.16%,Profit,3,Low Cost Product,Clothing,Trousers,UPI
+B-26059,20,14,20,6,30.00%,Profit,1,Low Cost Product,Clothing,T-shirt,COD
+B-25725,3.29,28,23,-5,-21.74%,Loss,7,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25855,110,792,550,-242,-44.00%,Loss,5,Low Cost Product,Furniture,Furnishings,UPI
+B-25738,74,239,148,-91,-61.49%,Loss,2,Low Cost Product,Electronics,Phones,COD
+B-25899,423,837,846,9,1.06%,Profit,2,Mid Cost Product,Furniture,Chairs,Debit Card
+B-25608,142.67,471,856,385,44.98%,Profit,6,Low Cost Product,Electronics,Printers,COD
+B-25904,435.5,740,871,131,15.04%,Profit,2,Mid Cost Product,Furniture,Bookcases,UPI
+B-26056,4.75,37,19,-18,-94.74%,Loss,4,Low Cost Product,Clothing,Kurti,COD
+B-25669,305,676,610,-66,-10.82%,Loss,2,Low Cost Product,Furniture,Tables,COD
+B-25638,110,783,880,97,11.02%,Profit,8,Low Cost Product,Furniture,Furnishings,Debit Card
+B-25953,5.5,30,22,-8,-36.36%,Loss,4,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25841,11,11,22,11,50.00%,Profit,2,Low Cost Product,Clothing,Skirt,Credit Card
+B-26071,7,17,21,4,19.05%,Profit,3,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25793,6,17,18,1,5.56%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25813,130.14,709,911,202,22.17%,Profit,7,Low Cost Product,Furniture,Chairs,COD
+B-26010,6,16,18,2,11.11%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25825,182.2,556,911,355,38.97%,Profit,5,Low Cost Product,Electronics,Phones,Debit Card
+B-25630,71.5,272,143,-129,-90.21%,Loss,2,Low Cost Product,Electronics,Phones,COD
+B-25986,102,896,918,22,2.40%,Profit,9,Low Cost Product,Electronics,Electronic Games,COD
+B-25650,185,1372,925,-447,-48.32%,Loss,5,Low Cost Product,Electronics,Electronic Games,COD
+B-26078,8.5,9,17,8,47.06%,Profit,2,Low Cost Product,Clothing,Skirt,COD
+B-25890,51.67,258,465,207,44.52%,Profit,9,Low Cost Product,Clothing,Saree,COD
+B-25691,5.67,26,17,-9,-52.94%,Loss,3,Low Cost Product,Clothing,Stole,COD
+B-25952,233.75,821,935,114,12.19%,Profit,4,Low Cost Product,Electronics,Electronic Games,UPI
+B-25651,8,26,16,-10,-62.50%,Loss,2,Low Cost Product,Clothing,T-shirt,COD
+B-25955,318,859,954,95,9.96%,Profit,3,Low Cost Product,Electronics,Printers,UPI
+B-25898,305,1014,915,-99,-10.82%,Loss,3,Low Cost Product,Furniture,Tables,Debit Card
+B-25838,318.33,650,955,305,31.94%,Profit,3,Low Cost Product,Electronics,Printers,Debit Card
+B-25797,244,683,976,293,30.02%,Profit,4,Low Cost Product,Electronics,Accessories,COD
+B-25738,178.17,1069,1069,0,0.00%,Breakeven Point,6,Low Cost Product,Clothing,Saree,EMI
+B-25661,6.33,34,19,-15,-78.95%,Loss,3,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25997,5.33,10,16,6,37.50%,Profit,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25667,128.75,824,1030,206,20.00%,Profit,8,Low Cost Product,Electronics,Printers,UPI
+B-25753,103.33,538,620,82,13.23%,Profit,6,Low Cost Product,Electronics,Accessories,COD
+B-25848,8,8,16,8,50.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-26097,9.5,11,19,8,42.11%,Profit,2,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25633,62.25,379,249,-130,-52.21%,Loss,4,Low Cost Product,Electronics,Phones,UPI
+B-25807,16,10,16,6,37.50%,Profit,1,Low Cost Product,Clothing,Stole,COD
+B-25752,151.22,1164,1361,197,14.47%,Profit,9,Low Cost Product,Furniture,Bookcases,COD
+B-26052,15,14,15,1,6.67%,Profit,1,Low Cost Product,Clothing,Shirt,COD
+B-25610,269,1114,1076,-38,-3.53%,Loss,4,Low Cost Product,Electronics,Printers,COD
+B-25888,6,16,18,2,11.11%,Profit,3,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25937,367,749,1101,352,31.97%,Profit,3,Mid Cost Product,Furniture,Bookcases,UPI
+B-25828,15,13,15,2,13.33%,Profit,1,Low Cost Product,Clothing,Leggings,COD
+B-26048,276,895,1104,209,18.93%,Profit,4,Low Cost Product,Clothing,Trousers,UPI
+B-25670,14,12,14,2,14.29%,Profit,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25757,14,9,14,5,35.71%,Profit,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25751,7,17,14,-3,-21.43%,Loss,2,Low Cost Product,Clothing,Leggings,COD
+B-25687,3.5,15,14,-1,-7.14%,Loss,4,Low Cost Product,Clothing,Kurti,COD
+B-25710,13,21,13,-8,-61.54%,Loss,1,Low Cost Product,Clothing,T-shirt,COD
+B-25656,4.33,14,13,-1,-7.69%,Loss,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25601,182.14,127,1275,1148,90.04%,Profit,7,Low Cost Product,Furniture,Bookcases,EMI
+B-26053,8.5,16,17,1,5.88%,Profit,2,Low Cost Product,Clothing,Skirt,Credit Card
+B-26001,6.5,13,13,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25964,115.45,724,1270,546,42.99%,Profit,11,Low Cost Product,Electronics,Electronic Games,EMI
+B-26062,13,15,13,-2,-15.38%,Loss,1,Low Cost Product,Clothing,Stole,COD
+B-25982,13,10,13,3,23.08%,Profit,1,Low Cost Product,Clothing,Leggings,COD
+B-25864,17,12,17,5,29.41%,Profit,1,Low Cost Product,Clothing,Hankerchief,UPI
+B-25693,6.5,26,13,-13,-100.00%,Loss,2,Low Cost Product,Clothing,Skirt,COD
+B-25802,6.5,22,13,-9,-69.23%,Loss,2,Low Cost Product,Clothing,Skirt,COD
+B-25676,252.6,1319,1263,-56,-4.43%,Loss,5,Low Cost Product,Clothing,Trousers,EMI
+B-25639,543,1782,1629,-153,-9.39%,Loss,3,Mid Cost Product,Electronics,Phones,COD
+B-25757,5.67,10,17,7,41.18%,Profit,3,Low Cost Product,Clothing,Hankerchief,UPI
+B-26003,8.5,15,17,2,11.76%,Profit,2,Low Cost Product,Clothing,Skirt,UPI
+B-26055,625,1262,1250,-12,-0.96%,Loss,2,Mid Cost Product,Electronics,Printers,EMI
+B-25786,5.67,28,17,-11,-64.71%,Loss,3,Low Cost Product,Clothing,Skirt,UPI
+B-25919,139.57,1221,977,-244,-24.97%,Loss,7,Low Cost Product,Electronics,Phones,COD
+B-25894,415.33,1184,1246,62,4.98%,Profit,3,Mid Cost Product,Furniture,Bookcases,EMI
+B-25979,6,11,12,1,8.33%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25651,5.5,15,11,-4,-36.36%,Loss,2,Low Cost Product,Clothing,Skirt,COD
+B-25653,165.88,1009,1327,318,23.96%,Profit,8,Low Cost Product,Furniture,Chairs,EMI
+B-25855,263.8,752,1319,567,42.99%,Profit,5,Low Cost Product,Electronics,Printers,COD
+B-25793,127.45,1293,1402,109,7.77%,Profit,11,Low Cost Product,Clothing,Saree,EMI
+B-26073,378.5,772,1514,742,49.01%,Profit,4,Mid Cost Product,Electronics,Printers,EMI
+B-25881,225.17,1240,1351,111,8.22%,Profit,6,Low Cost Product,Electronics,Electronic Games,COD
+B-25603,271,1415,1355,-60,-4.43%,Loss,5,Low Cost Product,Clothing,Trousers,COD
+B-25851,5,8,10,2,20.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25883,5,12,10,-2,-20.00%,Loss,2,Low Cost Product,Clothing,Leggings,COD
+B-25768,263.67,2025,1582,-443,-28.00%,Loss,6,Low Cost Product,Clothing,Trousers,EMI
+B-25953,135.33,866,1218,352,28.90%,Profit,9,Low Cost Product,Furniture,Bookcases,EMI
+B-25755,64.2,6,321,315,98.13%,Profit,5,Low Cost Product,Clothing,Saree,UPI
+B-26057,147.2,390,736,346,47.01%,Profit,5,Low Cost Product,Electronics,Printers,COD
+B-26055,152.25,1638,1218,-420,-34.48%,Loss,8,Low Cost Product,Furniture,Bookcases,COD
+B-25855,128.38,586,1027,441,42.94%,Profit,8,Low Cost Product,Clothing,Saree,COD
+B-25989,10,5,10,5,50.00%,Profit,1,Low Cost Product,Clothing,Stole,COD
+B-26099,473.2,1814,2366,552,23.33%,Profit,5,Mid Cost Product,Clothing,Trousers,UPI
+B-25652,4.5,15,9,-6,-66.67%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25723,8,28,16,-12,-75.00%,Loss,2,Low Cost Product,Clothing,Stole,UPI
+B-26099,9,6,9,3,33.33%,Profit,1,Low Cost Product,Clothing,Skirt,COD
+B-25629,520,1139,1560,421,26.99%,Profit,3,Mid Cost Product,Clothing,Trousers,COD
+B-25877,568.5,569,1137,568,49.96%,Profit,2,Mid Cost Product,Clothing,Trousers,EMI
+B-25767,4.5,18,9,-9,-100.00%,Loss,2,Low Cost Product,Clothing,Kurti,COD
+B-25735,15,22,15,-7,-46.67%,Loss,1,Low Cost Product,Clothing,Hankerchief,UPI
+B-26097,14,9,14,5,35.71%,Profit,1,Low Cost Product,Clothing,Hankerchief,UPI
+B-26070,7,7,14,7,50.00%,Profit,2,Low Cost Product,Clothing,Hankerchief,UPI
+B-25752,4,10,8,-2,-25.00%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25656,198.43,709,1389,680,48.96%,Profit,7,Low Cost Product,Clothing,Saree,COD
+B-25748,4,9,8,-1,-12.50%,Loss,2,Low Cost Product,Clothing,Leggings,COD
+B-25758,8,10,8,-2,-25.00%,Loss,1,Low Cost Product,Clothing,Stole,COD
+B-25950,13,9,13,4,30.77%,Profit,1,Low Cost Product,Clothing,Leggings,UPI
+B-25707,8,14,8,-6,-75.00%,Loss,1,Low Cost Product,Clothing,Stole,COD
+B-25909,6,10,12,2,16.67%,Profit,2,Low Cost Product,Clothing,Skirt,Credit Card
+B-25955,245.14,1407,1716,309,18.01%,Profit,7,Low Cost Product,Electronics,Accessories,COD
+B-26023,111.7,670,1117,447,40.02%,Profit,10,Low Cost Product,Furniture,Bookcases,EMI
+B-25655,4.5,15,9,-6,-66.67%,Loss,2,Low Cost Product,Clothing,Skirt,Credit Card
+B-25686,110.67,-171,332,503,151.51%,Profit,3,Low Cost Product,Electronics,Printers,COD
+B-25655,2.33,11,7,-4,-57.14%,Loss,3,Low Cost Product,Clothing,Hankerchief,COD
+B-25601,2.67,10,8,-2,-25.00%,Loss,3,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25862,412.2,1360,2061,701,34.01%,Profit,5,Mid Cost Product,Furniture,Bookcases,UPI
+B-25626,367.67,827,1103,276,25.02%,Profit,3,Mid Cost Product,Furniture,Chairs,EMI
+B-25823,262.88,1781,2103,322,15.31%,Profit,8,Low Cost Product,Electronics,Electronic Games,UPI
+B-25881,423,2092,2115,23,1.09%,Profit,5,Mid Cost Product,Furniture,Chairs,COD
+B-25910,170,1139,850,-289,-34.00%,Loss,5,Low Cost Product,Electronics,Electronic Games,COD
+B-25830,151.86,999,1063,64,6.02%,Profit,7,Low Cost Product,Electronics,Phones,EMI
+B-25978,265.75,1238,1063,-175,-16.46%,Loss,4,Low Cost Product,Electronics,Electronic Games,EMI
+B-25997,327.43,2165,2292,127,5.54%,Profit,7,Low Cost Product,Furniture,Bookcases,COD
+B-25661,3.5,8,7,-1,-14.29%,Loss,2,Low Cost Product,Clothing,Hankerchief,Credit Card
+B-25969,350.29,2261,2452,191,7.79%,Profit,7,Mid Cost Product,Furniture,Bookcases,UPI
+B-25858,223.36,1792,2457,665,27.07%,Profit,11,Low Cost Product,Electronics,Electronic Games,EMI
+B-25697,4,7,4,-3,-75.00%,Loss,1,Low Cost Product,Clothing,Skirt,Credit Card
+B-25798,217.69,4811,2830,-1981,-70.00%,Loss,13,Low Cost Product,Furniture,Bookcases,EMI
+B-25873,7,6,7,1,14.29%,Profit,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25740,3.5,7,7,0,0.00%,Breakeven Point,2,Low Cost Product,Clothing,Skirt,COD
+B-25700,3.5,10,7,-3,-42.86%,Loss,2,Low Cost Product,Clothing,Hankerchief,COD
+B-25757,450.14,3186,3151,-35,-1.11%,Loss,7,Mid Cost Product,Clothing,Trousers,EMI
+B-25973,318.54,2443,4141,1698,41.00%,Profit,13,Low Cost Product,Electronics,Printers,COD
+B-25698,7,9,7,-2,-28.57%,Loss,1,Low Cost Product,Clothing,Hankerchief,COD
+B-25993,872.6,4058,4363,305,6.99%,Profit,5,High Cost Product,Furniture,Tables,EMI

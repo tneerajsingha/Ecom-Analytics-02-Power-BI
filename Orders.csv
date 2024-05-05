@@ -1,0 +1,501 @@
+Order ID,Order Date,Year,Month,Month No,Day,CustomerName,State,City,Age,Age Group
+B-26055,10-03-2018,2018,Mar,03,Sat,Harivansh,Uttar Pradesh,Mathura,45,Senior
+B-25993,03-02-2018,2018,Feb,02,Sat,Madhav,Delhi,Delhi,25,Adult
+B-25973,24-01-2018,2018,Jan,01,Wed,Madan Mohan,Uttar Pradesh,Mathura,25,Adult
+B-25923,27-12-2018,2018,Dec,12,Thu,Gopal,Maharashtra,Mumbai,37,Senior
+B-25757,21-08-2018,2018,Aug,08,Tue,Vishakha,Madhya Pradesh,Indore,20,Young
+B-25967,21-01-2018,2018,Jan,01,Sun,Sudevi,Uttar Pradesh,Prayagraj,43,Senior
+B-25955,16-01-2018,2018,Jan,01,Tue,Shiva,Maharashtra,Pune,31,Adult
+B-26093,27-03-2018,2018,Mar,03,Tue,Sarita,Maharashtra,Pune,30,Adult
+B-25798,01-10-2018,2018,Oct,10,Mon,Shishu,Andhra Pradesh,Hyderabad,25,Adult
+B-25602,01-04-2018,2018,Apr,04,Sun,Vrinda,Maharashtra,Pune,21,Young
+B-25858,13-11-2018,2018,Nov,11,Tue,Uudhav,Maharashtra,Mumbai,35,Senior
+B-25969,21-01-2018,2018,Jan,01,Sun,Shreyshi,Gujarat,Surat,34,Adult
+B-26099,30-03-2018,2018,Mar,03,Fri,Bhishm,Maharashtra,Mumbai,46,Senior
+B-25997,04-02-2018,2018,Feb,02,Sun,Yogesh,Maharashtra,Pune,22,Young
+B-25881,25-11-2018,2018,Nov,11,Sun,Lalita,Uttar Pradesh,Mathura,49,Senior
+B-25761,25-08-2018,2018,Aug,08,Sat,Madhav,Uttar Pradesh,Mathura,21,Young
+B-25887,01-12-2018,2018,Dec,12,Sat,Vishakha,Uttar Pradesh,Prayagraj,37,Senior
+B-25823,18-10-2018,2018,Oct,10,Thu,Rohan,Maharashtra,Mumbai,31,Adult
+B-25853,08-11-2018,2018,Nov,11,Thu,Gaurav,Gujarat,Ahmedabad,31,Adult
+B-25862,15-11-2018,2018,Nov,11,Thu,Amol,Bihar,Patna,36,Senior
+B-25830,26-10-2018,2018,Oct,10,Fri,Aastha,Himachal Pradesh,Simla,39,Senior
+B-25786,19-09-2018,2018,Sep,09,Wed,Madan Mohan,Uttar Pradesh,Mathura,37,Senior
+B-25686,11-06-2018,2018,Jun,06,Mon,Pooja,Himachal Pradesh,Simla,50,Senior
+B-26022,18-02-2018,2018,Feb,02,Sun,Shrichand,Punjab,Chandigarh,32,Adult
+B-26003,08-02-2018,2018,Feb,02,Thu,Hitesh,Madhya Pradesh,Bhopal,39,Senior
+B-25755,19-08-2018,2018,Aug,08,Sun,Shourya,Kerala ,Thiruvananthapuram,27,Adult
+B-25902,10-12-2018,2018,Dec,12,Mon,Ishpreet,Maharashtra,Mumbai,29,Adult
+B-25935,04-01-2018,2018,Jan,01,Thu,Sudhir,Nagaland,Kohima,19,Young
+B-25797,30-09-2018,2018,Sep,09,Sun,Sauptik,Madhya Pradesh,Indore,29,Adult
+B-25639,27-04-2018,2018,Apr,04,Fri,Lisha,Madhya Pradesh,Bhopal,29,Adult
+B-25681,04-06-2018,2018,Jun,06,Mon,Bhawna,Madhya Pradesh,Indore,31,Adult
+B-25909,13-12-2018,2018,Dec,12,Thu,Sujay,Maharashtra,Pune,45,Senior
+B-25910,14-12-2018,2018,Dec,12,Fri,Jay,Delhi,Delhi,49,Senior
+B-25950,13-01-2018,2018,Jan,01,Sat,Shruti,Madhya Pradesh,Indore,48,Senior
+B-25613,12-04-2018,2018,Apr,04,Thu,Mohan,Haryana,Chandigarh,18,Young
+B-25919,23-12-2018,2018,Dec,12,Sun,Neha,Rajasthan,Udaipur,18,Young
+B-25768,01-09-2018,2018,Sep,09,Sat,Shreyoshe,Karnataka,Bangalore,28,Adult
+B-25629,24-04-2018,2018,Apr,04,Tue,Hemant,Kerala ,Thiruvananthapuram,28,Adult
+B-25729,22-07-2018,2018,Jul,07,Sun,Madhulika,Madhya Pradesh,Bhopal,41,Senior
+B-25943,09-01-2018,2018,Jan,01,Tue,Shardul,Gujarat,Ahmedabad,37,Senior
+B-25842,02-11-2018,2018,Nov,11,Fri,Sheetal,Maharashtra,Pune,32,Adult
+B-26073,21-03-2018,2018,Mar,03,Wed,Pournamasi,Madhya Pradesh,Indore,24,Young
+B-25778,11-09-2018,2018,Sep,09,Tue,Surabhi,Maharashtra,Mumbai,31,Adult
+B-25717,12-07-2018,2018,Jul,07,Thu,Manshul,Uttar Pradesh,Lucknow,26,Adult
+B-26085,26-03-2018,2018,Mar,03,Mon,Shrichand,Punjab,Chandigarh,28,Adult
+B-26048,04-03-2018,2018,Mar,03,Sun,Parth,Maharashtra,Pune,38,Senior
+B-25793,24-09-2018,2018,Sep,09,Mon,Siddharth,Madhya Pradesh,Indore,35,Senior
+B-25656,11-05-2018,2018,May,05,Fri,Priyanka,Maharashtra,Pune,45,Senior
+B-25608,08-04-2018,2018,Apr,04,Sun,Aarushi,Tamil Nadu,Chennai,49,Senior
+B-25752,14-08-2018,2018,Aug,08,Tue,Vaibhav,Madhya Pradesh,Indore,47,Senior
+B-25779,12-09-2018,2018,Sep,09,Wed,Savi,Maharashtra,Pune,45,Senior
+B-25603,03-04-2018,2018,Apr,04,Tue,Jahan,Madhya Pradesh,Bhopal,28,Adult
+B-26051,07-03-2018,2018,Mar,03,Wed,Parishi,West Bengal,Kolkata,22,Young
+B-25653,08-05-2018,2018,May,05,Tue,Farah,Nagaland,Kohima,24,Young
+B-25855,08-11-2018,2018,Nov,11,Thu,Abhijeet,Madhya Pradesh,Bhopal,30,Adult
+B-25762,26-08-2018,2018,Aug,08,Sun,Anudeep,Madhya Pradesh,Indore,41,Senior
+B-25995,04-02-2018,2018,Feb,02,Sun,Yohann,Delhi,Delhi,40,Senior
+B-25929,02-01-2018,2018,Jan,01,Tue,Girase,Kerala ,Thiruvananthapuram,24,Young
+B-26006,09-02-2018,2018,Feb,02,Fri,Arpita,Karnataka,Bangalore,49,Senior
+B-25697,22-06-2018,2018,Jun,06,Fri,Vijay,Jammu and Kashmir,Kashmir,38,Senior
+B-25836,29-10-2018,2018,Oct,10,Mon,Arti,Maharashtra,Pune,19,Young
+B-25601,01-04-2018,2018,Apr,04,Sun,Bharat,Gujarat,Ahmedabad,34,Adult
+B-25873,23-11-2018,2018,Nov,11,Fri,Divyeta,Madhya Pradesh,Indore,44,Senior
+B-26028,20-02-2018,2018,Feb,02,Tue,Manju,Andhra Pradesh,Hyderabad,37,Senior
+B-25964,20-01-2018,2018,Jan,01,Sat,Oshin,Maharashtra,Pune,21,Young
+B-25676,01-06-2018,2018,Jun,06,Fri,Chandni,Rajasthan,Jaipur,24,Young
+B-25839,30-10-2018,2018,Oct,10,Tue,Pranjali,West Bengal,Kolkata,29,Adult
+B-25894,04-12-2018,2018,Dec,12,Tue,Monu,Punjab,Amritsar,30,Adult
+B-25925,29-12-2018,2018,Dec,12,Sat,Shruti,Maharashtra,Mumbai,28,Adult
+B-25953,14-01-2018,2018,Jan,01,Sun,Krutika,Andhra Pradesh,Hyderabad,46,Senior
+B-25772,02-09-2018,2018,Sep,09,Sun,Sanjana,Bihar,Patna,44,Senior
+B-25957,18-01-2018,2018,Jan,01,Thu,Mahima,Madhya Pradesh,Indore,26,Adult
+B-25730,22-07-2018,2018,Jul,07,Sun,Rishabh,Rajasthan,Jaipur,21,Young
+B-25877,24-11-2018,2018,Nov,11,Sat,Dashyam,Gujarat,Surat,36,Senior
+B-26067,16-03-2018,2018,Mar,03,Fri,Tulika,Madhya Pradesh,Bhopal,34,Adult
+B-25810,10-10-2018,2018,Oct,10,Wed,Nripraj,Punjab,Chandigarh,34,Adult
+B-25868,18-11-2018,2018,Nov,11,Sun,Vikash,Goa,Goa,49,Senior
+B-26023,19-02-2018,2018,Feb,02,Mon,Mukesh,Haryana,Chandigarh,39,Senior
+B-25626,23-04-2018,2018,Apr,04,Mon,Bhishm,Maharashtra,Mumbai,33,Adult
+B-25937,05-01-2018,2018,Jan,01,Fri,Ankit,Haryana,Chandigarh,24,Young
+B-25610,09-04-2018,2018,Apr,04,Mon,Yogesh,Bihar,Patna,45,Senior
+B-25777,10-09-2018,2018,Sep,09,Mon,Aditi,Madhya Pradesh,Indore,33,Adult
+B-25738,02-08-2018,2018,Aug,08,Thu,Ayush,Punjab,Chandigarh,27,Adult
+B-25978,27-01-2018,2018,Jan,01,Sat,Parin,Maharashtra,Mumbai,37,Senior
+B-25643,29-04-2018,2018,Apr,04,Sun,Kirti,Jammu and Kashmir,Kashmir,41,Senior
+B-25728,22-07-2018,2018,Jul,07,Sun,Ameesha,Maharashtra,Pune,38,Senior
+B-25749,13-08-2018,2018,Aug,08,Mon,Ayush,Maharashtra,Mumbai,30,Adult
+B-25667,23-05-2018,2018,May,05,Wed,Anjali,Haryana,Chandigarh,47,Senior
+B-25657,13-05-2018,2018,May,05,Sun,Tulika,Madhya Pradesh,Bhopal,48,Senior
+B-25753,17-08-2018,2018,Aug,08,Fri,Shivam,Uttar Pradesh,Lucknow,36,Senior
+B-26061,14-03-2018,2018,Mar,03,Wed,Anurag,Madhya Pradesh,Indore,29,Adult
+B-25838,29-10-2018,2018,Oct,10,Mon,Sanjana,Madhya Pradesh,Indore,36,Senior
+B-25702,27-06-2018,2018,Jun,06,Wed,Shaily,Maharashtra,Mumbai,26,Adult
+B-25952,13-01-2018,2018,Jan,01,Sat,Priyanka,Madhya Pradesh,Indore,37,Senior
+B-25666,22-05-2018,2018,May,05,Tue,Tanvi,Punjab,Chandigarh,21,Young
+B-25675,31-05-2018,2018,May,05,Thu,Shreya,Madhya Pradesh,Bhopal,42,Senior
+B-25650,06-05-2018,2018,May,05,Sun,Chirag,Maharashtra,Mumbai,31,Adult
+B-25986,31-01-2018,2018,Jan,01,Wed,Shweta,Rajasthan,Udaipur,38,Senior
+B-25850,05-11-2018,2018,Nov,11,Mon,Abhishek,Goa,Goa,28,Adult
+B-25898,07-12-2018,2018,Dec,12,Fri,Abhishek,Rajasthan,Udaipur,50,Senior
+B-25813,10-10-2018,2018,Oct,10,Wed,Hrisheekesh,Maharashtra,Mumbai,46,Senior
+B-25825,21-10-2018,2018,Oct,10,Sun,Kartik,Madhya Pradesh,Indore,25,Adult
+B-25954,14-01-2018,2018,Jan,01,Sun,Trupti,Gujarat,Ahmedabad,27,Adult
+B-25696,21-06-2018,2018,Jun,06,Thu,Noopur,Karnataka,Bangalore,39,Senior
+B-25638,26-04-2018,2018,Apr,04,Thu,Parth,Maharashtra,Pune,38,Senior
+B-25747,11-08-2018,2018,Aug,08,Sat,Harsh,Madhya Pradesh,Bhopal,47,Senior
+B-25904,10-12-2018,2018,Dec,12,Mon,Swapnil,Delhi,Delhi,41,Senior
+B-25852,07-11-2018,2018,Nov,11,Wed,Soumyabrata,Andhra Pradesh,Hyderabad,24,Young
+B-25981,28-01-2018,2018,Jan,01,Sun,Amruta,Delhi,Delhi,39,Senior
+B-25899,08-12-2018,2018,Dec,12,Sat,Aishwarya,Uttar Pradesh,Prayagraj,23,Young
+B-25870,20-11-2018,2018,Nov,11,Tue,Pranav,Andhra Pradesh,Hyderabad,28,Adult
+B-26040,26-02-2018,2018,Feb,02,Mon,Sahil,Punjab,Chandigarh,39,Senior
+B-25671,27-05-2018,2018,May,05,Sun,Mitali,Nagaland,Kohima,35,Senior
+B-26100,31-03-2018,2018,Mar,03,Sat,Hitika,Madhya Pradesh,Indore,42,Senior
+B-25651,07-05-2018,2018,May,05,Mon,Anurag,Madhya Pradesh,Indore,18,Young
+B-25968,21-01-2018,2018,Jan,01,Sun,Paromita,Punjab,Amritsar,39,Senior
+B-26019,15-02-2018,2018,Feb,02,Thu,Jitesh,Uttar Pradesh,Lucknow,48,Senior
+B-25664,20-05-2018,2018,May,05,Sun,Pratyusmita,Bihar,Patna,50,Senior
+B-26033,22-02-2018,2018,Feb,02,Thu,Atharv,West Bengal,Kolkata,25,Adult
+B-26052,08-03-2018,2018,Mar,03,Thu,Ajay,Karnataka,Bangalore,30,Adult
+B-25999,05-02-2018,2018,Feb,02,Mon,Diwakar,Delhi,Delhi,25,Adult
+B-25781,14-09-2018,2018,Sep,09,Fri,Rutuja,Gujarat,Ahmedabad,28,Adult
+B-25764,28-08-2018,2018,Aug,08,Tue,Sanjova,Maharashtra,Pune,30,Adult
+B-25803,05-10-2018,2018,Oct,10,Fri,Shivanshu,Madhya Pradesh,Indore,43,Senior
+B-25945,11-01-2018,2018,Jan,01,Thu,Mhatre,Madhya Pradesh,Indore,35,Senior
+B-26086,26-03-2018,2018,Mar,03,Mon,Mukesh,Haryana,Chandigarh,38,Senior
+B-25845,03-11-2018,2018,Nov,11,Sat,Snel,Kerala ,Thiruvananthapuram,30,Adult
+B-25817,13-10-2018,2018,Oct,10,Sat,Praneet,Maharashtra,Mumbai,27,Adult
+B-25951,13-01-2018,2018,Jan,01,Sat,Jesal,West Bengal,Kolkata,26,Adult
+B-25970,22-01-2018,2018,Jan,01,Mon,Rhea,Maharashtra,Mumbai,45,Senior
+B-25878,24-11-2018,2018,Nov,11,Sat,Mrinal,Maharashtra,Mumbai,48,Senior
+B-26057,10-03-2018,2018,Mar,03,Sat,Sharda,Kerala ,Thiruvananthapuram,30,Adult
+B-25885,28-11-2018,2018,Nov,11,Wed,Shatayu,Madhya Pradesh,Indore,34,Adult
+B-25897,06-12-2018,2018,Dec,12,Thu,Rohan,Madhya Pradesh,Indore,27,Adult
+B-25756,20-08-2018,2018,Aug,08,Mon,Mohan,Maharashtra,Mumbai,30,Adult
+B-25859,14-11-2018,2018,Nov,11,Wed,Chikku,Madhya Pradesh,Indore,31,Adult
+B-25691,16-06-2018,2018,Jun,06,Sat,Akancha,Maharashtra,Mumbai,23,Young
+B-25633,26-04-2018,2018,Apr,04,Thu,Amit,Sikkim,Gangtok,40,Senior
+B-25708,01-07-2018,2018,Jul,07,Sun,Kishwar,Madhya Pradesh,Indore,28,Adult
+B-25831,27-10-2018,2018,Oct,10,Sat,Mahima,Sikkim,Gangtok,43,Senior
+B-25856,10-11-2018,2018,Nov,11,Sat,Abhijeet,Maharashtra,Mumbai,43,Senior
+B-25893,04-12-2018,2018,Dec,12,Tue,Vrinda,Uttar Pradesh,Mathura,30,Adult
+B-25959,18-01-2018,2018,Jan,01,Thu,Muskan,Madhya Pradesh,Indore,30,Adult
+B-26000,06-02-2018,2018,Feb,02,Tue,Shubham,Delhi,Delhi,30,Adult
+B-26097,28-03-2018,2018,Mar,03,Wed,Vini,Karnataka,Bangalore,42,Senior
+B-25745,09-08-2018,2018,Aug,08,Thu,Kartik,Gujarat,Ahmedabad,30,Adult
+B-25974,25-01-2018,2018,Jan,01,Thu,Manisha,Rajasthan,Udaipur,33,Adult
+B-25670,25-05-2018,2018,May,05,Fri,Charika,Goa,Goa,29,Adult
+B-25848,03-11-2018,2018,Nov,11,Sat,Rohan,Himachal Pradesh,Simla,18,Young
+B-25888,02-12-2018,2018,Dec,12,Sun,Rohan,Punjab,Amritsar,18,Young
+B-25942,08-01-2018,2018,Jan,01,Mon,Ankur,Andhra Pradesh,Hyderabad,38,Senior
+B-25847,03-11-2018,2018,Nov,11,Sat,Aniket,Haryana,Chandigarh,45,Senior
+B-25636,26-04-2018,2018,Apr,04,Thu,Nishi,Maharashtra,Mumbai,25,Adult
+B-25826,22-10-2018,2018,Oct,10,Mon,Tanushree,Maharashtra,Mumbai,42,Senior
+B-26081,22-03-2018,2018,Mar,03,Thu,Aarushi,Tamil Nadu,Chennai,30,Adult
+B-25625,23-04-2018,2018,Apr,04,Mon,Pinky,Jammu and Kashmir,Kashmir,23,Young
+B-25802,05-10-2018,2018,Oct,10,Fri,Yash,Maharashtra,Mumbai,45,Senior
+B-25693,18-06-2018,2018,Jun,06,Mon,Parna,Madhya Pradesh,Bhopal,35,Senior
+B-25796,24-09-2018,2018,Sep,09,Mon,Sukrith,Maharashtra,Mumbai,27,Adult
+B-25806,06-10-2018,2018,Oct,10,Sat,Dhanraj,Madhya Pradesh,Indore,38,Senior
+B-25710,05-07-2018,2018,Jul,07,Thu,Megha,Maharashtra,Pune,20,Young
+B-25669,25-05-2018,2018,May,05,Fri,Piyali,Sikkim,Gangtok,39,Senior
+B-25857,10-11-2018,2018,Nov,11,Sat,Anand,Madhya Pradesh,Indore,29,Adult
+B-25785,15-09-2018,2018,Sep,09,Sat,Ayush,West Bengal,Kolkata,39,Senior
+B-25930,03-01-2018,2018,Jan,01,Wed,Monica,Punjab,Chandigarh,29,Adult
+B-26053,09-03-2018,2018,Mar,03,Fri,Kirti,Jammu and Kashmir,Kashmir,47,Senior
+B-26070,18-03-2018,2018,Mar,03,Sun,Shruti,Karnataka,Bangalore,45,Senior
+B-25791,24-09-2018,2018,Sep,09,Mon,Avish,Kerala ,Thiruvananthapuram,48,Senior
+B-25983,30-01-2018,2018,Jan,01,Tue,Atul,Delhi,Delhi,50,Senior
+B-25979,27-01-2018,2018,Jan,01,Sat,Shivangi,Madhya Pradesh,Indore,41,Senior
+B-26054,10-03-2018,2018,Mar,03,Sat,Mayank,Maharashtra,Mumbai,27,Adult
+B-26078,22-03-2018,2018,Mar,03,Thu,Kasheen,West Bengal,Kolkata,41,Senior
+B-25787,20-09-2018,2018,Sep,09,Thu,Asish,Jammu and Kashmir,Kashmir,31,Adult
+B-25682,07-06-2018,2018,Jun,06,Thu,Krutika,Bihar,Patna,40,Senior
+B-25962,19-01-2018,2018,Jan,01,Fri,Tejeswini,Maharashtra,Pune,46,Senior
+B-25750,14-08-2018,2018,Aug,08,Tue,Priyanshu,Madhya Pradesh,Indore,44,Senior
+B-25828,24-10-2018,2018,Oct,10,Wed,Nikita,Punjab,Chandigarh,41,Senior
+B-25622,22-04-2018,2018,Apr,04,Sun,Monisha,Rajasthan,Jaipur,35,Senior
+B-25751,14-08-2018,2018,Aug,08,Tue,Nishant,Maharashtra,Mumbai,19,Young
+B-25685,10-06-2018,2018,Jun,06,Sun,Sheetal,Madhya Pradesh,Indore,23,Young
+B-26010,11-02-2018,2018,Feb,02,Sun,Kartikay,Bihar,Patna,31,Adult
+B-26035,23-02-2018,2018,Feb,02,Fri,Pinky,Jammu and Kashmir,Kashmir,43,Senior
+B-25698,23-06-2018,2018,Jun,06,Sat,Amisha,Tamil Nadu,Chennai,30,Adult
+B-25966,21-01-2018,2018,Jan,01,Sun,Soumya,Rajasthan,Udaipur,36,Senior
+B-25832,28-10-2018,2018,Oct,10,Sun,Harshita,Maharashtra,Mumbai,19,Young
+B-25743,07-08-2018,2018,Aug,08,Tue,Aman,Nagaland,Kohima,37,Senior
+B-25886,28-11-2018,2018,Nov,11,Wed,Brijesh,Rajasthan,Udaipur,47,Senior
+B-25975,25-01-2018,2018,Jan,01,Thu,Priyanka,Uttar Pradesh,Prayagraj,27,Adult
+B-26098,29-03-2018,2018,Mar,03,Thu,Pinky,Jammu and Kashmir,Kashmir,43,Senior
+B-25614,13-04-2018,2018,Apr,04,Fri,Vandana,Himachal Pradesh,Simla,48,Senior
+B-25726,21-07-2018,2018,Jul,07,Sat,Kiran,Maharashtra,Mumbai,18,Young
+B-26050,06-03-2018,2018,Mar,03,Tue,Paridhi,Rajasthan,Jaipur,42,Senior
+B-25609,09-04-2018,2018,Apr,04,Mon,Jitesh,Uttar Pradesh,Lucknow,45,Senior
+B-25741,03-08-2018,2018,Aug,08,Fri,Navdeep,Madhya Pradesh,Indore,18,Young
+B-25956,17-01-2018,2018,Jan,01,Wed,Shreya,Maharashtra,Mumbai,47,Senior
+B-25689,14-06-2018,2018,Jun,06,Thu,Bhaggyasree,Maharashtra,Mumbai,35,Senior
+B-25939,05-01-2018,2018,Jan,01,Fri,Vineet,Sikkim,Gangtok,25,Adult
+B-25890,04-12-2018,2018,Dec,12,Tue,Divyansha,Maharashtra,Mumbai,30,Adult
+B-25814,10-10-2018,2018,Oct,10,Wed,Swapnil,Madhya Pradesh,Indore,44,Senior
+B-25718,12-07-2018,2018,Jul,07,Thu,Anjali,Maharashtra,Mumbai,18,Young
+B-25914,18-12-2018,2018,Dec,12,Tue,Kajal,Delhi,Delhi,46,Senior
+B-25903,10-12-2018,2018,Dec,12,Mon,Amlan,Madhya Pradesh,Indore,38,Senior
+B-26096,28-03-2018,2018,Mar,03,Wed,Atharv,West Bengal,Kolkata,24,Young
+B-25654,10-05-2018,2018,May,05,Thu,Sabah,Maharashtra,Mumbai,20,Young
+B-26076,21-03-2018,2018,Mar,03,Wed,Jahan,Madhya Pradesh,Bhopal,49,Senior
+B-25961,18-01-2018,2018,Jan,01,Thu,Surbhi,Gujarat,Ahmedabad,26,Adult
+B-25854,08-11-2018,2018,Nov,11,Thu,Shubham,Maharashtra,Pune,42,Senior
+B-25642,28-04-2018,2018,Apr,04,Sat,Ajay,Karnataka,Bangalore,29,Adult
+B-25683,08-06-2018,2018,Jun,06,Fri,Shreya,Kerala ,Thiruvananthapuram,25,Adult
+B-26016,14-02-2018,2018,Feb,02,Wed,Hazel,Karnataka,Bangalore,43,Senior
+B-26034,23-02-2018,2018,Feb,02,Fri,Vini,Karnataka,Bangalore,30,Adult
+B-26056,10-03-2018,2018,Mar,03,Sat,Sonal,Bihar,Patna,34,Adult
+B-25819,15-10-2018,2018,Oct,10,Mon,Ankur,Madhya Pradesh,Bhopal,29,Adult
+B-25715,10-07-2018,2018,Jul,07,Tue,Srishti,Jammu and Kashmir,Kashmir,21,Young
+B-25933,04-01-2018,2018,Jan,01,Thu,Shikhar,Maharashtra,Mumbai,37,Senior
+B-26014,13-02-2018,2018,Feb,02,Tue,Divsha,Rajasthan,Jaipur,37,Senior
+B-25655,11-05-2018,2018,May,05,Fri,Nida,Madhya Pradesh,Indore,20,Young
+B-25816,12-10-2018,2018,Oct,10,Fri,Mane,Andhra Pradesh,Hyderabad,34,Adult
+B-25634,26-04-2018,2018,Apr,04,Thu,Sanjay,Goa,Goa,30,Adult
+B-25895,04-12-2018,2018,Dec,12,Tue,Sathya,Gujarat,Surat,45,Senior
+B-25687,11-06-2018,2018,Jun,06,Mon,Sanjna,Maharashtra,Mumbai,35,Senior
+B-25662,17-05-2018,2018,May,05,Thu,Sweta,Maharashtra,Mumbai,20,Young
+B-25635,26-04-2018,2018,Apr,04,Thu,Nidhi,Nagaland,Kohima,46,Senior
+B-26060,13-03-2018,2018,Mar,03,Tue,Chirag,Maharashtra,Mumbai,22,Young
+B-26045,03-03-2018,2018,Mar,03,Sat,Nidhi,Nagaland,Kohima,23,Young
+B-25770,02-09-2018,2018,Sep,09,Sun,Sakshi,Madhya Pradesh,Indore,36,Senior
+B-25744,08-08-2018,2018,Aug,08,Wed,Devendra,Andhra Pradesh,Hyderabad,26,Adult
+B-25618,18-04-2018,2018,Apr,04,Wed,Manju,Andhra Pradesh,Hyderabad,40,Senior
+B-25958,18-01-2018,2018,Jan,01,Thu,Aparajita,West Bengal,Kolkata,39,Senior
+B-25769,02-09-2018,2018,Sep,09,Sun,Surbhi,Maharashtra,Mumbai,49,Senior
+B-25619,18-04-2018,2018,Apr,04,Wed,Ramesh,Gujarat,Ahmedabad,33,Adult
+B-25688,11-06-2018,2018,Jun,06,Mon,Swetha,Madhya Pradesh,Indore,24,Young
+B-25829,25-10-2018,2018,Oct,10,Thu,Apoorva,Haryana,Chandigarh,22,Young
+B-26036,23-02-2018,2018,Feb,02,Fri,Bhishm,Maharashtra,Mumbai,46,Senior
+B-25714,09-07-2018,2018,Jul,07,Mon,Stuti,Karnataka,Bangalore,42,Senior
+B-25989,01-02-2018,2018,Feb,02,Thu,Anjali,Delhi,Delhi,26,Adult
+B-25849,04-11-2018,2018,Nov,11,Sun,K,Sikkim,Gangtok,20,Young
+B-25851,06-11-2018,2018,Nov,11,Tue,Kushal,Nagaland,Kohima,38,Senior
+B-25782,15-09-2018,2018,Sep,09,Sat,Aayushi,Maharashtra,Mumbai,49,Senior
+B-25621,20-04-2018,2018,Apr,04,Fri,Deepak,Madhya Pradesh,Bhopal,34,Adult
+B-25996,04-02-2018,2018,Feb,02,Sun,Prashant,Delhi,Delhi,18,Young
+B-25678,03-06-2018,2018,Jun,06,Sun,Bathina,Karnataka,Bangalore,47,Senior
+B-25727,22-07-2018,2018,Jul,07,Sun,Turumella,Madhya Pradesh,Indore,43,Senior
+B-26018,14-02-2018,2018,Feb,02,Wed,Aarushi,Tamil Nadu,Chennai,50,Senior
+B-25760,24-08-2018,2018,Aug,08,Fri,Pooja,Goa,Goa,33,Adult
+B-25804,05-10-2018,2018,Oct,10,Fri,Sudheer,Karnataka,Bangalore,35,Senior
+B-25754,18-08-2018,2018,Aug,08,Sat,Akshay,Bihar,Patna,49,Senior
+B-26020,16-02-2018,2018,Feb,02,Fri,Yogesh,Bihar,Patna,46,Senior
+B-25640,27-04-2018,2018,Apr,04,Fri,Paridhi,Rajasthan,Jaipur,37,Senior
+B-25789,22-09-2018,2018,Sep,09,Sat,Akshay,Uttar Pradesh,Lucknow,48,Senior
+B-26072,20-03-2018,2018,Mar,03,Tue,Sweta,Maharashtra,Mumbai,33,Adult
+B-26007,09-02-2018,2018,Feb,02,Fri,Shubham,Jammu and Kashmir,Kashmir,44,Senior
+B-26087,26-03-2018,2018,Mar,03,Mon,Vandana,Himachal Pradesh,Simla,29,Adult
+B-25617,17-04-2018,2018,Apr,04,Tue,Sagar,Nagaland,Kohima,24,Young
+B-25984,30-01-2018,2018,Jan,01,Tue,Kajal,Delhi,Delhi,38,Senior
+B-25767,31-08-2018,2018,Aug,08,Fri,Ashmeet,West Bengal,Kolkata,47,Senior
+B-25987,31-01-2018,2018,Jan,01,Wed,Manjiri,Delhi,Delhi,33,Adult
+B-25840,31-10-2018,2018,Oct,10,Wed,Sneha,Karnataka,Bangalore,28,Adult
+B-25663,19-05-2018,2018,May,05,Sat,Pournamasi,Madhya Pradesh,Indore,18,Young
+B-26030,21-02-2018,2018,Feb,02,Wed,Sarita,Maharashtra,Pune,23,Young
+B-25947,13-01-2018,2018,Jan,01,Sat,Chetan,Gujarat,Ahmedabad,39,Senior
+B-25896,05-12-2018,2018,Dec,12,Wed,Aman,Maharashtra,Mumbai,34,Adult
+B-26009,10-02-2018,2018,Feb,02,Sat,Komal,Uttar Pradesh,Lucknow,21,Young
+B-25876,24-11-2018,2018,Nov,11,Sat,Bhosale,Punjab,Amritsar,39,Senior
+B-25915,19-12-2018,2018,Dec,12,Wed,Sukruta,Punjab,Amritsar,49,Senior
+B-25795,24-09-2018,2018,Sep,09,Mon,Sukant,Sikkim,Gangtok,18,Young
+B-26002,08-02-2018,2018,Feb,02,Thu,Harsh,Delhi,Delhi,18,Young
+B-25645,01-05-2018,2018,May,05,Tue,Yaanvi,Madhya Pradesh,Indore,45,Senior
+B-25837,29-10-2018,2018,Oct,10,Mon,Palak,Maharashtra,Mumbai,45,Senior
+B-25612,12-04-2018,2018,Apr,04,Thu,Shrichand,Punjab,Chandigarh,30,Adult
+B-25812,10-10-2018,2018,Oct,10,Wed,Kshitij,Madhya Pradesh,Indore,31,Adult
+B-25843,03-11-2018,2018,Nov,11,Sat,Mrunal,Maharashtra,Mumbai,49,Senior
+B-26026,19-02-2018,2018,Feb,02,Mon,Kanak,Goa,Goa,21,Young
+B-25773,06-09-2018,2018,Sep,09,Thu,Shreya,Kerala ,Thiruvananthapuram,33,Adult
+B-25875,24-11-2018,2018,Nov,11,Sat,Divyeshkumar,Uttar Pradesh,Prayagraj,18,Young
+B-25660,16-05-2018,2018,May,05,Wed,Shruti,Karnataka,Bangalore,38,Senior
+B-25918,22-12-2018,2018,Dec,12,Sat,Karandeep,Madhya Pradesh,Indore,32,Adult
+B-25971,22-01-2018,2018,Jan,01,Mon,Mitali,Madhya Pradesh,Indore,24,Young
+B-26063,15-03-2018,2018,Mar,03,Thu,Farah,Nagaland,Kohima,29,Adult
+B-25867,17-11-2018,2018,Nov,11,Sat,Ankit,Sikkim,Gangtok,34,Adult
+B-25703,28-06-2018,2018,Jun,06,Thu,Ekta,Madhya Pradesh,Indore,46,Senior
+B-25661,17-05-2018,2018,May,05,Thu,Subhashree,Jammu and Kashmir,Kashmir,50,Senior
+B-25748,12-08-2018,2018,Aug,08,Sun,Nitant,Rajasthan,Jaipur,46,Senior
+B-25766,30-08-2018,2018,Aug,08,Thu,Surabhi,Rajasthan,Jaipur,49,Senior
+B-25861,15-11-2018,2018,Nov,11,Thu,Aayush,Uttar Pradesh,Lucknow,18,Young
+B-26058,11-03-2018,2018,Mar,03,Sun,Aditya,Punjab,Chandigarh,42,Senior
+B-25808,08-10-2018,2018,Oct,10,Mon,Apsingekar,Bihar,Patna,21,Young
+B-25900,09-12-2018,2018,Dec,12,Sun,Anand,Punjab,Amritsar,50,Senior
+B-26084,25-03-2018,2018,Mar,03,Sun,Anita,Kerala ,Thiruvananthapuram,48,Senior
+B-25652,08-05-2018,2018,May,05,Tue,Tushina,Goa,Goa,38,Senior
+B-26008,09-02-2018,2018,Feb,02,Fri,Kalyani,Tamil Nadu,Chennai,33,Adult
+B-25799,01-10-2018,2018,Oct,10,Mon,Divyansh,Gujarat,Ahmedabad,27,Adult
+B-25927,31-12-2018,2018,Dec,12,Mon,Shreya,Uttar Pradesh,Lucknow,46,Senior
+B-25985,31-01-2018,2018,Jan,01,Wed,Ginny,Madhya Pradesh,Indore,32,Adult
+B-25994,03-02-2018,2018,Feb,02,Sat,Omkar,Delhi,Delhi,27,Adult
+B-25620,20-04-2018,2018,Apr,04,Fri,Sarita,Maharashtra,Pune,25,Adult
+B-25712,07-07-2018,2018,Jul,07,Sat,Adhvaita,Rajasthan,Jaipur,23,Young
+B-25976,25-01-2018,2018,Jan,01,Thu,Piyam,Punjab,Amritsar,22,Young
+B-26068,16-03-2018,2018,Mar,03,Fri,Shefali,Rajasthan,Jaipur,41,Senior
+B-25721,16-07-2018,2018,Jul,07,Mon,Anchal,Haryana,Chandigarh,45,Senior
+B-25863,15-11-2018,2018,Nov,11,Thu,Manibalan,Kerala ,Thiruvananthapuram,46,Senior
+B-25991,03-02-2018,2018,Feb,02,Sat,Mansi,Madhya Pradesh,Indore,41,Senior
+B-25737,01-08-2018,2018,Aug,08,Wed,Shubham,Madhya Pradesh,Indore,26,Adult
+B-26043,01-03-2018,2018,Mar,03,Thu,Amit,Sikkim,Gangtok,43,Senior
+B-25977,27-01-2018,2018,Jan,01,Sat,Aayushi,Gujarat,Surat,41,Senior
+B-25908,12-12-2018,2018,Dec,12,Wed,Pradeep,Delhi,Delhi,38,Senior
+B-25941,07-01-2018,2018,Jan,01,Sun,Jaideep,Nagaland,Kohima,18,Young
+B-25794,24-09-2018,2018,Sep,09,Mon,Aditya,Himachal Pradesh,Simla,22,Young
+B-26041,27-02-2018,2018,Feb,02,Tue,Ritu,Haryana,Chandigarh,21,Young
+B-25695,18-06-2018,2018,Jun,06,Mon,Suhani,West Bengal,Kolkata,33,Adult
+B-25960,18-01-2018,2018,Jan,01,Thu,Shreya,Andhra Pradesh,Hyderabad,40,Senior
+B-26037,23-02-2018,2018,Feb,02,Fri,Hitika,Madhya Pradesh,Indore,21,Young
+B-25921,25-12-2018,2018,Dec,12,Tue,Sandra,Punjab,Amritsar,49,Senior
+B-25944,10-01-2018,2018,Jan,01,Wed,Syed,Maharashtra,Pune,23,Young
+B-25724,19-07-2018,2018,Jul,07,Thu,Sheetal,Madhya Pradesh,Indore,37,Senior
+B-26024,19-02-2018,2018,Feb,02,Mon,Vandana,Himachal Pradesh,Simla,29,Adult
+B-25694,18-06-2018,2018,Jun,06,Mon,Subhasmita,Rajasthan,Jaipur,26,Adult
+B-25665,21-05-2018,2018,May,05,Mon,Chayanika,Kerala ,Thiruvananthapuram,38,Senior
+B-26004,08-02-2018,2018,Feb,02,Thu,Nandita,Rajasthan,Jaipur,48,Senior
+B-25611,11-04-2018,2018,Apr,04,Wed,Anita,Kerala ,Thiruvananthapuram,43,Senior
+B-25901,10-12-2018,2018,Dec,12,Mon,Suraj,Gujarat,Surat,47,Senior
+B-25623,22-04-2018,2018,Apr,04,Sun,Atharv,West Bengal,Kolkata,44,Senior
+B-25713,08-07-2018,2018,Jul,07,Sun,Raksha,West Bengal,Kolkata,33,Adult
+B-26091,27-03-2018,2018,Mar,03,Tue,Manju,Andhra Pradesh,Hyderabad,45,Senior
+B-25604,03-04-2018,2018,Apr,04,Tue,Divsha,Rajasthan,Jaipur,38,Senior
+B-25827,23-10-2018,2018,Oct,10,Tue,Sheetal,Madhya Pradesh,Indore,48,Senior
+B-25835,29-10-2018,2018,Oct,10,Mon,Moumita,Gujarat,Ahmedabad,20,Young
+B-26025,19-02-2018,2018,Feb,02,Mon,Bhavna,Sikkim,Gangtok,31,Adult
+B-25809,09-10-2018,2018,Oct,10,Tue,Suman,Kerala ,Thiruvananthapuram,19,Young
+B-25905,11-12-2018,2018,Dec,12,Tue,Bhargav,Delhi,Delhi,27,Adult
+B-25948,13-01-2018,2018,Jan,01,Sat,Mukund,Maharashtra,Pune,39,Senior
+B-26094,27-03-2018,2018,Mar,03,Tue,Deepak,Madhya Pradesh,Bhopal,40,Senior
+B-25949,13-01-2018,2018,Jan,01,Sat,Shantanu,Maharashtra,Mumbai,48,Senior
+B-26001,07-02-2018,2018,Feb,02,Wed,Patil,Delhi,Delhi,23,Young
+B-25771,02-09-2018,2018,Sep,09,Sun,Vaibhavi,Uttar Pradesh,Lucknow,44,Senior
+B-25659,15-05-2018,2018,May,05,Tue,Sanskriti,West Bengal,Kolkata,31,Adult
+B-25924,28-12-2018,2018,Dec,12,Fri,Prajakta,Karnataka,Bangalore,38,Senior
+B-25883,27-11-2018,2018,Nov,11,Tue,Saptadeep,Gujarat,Surat,28,Adult
+B-25946,12-01-2018,2018,Jan,01,Fri,Saurabh,Andhra Pradesh,Hyderabad,19,Young
+B-26065,16-03-2018,2018,Mar,03,Fri,Nida,Madhya Pradesh,Indore,47,Senior
+B-26083,24-03-2018,2018,Mar,03,Sat,Yogesh,Bihar,Patna,45,Senior
+B-25725,20-07-2018,2018,Jul,07,Fri,Anisha,Nagaland,Kohima,44,Senior
+B-25630,24-04-2018,2018,Apr,04,Tue,Sahil,Punjab,Chandigarh,49,Senior
+B-25673,28-05-2018,2018,May,05,Mon,Arsheen,Gujarat,Ahmedabad,27,Adult
+B-25692,17-06-2018,2018,Jun,06,Sun,Rashmi,Madhya Pradesh,Indore,27,Adult
+B-25992,03-02-2018,2018,Feb,02,Sat,Gaurav,Rajasthan,Udaipur,26,Adult
+B-25765,29-08-2018,2018,Aug,08,Wed,Meghana,Madhya Pradesh,Bhopal,47,Senior
+B-25892,04-12-2018,2018,Dec,12,Tue,Aditi,Rajasthan,Udaipur,27,Adult
+B-26089,26-03-2018,2018,Mar,03,Mon,Kanak,Goa,Goa,27,Adult
+B-25780,13-09-2018,2018,Sep,09,Thu,Teena,Andhra Pradesh,Hyderabad,32,Adult
+B-25684,09-06-2018,2018,Jun,06,Sat,Samiksha,Maharashtra,Mumbai,27,Adult
+B-25739,03-08-2018,2018,Aug,08,Fri,Daksh,Haryana,Chandigarh,47,Senior
+B-25731,26-07-2018,2018,Jul,07,Thu,Akash,West Bengal,Kolkata,23,Young
+B-25648,04-05-2018,2018,May,05,Fri,Aditya,Punjab,Chandigarh,35,Senior
+B-26038,24-02-2018,2018,Feb,02,Sat,Pooja,Bihar,Patna,44,Senior
+B-25700,25-06-2018,2018,Jun,06,Mon,Shubhi,Maharashtra,Mumbai,25,Adult
+B-26015,14-02-2018,2018,Feb,02,Wed,Kasheen,West Bengal,Kolkata,21,Young
+B-25704,29-06-2018,2018,Jun,06,Fri,Riya,Maharashtra,Mumbai,26,Adult
+B-25811,10-10-2018,2018,Oct,10,Wed,Utsav,Maharashtra,Mumbai,25,Adult
+B-25821,16-10-2018,2018,Oct,10,Tue,Ajay,West Bengal,Kolkata,47,Senior
+B-25874,24-11-2018,2018,Nov,11,Sat,Megha,Rajasthan,Udaipur,37,Senior
+B-25668,24-05-2018,2018,May,05,Thu,Rhea,Himachal Pradesh,Simla,21,Young
+B-25800,01-10-2018,2018,Oct,10,Mon,Ishit,Maharashtra,Pune,39,Senior
+B-25928,01-01-2018,2018,Jan,01,Mon,Smriti,Bihar,Patna,22,Young
+B-26021,17-02-2018,2018,Feb,02,Sat,Anita,Kerala ,Thiruvananthapuram,42,Senior
+B-26064,16-03-2018,2018,Mar,03,Fri,Ankita,Maharashtra,Mumbai,40,Senior
+B-25882,26-11-2018,2018,Nov,11,Mon,Masurkar,Punjab,Amritsar,47,Senior
+B-25891,04-12-2018,2018,Dec,12,Tue,Shivani,Madhya Pradesh,Indore,42,Senior
+B-25820,16-10-2018,2018,Oct,10,Tue,Dheeraj,Rajasthan,Jaipur,45,Senior
+B-25889,03-12-2018,2018,Dec,12,Mon,Abhishek,Gujarat,Surat,39,Senior
+B-25871,21-11-2018,2018,Nov,11,Wed,Gunjal,Gujarat,Surat,19,Young
+B-25637,26-04-2018,2018,Apr,04,Thu,Ashmi,Madhya Pradesh,Indore,18,Young
+B-25616,15-04-2018,2018,Apr,04,Sun,Kanak,Goa,Goa,35,Senior
+B-25972,23-01-2018,2018,Jan,01,Tue,Jesslyn,Rajasthan,Udaipur,31,Adult
+B-25805,05-10-2018,2018,Oct,10,Fri,Ankit,Maharashtra,Mumbai,30,Adult
+B-25860,15-11-2018,2018,Nov,11,Thu,Akshay,Tamil Nadu,Chennai,29,Adult
+B-26080,22-03-2018,2018,Mar,03,Thu,Sonakshi,Jammu and Kashmir,Kashmir,36,Senior
+B-25807,07-10-2018,2018,Oct,10,Sun,Vipul,Uttar Pradesh,Lucknow,41,Senior
+B-25734,29-07-2018,2018,Jul,07,Sun,Pranav,Madhya Pradesh,Indore,33,Adult
+B-25880,24-11-2018,2018,Nov,11,Sat,Apoorv,Rajasthan,Udaipur,49,Senior
+B-25934,04-01-2018,2018,Jan,01,Thu,Rahul,Madhya Pradesh,Indore,24,Young
+B-25913,17-12-2018,2018,Dec,12,Mon,Geetanjali,Delhi,Delhi,45,Senior
+B-25912,16-12-2018,2018,Dec,12,Sun,Preksha,Delhi,Delhi,40,Senior
+B-25824,20-10-2018,2018,Oct,10,Sat,Shyam,Madhya Pradesh,Indore,35,Senior
+B-25711,06-07-2018,2018,Jul,07,Fri,Sakshi,Madhya Pradesh,Bhopal,22,Young
+B-25864,15-11-2018,2018,Nov,11,Thu,Aromal,Maharashtra,Mumbai,46,Senior
+B-25917,21-12-2018,2018,Dec,12,Fri,Sanjay,Maharashtra,Mumbai,37,Senior
+B-26049,05-03-2018,2018,Mar,03,Mon,Lisha,Madhya Pradesh,Bhopal,35,Senior
+B-25920,24-12-2018,2018,Dec,12,Mon,Jayanti,Uttar Pradesh,Prayagraj,25,Adult
+B-25699,24-06-2018,2018,Jun,06,Sun,Kritika,Uttar Pradesh,Lucknow,42,Senior
+B-25735,30-07-2018,2018,Jul,07,Mon,Arindam,Uttar Pradesh,Lucknow,20,Young
+B-25701,26-06-2018,2018,Jun,06,Tue,Maithilee,Madhya Pradesh,Indore,50,Senior
+B-26092,27-03-2018,2018,Mar,03,Tue,Ramesh,Gujarat,Ahmedabad,50,Senior
+B-26082,23-03-2018,2018,Mar,03,Fri,Jitesh,Uttar Pradesh,Lucknow,20,Young
+B-25818,14-10-2018,2018,Oct,10,Sun,Sandeep,Madhya Pradesh,Indore,21,Young
+B-25846,03-11-2018,2018,Nov,11,Sat,Soodesh,Punjab,Chandigarh,31,Adult
+B-26011,12-02-2018,2018,Feb,02,Mon,Bharat,Gujarat,Ahmedabad,41,Senior
+B-25631,24-04-2018,2018,Apr,04,Tue,Ritu,Haryana,Chandigarh,37,Senior
+B-25606,06-04-2018,2018,Apr,04,Fri,Hazel,Karnataka,Bangalore,47,Senior
+B-25746,10-08-2018,2018,Aug,08,Fri,Shivam,Maharashtra,Pune,44,Senior
+B-26005,08-02-2018,2018,Feb,02,Thu,Parnavi,West Bengal,Kolkata,30,Adult
+B-25844,03-11-2018,2018,Nov,11,Sat,Swati,Madhya Pradesh,Indore,50,Senior
+B-25869,19-11-2018,2018,Nov,11,Mon,Parakh,Nagaland,Kohima,35,Senior
+B-26066,16-03-2018,2018,Mar,03,Fri,Priyanka,Maharashtra,Pune,33,Adult
+B-25865,15-11-2018,2018,Nov,11,Thu,Arun,Madhya Pradesh,Indore,34,Adult
+B-26039,25-02-2018,2018,Feb,02,Sun,Hemant,Kerala ,Thiruvananthapuram,23,Young
+B-25916,20-12-2018,2018,Dec,12,Thu,Utkarsh,Gujarat,Surat,33,Adult
+B-26090,27-03-2018,2018,Mar,03,Tue,Sagar,Nagaland,Kohima,22,Young
+B-25988,31-01-2018,2018,Jan,01,Wed,Nirja,Delhi,Delhi,30,Adult
+B-25906,11-12-2018,2018,Dec,12,Tue,Abhijit,Delhi,Delhi,38,Senior
+B-26017,14-02-2018,2018,Feb,02,Wed,Sonakshi,Jammu and Kashmir,Kashmir,28,Adult
+B-25644,30-04-2018,2018,Apr,04,Mon,Mayank,Maharashtra,Mumbai,45,Senior
+B-25679,04-06-2018,2018,Jun,06,Mon,Avni,Maharashtra,Mumbai,28,Adult
+B-25723,18-07-2018,2018,Jul,07,Wed,Wale,Maharashtra,Mumbai,18,Young
+B-25605,05-04-2018,2018,Apr,04,Thu,Kasheen,West Bengal,Kolkata,21,Young
+B-25792,24-09-2018,2018,Sep,09,Mon,Abhishek,Maharashtra,Mumbai,25,Adult
+B-25680,04-06-2018,2018,Jun,06,Mon,Aayushi,Madhya Pradesh,Indore,32,Adult
+B-25931,04-01-2018,2018,Jan,01,Thu,Sidharth,Maharashtra,Mumbai,26,Adult
+B-25932,04-01-2018,2018,Jan,01,Thu,Bhutekar,Madhya Pradesh,Indore,41,Senior
+B-25990,02-02-2018,2018,Feb,02,Fri,Mugdha,Delhi,Delhi,23,Young
+B-25615,15-04-2018,2018,Apr,04,Sun,Bhavna,Sikkim,Gangtok,46,Senior
+B-26031,22-02-2018,2018,Feb,02,Thu,Deepak,Madhya Pradesh,Bhopal,29,Adult
+B-25801,01-10-2018,2018,Oct,10,Mon,Aryan,Madhya Pradesh,Bhopal,23,Young
+B-25833,29-10-2018,2018,Oct,10,Mon,Krishna,Madhya Pradesh,Indore,34,Adult
+B-26077,22-03-2018,2018,Mar,03,Thu,Divsha,Rajasthan,Jaipur,49,Senior
+B-25936,05-01-2018,2018,Jan,01,Fri,Nikhil,Punjab,Chandigarh,47,Senior
+B-25938,05-01-2018,2018,Jan,01,Fri,Shikhar,Himachal Pradesh,Simla,50,Senior
+B-25716,11-07-2018,2018,Jul,07,Wed,Surabhi,Tamil Nadu,Chennai,40,Senior
+B-25740,03-08-2018,2018,Aug,08,Fri,Rane,Maharashtra,Mumbai,40,Senior
+B-25763,27-08-2018,2018,Aug,08,Mon,Noshiba,Gujarat,Ahmedabad,30,Adult
+B-25872,22-11-2018,2018,Nov,11,Thu,Saurabh,Maharashtra,Mumbai,27,Adult
+B-25879,24-11-2018,2018,Nov,11,Sat,Siddharth,Madhya Pradesh,Indore,29,Adult
+B-25926,30-12-2018,2018,Dec,12,Sun,Dipali,Madhya Pradesh,Indore,25,Adult
+B-26074,21-03-2018,2018,Mar,03,Wed,Bharat,Gujarat,Ahmedabad,19,Young
+B-25627,23-04-2018,2018,Apr,04,Mon,Hitika,Madhya Pradesh,Indore,28,Adult
+B-25940,06-01-2018,2018,Jan,01,Sat,Vivek,Goa,Goa,25,Adult
+B-26047,04-03-2018,2018,Mar,03,Sun,Ashmi,Madhya Pradesh,Indore,39,Senior
+B-26069,17-03-2018,2018,Mar,03,Sat,Sanskriti,West Bengal,Kolkata,18,Young
+B-26027,20-02-2018,2018,Feb,02,Tue,Sagar,Nagaland,Kohima,25,Adult
+B-25963,19-01-2018,2018,Jan,01,Fri,Pratiksha,Maharashtra,Mumbai,28,Adult
+B-25922,26-12-2018,2018,Dec,12,Wed,Akshata,Gujarat,Surat,50,Senior
+B-25866,16-11-2018,2018,Nov,11,Fri,Komal,Himachal Pradesh,Simla,20,Young
+B-25607,06-04-2018,2018,Apr,04,Fri,Sonakshi,Jammu and Kashmir,Kashmir,19,Young
+B-25775,08-09-2018,2018,Sep,09,Sat,Duhita,Haryana,Chandigarh,18,Young
+B-25998,04-02-2018,2018,Feb,02,Sun,Anmol,Rajasthan,Udaipur,47,Senior
+B-26062,15-03-2018,2018,Mar,03,Thu,Tushina,Goa,Goa,30,Adult
+B-25722,17-07-2018,2018,Jul,07,Tue,Inderpreet,Himachal Pradesh,Simla,32,Adult
+B-25776,09-09-2018,2018,Sep,09,Sun,Mousam,Maharashtra,Mumbai,42,Senior
+B-26032,22-02-2018,2018,Feb,02,Thu,Monisha,Rajasthan,Jaipur,50,Senior
+B-25705,30-06-2018,2018,Jun,06,Sat,Shweta,Madhya Pradesh,Indore,33,Adult
+B-25628,24-04-2018,2018,Apr,04,Tue,Pooja,Bihar,Patna,36,Senior
+B-25733,28-07-2018,2018,Jul,07,Sat,Dhirajendu,Maharashtra,Mumbai,27,Adult
+B-25647,03-05-2018,2018,May,05,Thu,Sharda,Kerala ,Thiruvananthapuram,20,Young
+B-25790,23-09-2018,2018,Sep,09,Sun,Sajal,Bihar,Patna,33,Adult
+B-25709,01-07-2018,2018,Jul,07,Sun,Aakanksha,Madhya Pradesh,Indore,26,Adult
+B-25911,15-12-2018,2018,Dec,12,Sat,Phalguni,Madhya Pradesh,Bhopal,20,Young
+B-25774,07-09-2018,2018,Sep,09,Fri,Snehal,Punjab,Chandigarh,24,Young
+B-26042,28-02-2018,2018,Feb,02,Wed,Manish,Himachal Pradesh,Simla,39,Senior
+B-25815,10-10-2018,2018,Oct,10,Wed,Harsh,Nagaland,Kohima,46,Senior
+B-25822,18-10-2018,2018,Oct,10,Thu,Tejas,Karnataka,Bangalore,22,Young
+B-26075,21-03-2018,2018,Mar,03,Wed,Pearl,Maharashtra,Pune,30,Adult
+B-25783,15-09-2018,2018,Sep,09,Sat,Shivangi,Madhya Pradesh,Indore,44,Senior
+B-26046,04-03-2018,2018,Mar,03,Sun,Nishi,Maharashtra,Mumbai,22,Young
+B-25690,15-06-2018,2018,Jun,06,Fri,Gunjan,Madhya Pradesh,Indore,18,Young
+B-25706,01-07-2018,2018,Jul,07,Sun,Swetlana,Goa,Goa,42,Senior
+B-25736,31-07-2018,2018,Jul,07,Tue,Akshat,Maharashtra,Mumbai,19,Young
+B-25720,15-07-2018,2018,Jul,07,Sun,Namrata,Punjab,Chandigarh,47,Senior
+B-25907,11-12-2018,2018,Dec,12,Tue,Jaydeep,Madhya Pradesh,Bhopal,28,Adult
+B-25719,12-07-2018,2018,Jul,07,Thu,Rashmi,Madhya Pradesh,Indore,37,Senior
+B-26013,13-02-2018,2018,Feb,02,Tue,Jahan,Madhya Pradesh,Bhopal,25,Adult
+B-26044,02-03-2018,2018,Mar,03,Fri,Sanjay,Goa,Goa,27,Adult
+B-25649,05-05-2018,2018,May,05,Sat,Rachna,Haryana,Chandigarh,38,Senior
+B-25658,14-05-2018,2018,May,05,Mon,Shefali,Rajasthan,Jaipur,26,Adult
+B-25672,28-05-2018,2018,May,05,Mon,Akanksha,Andhra Pradesh,Hyderabad,20,Young
+B-25624,22-04-2018,2018,Apr,04,Sun,Vini,Karnataka,Bangalore,40,Senior
+B-25884,28-11-2018,2018,Nov,11,Wed,Sumeet,Maharashtra,Mumbai,39,Senior
+B-25641,27-04-2018,2018,Apr,04,Fri,Parishi,West Bengal,Kolkata,47,Senior
+B-25841,01-11-2018,2018,Nov,11,Thu,Ashvini,Maharashtra,Mumbai,30,Adult
+B-25980,27-01-2018,2018,Jan,01,Sat,Shweta,Rajasthan,Udaipur,19,Young
+B-26012,13-02-2018,2018,Feb,02,Tue,Pearl,Maharashtra,Pune,20,Young
+B-26029,20-02-2018,2018,Feb,02,Tue,Ramesh,Gujarat,Ahmedabad,19,Young
+B-26071,19-03-2018,2018,Mar,03,Mon,Subhashree,Jammu and Kashmir,Kashmir,22,Young
+B-25646,01-05-2018,2018,May,05,Tue,Sonal,Bihar,Patna,28,Adult
+B-25677,02-06-2018,2018,Jun,06,Sat,Ekta,West Bengal,Kolkata,29,Adult
+B-25759,23-08-2018,2018,Aug,08,Thu,Soumya,Sikkim,Gangtok,31,Adult
+B-26059,12-03-2018,2018,Mar,03,Mon,Rachna,Haryana,Chandigarh,21,Young
+B-25632,25-04-2018,2018,Apr,04,Wed,Manish,Himachal Pradesh,Simla,47,Senior
+B-26079,22-03-2018,2018,Mar,03,Thu,Hazel,Karnataka,Bangalore,50,Senior
+B-25674,28-05-2018,2018,May,05,Mon,Mahima,Maharashtra,Pune,20,Young
+B-25965,21-01-2018,2018,Jan,01,Sun,Saloni,West Bengal,Kolkata,19,Young
+B-25732,27-07-2018,2018,Jul,07,Fri,Anubhaw,Karnataka,Bangalore,48,Senior
+B-25834,29-10-2018,2018,Oct,10,Mon,Ananya,Andhra Pradesh,Hyderabad,49,Senior
+B-25784,15-09-2018,2018,Sep,09,Sat,Rohit,Rajasthan,Jaipur,34,Adult
+B-25982,29-01-2018,2018,Jan,01,Mon,Hemangi,Delhi,Delhi,46,Senior
+B-25788,21-09-2018,2018,Sep,09,Fri,Dinesh,Tamil Nadu,Chennai,38,Senior
+B-25742,03-08-2018,2018,Aug,08,Fri,Ashwin,Goa,Goa,26,Adult
+B-26088,26-03-2018,2018,Mar,03,Mon,Bhavna,Sikkim,Gangtok,37,Senior
+B-25707,01-07-2018,2018,Jul,07,Sun,Shivani,Maharashtra,Mumbai,40,Senior
+B-25758,22-08-2018,2018,Aug,08,Wed,Shubham,Himachal Pradesh,Simla,19,Young
+B-26095,28-03-2018,2018,Mar,03,Wed,Monisha,Rajasthan,Jaipur,45,Senior
